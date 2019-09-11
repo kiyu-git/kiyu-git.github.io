@@ -18,8 +18,8 @@
   
   <entry>
     <title>link</title>
-    <link href="https://kiyu-git.github.io/webpage//link/"/>
-    <id>https://kiyu-git.github.io/webpage//link/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/link/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/link/</id>
     <published>2019-09-11T05:41:45.000Z</published>
     <updated>2019-09-11T05:46:45.000Z</updated>
     
@@ -87,8 +87,8 @@
   
   <entry>
     <title>contact</title>
-    <link href="https://kiyu-git.github.io/webpage//contact/"/>
-    <id>https://kiyu-git.github.io/webpage//contact/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/contact/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/contact/</id>
     <published>2019-09-11T05:30:06.000Z</published>
     <updated>2019-09-11T05:34:19.000Z</updated>
     
@@ -99,6 +99,29 @@
         
         
           &lt;p&gt;mail:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/about/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:43:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
         
       
     
@@ -132,64 +155,6 @@
   </entry>
   
   <entry>
-    <title>about</title>
-    <link href="https://kiyu-git.github.io/webpage//about/"/>
-    <id>https://kiyu-git.github.io/webpage//about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:43:04.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Gear Piano</title>
-    <link href="https://kiyu-git.github.io/webpage//Gear-Piano/"/>
-    <id>https://kiyu-git.github.io/webpage//Gear-Piano/</id>
-    <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-09-05T09:48:43.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
-    
-    
-      <category term="Gear Piano" scheme="https://kiyu-git.github.io/webpage/tags/Gear-Piano/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Gear Piano</title>
     <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
     <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
@@ -213,9 +178,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -225,18 +190,15 @@
   </entry>
   
   <entry>
-    <title>Sparkle</title>
-    <link href="https://kiyu-git.github.io/webpage//Sparkle/"/>
-    <id>https://kiyu-git.github.io/webpage//Sparkle/</id>
-    <published>2019-07-09T15:22:14.000Z</published>
-    <updated>2019-09-06T06:25:33.000Z</updated>
+    <title>Gear Piano</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Gear-Piano/</id>
+    <published>2019-08-04T00:59:14.000Z</published>
+    <updated>2019-09-05T09:48:43.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -251,14 +213,14 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
-      <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
     
-      <category term="Sparkle" scheme="https://kiyu-git.github.io/webpage/tags/Sparkle/"/>
+      <category term="Gear Piano" scheme="https://kiyu-git.github.io/webpage/tags/Gear-Piano/"/>
     
   </entry>
   
@@ -290,9 +252,47 @@
     </summary>
     
     
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
+      <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
+    
+    
+      <category term="Sparkle" scheme="https://kiyu-git.github.io/webpage/tags/Sparkle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sparkle</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/Sparkle/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Sparkle/</id>
+    <published>2019-07-09T15:22:14.000Z</published>
+    <updated>2019-09-06T06:25:33.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
     
@@ -303,8 +303,8 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/webpage//Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/webpage//Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
     <updated>2019-09-06T04:50:29.000Z</updated>
     
@@ -326,9 +326,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -364,9 +364,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -374,6 +374,46 @@
     
     
       <category term="Lost Connection" scheme="https://kiyu-git.github.io/webpage/tags/Lost-Connection/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Silences</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/Silences/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Silences/</id>
+    <published>2018-12-24T15:21:19.000Z</published>
+    <updated>2019-09-06T04:49:33.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
+&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+      <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
+    
+    
+      <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
     
   </entry>
   
@@ -404,9 +444,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -418,18 +458,18 @@
   </entry>
   
   <entry>
-    <title>Silences</title>
-    <link href="https://kiyu-git.github.io/webpage//Silences/"/>
-    <id>https://kiyu-git.github.io/webpage//Silences/</id>
-    <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T04:49:33.000Z</updated>
+    <title>border</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/border/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/border/</id>
+    <published>2018-10-05T09:31:25.000Z</published>
+    <updated>2019-09-05T05:39:14.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
-&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響を使った体の動きに反応する楽器による ライブパフォーマンスと観客のスマートフォンを通してみるリアルタイムなARを融合させた作品 です。近未来のライブパフォーマンスの可能性に今ある技術で挑戦しました。&lt;/p&gt;
+&lt;h3 id=&quot;現実と虚構&quot;&gt;&lt;a href=&quot;#現実と虚構&quot; class=&quot;headerlink&quot; title=&quot;現実と虚構&quot;&gt;&lt;/a&gt;現実と虚構&lt;/h3&gt;&lt;p&gt;現実と虚構との境目はなんでしょう。VRやARといった技術は虚構を現実に溶け込ませることを可能にしました。近いうちにこれらの技術はより発達し、私たちがそれが現実のものなのか虚構なのかわからなくなるほどになるかもしれません。このようなことは明らかに私たちの世界と表現を拡 張します。&lt;/p&gt;
+&lt;p&gt;他方、近年の通信技術の発展は映像をほとんど遅延なく送信できるようになりました。今までは実際に放送されてから受信するまで30秒ほどだったものが、1秒以内まで縮まりつつあります。すなわち、放送側と受信側の相互コミュニケーションが可能となるということです。&lt;/p&gt;
+&lt;p&gt;これら、ARや高速な通信技術は明らかに私たちの体験を変えて行くでしょう。&lt;br&gt;この作品では、webRTC webAR webAudio を用いて近未来のパフォーマンスを表現しました。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -444,16 +484,14 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
-      <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
+      <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
     
     
-      <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
+      <category term="border" scheme="https://kiyu-git.github.io/webpage/tags/border/"/>
     
   </entry>
   
@@ -484,47 +522,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
-      <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
-    
-    
-      <category term="border" scheme="https://kiyu-git.github.io/webpage/tags/border/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>border</title>
-    <link href="https://kiyu-git.github.io/webpage//border/"/>
-    <id>https://kiyu-git.github.io/webpage//border/</id>
-    <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-05T05:39:14.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響を使った体の動きに反応する楽器による ライブパフォーマンスと観客のスマートフォンを通してみるリアルタイムなARを融合させた作品 です。近未来のライブパフォーマンスの可能性に今ある技術で挑戦しました。&lt;/p&gt;
-&lt;h3 id=&quot;現実と虚構&quot;&gt;&lt;a href=&quot;#現実と虚構&quot; class=&quot;headerlink&quot; title=&quot;現実と虚構&quot;&gt;&lt;/a&gt;現実と虚構&lt;/h3&gt;&lt;p&gt;現実と虚構との境目はなんでしょう。VRやARといった技術は虚構を現実に溶け込ませることを可能にしました。近いうちにこれらの技術はより発達し、私たちがそれが現実のものなのか虚構なのかわからなくなるほどになるかもしれません。このようなことは明らかに私たちの世界と表現を拡 張します。&lt;/p&gt;
-&lt;p&gt;他方、近年の通信技術の発展は映像をほとんど遅延なく送信できるようになりました。今までは実際に放送されてから受信するまで30秒ほどだったものが、1秒以内まで縮まりつつあります。すなわち、放送側と受信側の相互コミュニケーションが可能となるということです。&lt;/p&gt;
-&lt;p&gt;これら、ARや高速な通信技術は明らかに私たちの体験を変えて行くでしょう。&lt;br&gt;この作品では、webRTC webAR webAudio を用いて近未来のパフォーマンスを表現しました。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
     
@@ -535,8 +535,8 @@
   
   <entry>
     <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/webpage//twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/webpage//twitter-visualization/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/twitter-visualization/</id>
     <published>2018-09-10T09:31:08.000Z</published>
     <updated>2019-09-05T16:55:43.000Z</updated>
     
@@ -566,9 +566,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -611,9 +611,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -626,8 +626,8 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
   
   <entry>
     <title>Communication-plus</title>
-    <link href="https://kiyu-git.github.io/webpage//Communication-plus/"/>
-    <id>https://kiyu-git.github.io/webpage//Communication-plus/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/Communication-plus/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Communication-plus/</id>
     <published>2018-08-04T09:30:52.000Z</published>
     <updated>2019-09-06T04:31:38.000Z</updated>
     
@@ -651,9 +651,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -686,9 +686,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
