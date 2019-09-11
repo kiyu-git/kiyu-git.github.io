@@ -178,9 +178,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
@@ -213,9 +213,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
@@ -252,9 +252,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/website/work/installation/"/>
     
@@ -290,52 +290,14 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/website/work/installation/"/>
     
     
       <category term="Sparkle" scheme="https://kiyu-git.github.io/website/tags/Sparkle/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/website//Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/website//Lost-Connection/</id>
-    <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:29.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
-&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
-    
-      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
-    
-    
-      <category term="Lost Connection" scheme="https://kiyu-git.github.io/website/tags/Lost-Connection/"/>
     
   </entry>
   
@@ -364,9 +326,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
@@ -378,18 +340,16 @@
   </entry>
   
   <entry>
-    <title>Silences</title>
-    <link href="https://kiyu-git.github.io/website/en/Silences/"/>
-    <id>https://kiyu-git.github.io/website/en/Silences/</id>
-    <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T05:22:42.000Z</updated>
+    <title>Lost Connection</title>
+    <link href="https://kiyu-git.github.io/website//Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/website//Lost-Connection/</id>
+    <published>2019-02-05T15:20:58.000Z</published>
+    <updated>2019-09-06T04:50:29.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;This work is a conceptual net art whose theme is the “silence” and published on the Internet.&lt;br&gt;This work can be enjoyed by devices that can connect the Internet such as computers and smartphones.&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;The theme of this work is what is the “silence.” In the work, the silence and noise, and also black screen and white screen that correspond to each one are irregularly repeated.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.&lt;br&gt;This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.&lt;/p&gt;
-&lt;h3 id=&quot;Format&quot;&gt;&lt;a href=&quot;#Format&quot; class=&quot;headerlink&quot; title=&quot;Format&quot;&gt;&lt;/a&gt;Format&lt;/h3&gt;&lt;p&gt;This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one’s device.&lt;br&gt;The work presented one’s device influences the sound scenery there and affect observers.&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm is a web art platform that was influenced by the culture of the internet surf club. This is established on the dat protocol which is one of the peer-to-peer protocol which realizes the vision of the open web. You can access the dat using the Beaker browser.&lt;/p&gt;
+      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
+&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -404,16 +364,16 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
       <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
     
     
-      <category term="Silences" scheme="https://kiyu-git.github.io/website/tags/Silences/"/>
+      <category term="Lost Connection" scheme="https://kiyu-git.github.io/website/tags/Lost-Connection/"/>
     
   </entry>
   
@@ -444,9 +404,49 @@
     </summary>
     
     
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
       <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
+    
+      <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
+    
+    
+      <category term="Silences" scheme="https://kiyu-git.github.io/website/tags/Silences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Silences</title>
+    <link href="https://kiyu-git.github.io/website/en/Silences/"/>
+    <id>https://kiyu-git.github.io/website/en/Silences/</id>
+    <published>2018-12-24T15:21:19.000Z</published>
+    <updated>2019-09-06T05:22:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This work is a conceptual net art whose theme is the “silence” and published on the Internet.&lt;br&gt;This work can be enjoyed by devices that can connect the Internet such as computers and smartphones.&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;The theme of this work is what is the “silence.” In the work, the silence and noise, and also black screen and white screen that correspond to each one are irregularly repeated.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.&lt;br&gt;This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.&lt;/p&gt;
+&lt;h3 id=&quot;Format&quot;&gt;&lt;a href=&quot;#Format&quot; class=&quot;headerlink&quot; title=&quot;Format&quot;&gt;&lt;/a&gt;Format&lt;/h3&gt;&lt;p&gt;This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one’s device.&lt;br&gt;The work presented one’s device influences the sound scenery there and affect observers.&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm is a web art platform that was influenced by the culture of the internet surf club. This is established on the dat protocol which is one of the peer-to-peer protocol which realizes the vision of the open web. You can access the dat using the Beaker browser.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
@@ -484,9 +484,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="performance" scheme="https://kiyu-git.github.io/website/work/performance/"/>
     
@@ -522,14 +522,59 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="performance" scheme="https://kiyu-git.github.io/website/work/performance/"/>
     
     
       <category term="border" scheme="https://kiyu-git.github.io/website/tags/border/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>twitter-visualization</title>
+    <link href="https://kiyu-git.github.io/website/en/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/website/en/twitter-visualization/</id>
+    <published>2018-09-10T09:31:08.000Z</published>
+    <updated>2019-09-05T16:55:46.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
+    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
+Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
+This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
+  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
+ Also, the relationship of the following is shown to express influencers in the bubble.
+&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
+  &lt;h3&gt;The filter bubble&lt;/h3&gt;
+  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
+    
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
+    
+      <category term="visualization" scheme="https://kiyu-git.github.io/website/work/visualization/"/>
+    
+    
+      <category term="twitter-visualization" scheme="https://kiyu-git.github.io/website/tags/twitter-visualization/"/>
     
   </entry>
   
@@ -566,54 +611,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
-    
-      <category term="visualization" scheme="https://kiyu-git.github.io/website/work/visualization/"/>
-    
-    
-      <category term="twitter-visualization" scheme="https://kiyu-git.github.io/website/tags/twitter-visualization/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/website/en/twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/website/en/twitter-visualization/</id>
-    <published>2018-09-10T09:31:08.000Z</published>
-    <updated>2019-09-05T16:55:46.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
-    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
-Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
-This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
-  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
- Also, the relationship of the following is shown to express influencers in the bubble.
-&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
-  &lt;h3&gt;The filter bubble&lt;/h3&gt;
-  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
       <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
@@ -644,9 +644,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
@@ -686,9 +686,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
