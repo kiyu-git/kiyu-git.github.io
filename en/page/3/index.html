@@ -4,20 +4,20 @@
   
 
   
-  <title>タグ: Communication | Kiyu</title>
+  <title>Kiyu</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="alternate" hreflang="ja" href="/webpage/">
   <link rel="alternate" hreflang="en" href="/webpage/en/">
   <meta name="description" content="created by Kiyu Nishida">
 <meta property="og:type" content="website">
-<meta property="og:title" content="タグ: Communication">
-<meta property="og:url" content="https://kiyu-git.github.io/webpage/tags/Communication/index.html">
+<meta property="og:title" content="Kiyu">
+<meta property="og:url" content="https://kiyu-git.github.io/webpage/en/page/3/index.html">
 <meta property="og:site_name" content="Kiyu">
 <meta property="og:description" content="created by Kiyu Nishida">
-<meta property="og:locale" content="ja">
+<meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="タグ: Communication">
+<meta name="twitter:title" content="Kiyu">
 <meta name="twitter:description" content="created by Kiyu Nishida">
 <meta name="twitter:creator" content="@kyu_yukirinrin">
   
@@ -38,8 +38,8 @@
   <body>
     
 <header>
-  <h3><a href="/webpage/work/">Kiyu Nishida</a></h3>
-  <div class="language_choice"><a id="lang_ja" href="/webpage/tags/Communication/index.html">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/webpage/en/tags/Communication/index.html">en.</a></div>
+  <h3><a href="/webpage/en/work/">Kiyu Nishida</a></h3>
+  <div class="language_choice"><a id="lang_ja" href="/webpage/page/3/index.html">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/webpage/en/page/3/index.html">en.</a></div>
   <label id="nav-open" for="nav-input"><span></span></label>
   <label class="nav-unshown" id="nav-close" for="nav-input"></label>
 </header>
@@ -52,17 +52,17 @@
 
       <div id="nav-content">
         <ul>
-        <li><a href="/webpage/about/">about</a></li>
-        <!-- <li><a href="/webpage/news/">news</a></li> -->
-        <li><a href="/webpage/link/">link</a></li>
-        <li><a href="/webpage/contact/">contact</a></li>
-        <li><a href="/webpage/work/">work</a></li>
+        <li><a href="/webpage/en/about/">about</a></li>
+        <!-- <li><a href="/webpage/en/news/">news</a></li> -->
+        <li><a href="/webpage/en/link/">link</a></li>
+        <li><a href="/webpage/en/contact/">contact</a></li>
+        <li><a href="/webpage/en/work/">work</a></li>
         <ul>
-          <li><a href="/webpage/work/video/">video</a></li>
-          <li><a href="/webpage/work/performance/">performance</a></li>
-          <li><a href="/webpage/work/installation/">installation</a></li>
-          <li><a href="/webpage/work/direction/">direction</a></li>
-          <li><a href="/webpage/work/other/">other</a></li>
+          <li><a href="/webpage/en/work/video/">video</a></li>
+          <li><a href="/webpage/en/work/performance/">performance</a></li>
+          <li><a href="/webpage/en/work/installation/">installation</a></li>
+          <li><a href="/webpage/en/work/direction/">direction</a></li>
+          <li><a href="/webpage/en/work/other/">other</a></li>
         </ul>
       </ul>
     </div>
@@ -71,7 +71,20 @@
 </div>
 
       <div class="main">
-        
+        <p>自動的に画面が遷移しない場合はURLをクリックしてください<br><a id="url"></a></p>
+<script type="text/javascript">
+  var url = location.href;
+  if(url.slice(-1) != "/"){
+    url += "/"
+  }
+  url += "work";
+  document.getElementById("url").setAttribute("href", url);
+  document.getElementById("url").innerHTML = url;
+  setTimeout(function(){
+    window.location.href = url;
+  }, 1000);
+</script>
+
       </div>
     </div>
     <!-- <footer>
