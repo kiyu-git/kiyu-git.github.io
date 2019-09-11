@@ -18,7 +18,7 @@ $(function() {
 });
 
 $(function() {
-  if(location.pathname.indexOf('/en/') == 0){
+  if(location.pathname.indexOf('/en/') == -1){
     $("#lang_en").addClass("current_lang");
     $("#lang_ja").removeClass("current_lang");
   }else{
