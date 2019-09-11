@@ -178,9 +178,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -213,9 +213,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -251,9 +251,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
     
@@ -290,9 +290,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
     
@@ -326,9 +326,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -364,9 +364,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -374,46 +374,6 @@
     
     
       <category term="Lost Connection" scheme="https://kiyu-git.github.io/webpage/tags/Lost-Connection/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Silences</title>
-    <link href="https://kiyu-git.github.io/webpage//Silences/"/>
-    <id>https://kiyu-git.github.io/webpage//Silences/</id>
-    <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T04:49:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
-&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
-    
-    
-      <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
     
   </entry>
   
@@ -444,9 +404,49 @@
     </summary>
     
     
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+      <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
+    
+    
+      <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Silences</title>
+    <link href="https://kiyu-git.github.io/webpage//Silences/"/>
+    <id>https://kiyu-git.github.io/webpage//Silences/</id>
+    <published>2018-12-24T15:21:19.000Z</published>
+    <updated>2019-09-06T04:49:33.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
+&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -484,9 +484,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
     
@@ -522,9 +522,9 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
     
@@ -565,9 +565,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -611,9 +611,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -651,9 +651,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -686,9 +686,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
