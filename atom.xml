@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kiyu</title>
-  <icon>https://github.com/kiyu-git/website.git/icon.png</icon>
+  <icon>https://kiyu-git.github.io/website/icon.png</icon>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="website/atom.xml" rel="self"/>
   
-  <link href="https://github.com/kiyu-git/website.git/"/>
+  <link href="https://kiyu-git.github.io/website/"/>
   <updated>2019-09-11T05:46:45.000Z</updated>
-  <id>https://github.com/kiyu-git/website.git/</id>
+  <id>https://kiyu-git.github.io/website/</id>
   
   <author>
     <name>Kiyu Nishida</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>link</title>
-    <link href="https://github.com/kiyu-git/website.git//link/"/>
-    <id>https://github.com/kiyu-git/website.git//link/</id>
+    <link href="https://kiyu-git.github.io/website//link/"/>
+    <id>https://kiyu-git.github.io/website//link/</id>
     <published>2019-09-11T05:41:45.000Z</published>
     <updated>2019-09-11T05:46:45.000Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>link</title>
-    <link href="https://github.com/kiyu-git/website.git/en/link/"/>
-    <id>https://github.com/kiyu-git/website.git/en/link/</id>
+    <link href="https://kiyu-git.github.io/website/en/link/"/>
+    <id>https://kiyu-git.github.io/website/en/link/</id>
     <published>2019-09-11T05:41:37.000Z</published>
     <updated>2019-09-11T05:47:04.000Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>contact</title>
-    <link href="https://github.com/kiyu-git/website.git/en/contact/"/>
-    <id>https://github.com/kiyu-git/website.git/en/contact/</id>
+    <link href="https://kiyu-git.github.io/website/en/contact/"/>
+    <id>https://kiyu-git.github.io/website/en/contact/</id>
     <published>2019-09-11T05:30:20.000Z</published>
     <updated>2019-09-11T05:34:40.000Z</updated>
     
@@ -87,8 +87,8 @@
   
   <entry>
     <title>contact</title>
-    <link href="https://github.com/kiyu-git/website.git//contact/"/>
-    <id>https://github.com/kiyu-git/website.git//contact/</id>
+    <link href="https://kiyu-git.github.io/website//contact/"/>
+    <id>https://kiyu-git.github.io/website//contact/</id>
     <published>2019-09-11T05:30:06.000Z</published>
     <updated>2019-09-11T05:34:19.000Z</updated>
     
@@ -110,31 +110,8 @@
   
   <entry>
     <title>about</title>
-    <link href="https://github.com/kiyu-git/website.git/en/about/"/>
-    <id>https://github.com/kiyu-git/website.git/en/about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:42:45.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
-    <link href="https://github.com/kiyu-git/website.git//about/"/>
-    <id>https://github.com/kiyu-git/website.git//about/</id>
+    <link href="https://kiyu-git.github.io/website//about/"/>
+    <id>https://kiyu-git.github.io/website//about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
     <updated>2019-09-11T05:43:04.000Z</updated>
     
@@ -155,9 +132,32 @@
   </entry>
   
   <entry>
+    <title>about</title>
+    <link href="https://kiyu-git.github.io/website/en/about/"/>
+    <id>https://kiyu-git.github.io/website/en/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:42:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Gear Piano</title>
-    <link href="https://github.com/kiyu-git/website.git//Gear-Piano/"/>
-    <id>https://github.com/kiyu-git/website.git//Gear-Piano/</id>
+    <link href="https://kiyu-git.github.io/website//Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/website//Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
     <updated>2019-09-05T09:48:43.000Z</updated>
     
@@ -167,7 +167,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -178,21 +178,21 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
     
-      <category term="Gear Piano" scheme="https://github.com/kiyu-git/website.git/tags/Gear-Piano/"/>
+      <category term="Gear Piano" scheme="https://kiyu-git.github.io/website/tags/Gear-Piano/"/>
     
   </entry>
   
   <entry>
     <title>Gear Piano</title>
-    <link href="https://github.com/kiyu-git/website.git/en/Gear-Piano/"/>
-    <id>https://github.com/kiyu-git/website.git/en/Gear-Piano/</id>
+    <link href="https://kiyu-git.github.io/website/en/Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/website/en/Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
     <updated>2019-09-05T09:49:39.000Z</updated>
     
@@ -202,7 +202,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -213,21 +213,21 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
     
-      <category term="Gear Piano" scheme="https://github.com/kiyu-git/website.git/tags/Gear-Piano/"/>
+      <category term="Gear Piano" scheme="https://kiyu-git.github.io/website/tags/Gear-Piano/"/>
     
   </entry>
   
   <entry>
     <title>Sparkle</title>
-    <link href="https://github.com/kiyu-git/website.git/en/Sparkle/"/>
-    <id>https://github.com/kiyu-git/website.git/en/Sparkle/</id>
+    <link href="https://kiyu-git.github.io/website/en/Sparkle/"/>
+    <id>https://kiyu-git.github.io/website/en/Sparkle/</id>
     <published>2019-07-09T15:22:14.000Z</published>
     <updated>2019-09-06T06:24:25.000Z</updated>
     
@@ -241,7 +241,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -252,21 +252,21 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="installation" scheme="https://github.com/kiyu-git/website.git/work/installation/"/>
+      <category term="installation" scheme="https://kiyu-git.github.io/website/work/installation/"/>
     
     
-      <category term="Sparkle" scheme="https://github.com/kiyu-git/website.git/tags/Sparkle/"/>
+      <category term="Sparkle" scheme="https://kiyu-git.github.io/website/tags/Sparkle/"/>
     
   </entry>
   
   <entry>
     <title>Sparkle</title>
-    <link href="https://github.com/kiyu-git/website.git//Sparkle/"/>
-    <id>https://github.com/kiyu-git/website.git//Sparkle/</id>
+    <link href="https://kiyu-git.github.io/website//Sparkle/"/>
+    <id>https://kiyu-git.github.io/website//Sparkle/</id>
     <published>2019-07-09T15:22:14.000Z</published>
     <updated>2019-09-06T06:25:33.000Z</updated>
     
@@ -279,7 +279,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -290,21 +290,21 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="installation" scheme="https://github.com/kiyu-git/website.git/work/installation/"/>
+      <category term="installation" scheme="https://kiyu-git.github.io/website/work/installation/"/>
     
     
-      <category term="Sparkle" scheme="https://github.com/kiyu-git/website.git/tags/Sparkle/"/>
+      <category term="Sparkle" scheme="https://kiyu-git.github.io/website/tags/Sparkle/"/>
     
   </entry>
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://github.com/kiyu-git/website.git//Lost-Connection/"/>
-    <id>https://github.com/kiyu-git/website.git//Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/website//Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/website//Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
     <updated>2019-09-06T04:50:29.000Z</updated>
     
@@ -315,7 +315,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -326,23 +326,23 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+      <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
     
     
-      <category term="Lost Connection" scheme="https://github.com/kiyu-git/website.git/tags/Lost-Connection/"/>
+      <category term="Lost Connection" scheme="https://kiyu-git.github.io/website/tags/Lost-Connection/"/>
     
   </entry>
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://github.com/kiyu-git/website.git/en/Lost-Connection/"/>
-    <id>https://github.com/kiyu-git/website.git/en/Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/website/en/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/website/en/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
     <updated>2019-09-06T04:50:14.000Z</updated>
     
@@ -353,7 +353,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -364,23 +364,23 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+      <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
     
     
-      <category term="Lost Connection" scheme="https://github.com/kiyu-git/website.git/tags/Lost-Connection/"/>
+      <category term="Lost Connection" scheme="https://kiyu-git.github.io/website/tags/Lost-Connection/"/>
     
   </entry>
   
   <entry>
     <title>Silences</title>
-    <link href="https://github.com/kiyu-git/website.git/en/Silences/"/>
-    <id>https://github.com/kiyu-git/website.git/en/Silences/</id>
+    <link href="https://kiyu-git.github.io/website/en/Silences/"/>
+    <id>https://kiyu-git.github.io/website/en/Silences/</id>
     <published>2018-12-24T15:21:19.000Z</published>
     <updated>2019-09-06T05:22:42.000Z</updated>
     
@@ -393,7 +393,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -404,23 +404,23 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+      <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
     
     
-      <category term="Silences" scheme="https://github.com/kiyu-git/website.git/tags/Silences/"/>
+      <category term="Silences" scheme="https://kiyu-git.github.io/website/tags/Silences/"/>
     
   </entry>
   
   <entry>
     <title>Silences</title>
-    <link href="https://github.com/kiyu-git/website.git//Silences/"/>
-    <id>https://github.com/kiyu-git/website.git//Silences/</id>
+    <link href="https://kiyu-git.github.io/website//Silences/"/>
+    <id>https://kiyu-git.github.io/website//Silences/</id>
     <published>2018-12-24T15:21:19.000Z</published>
     <updated>2019-09-06T04:49:33.000Z</updated>
     
@@ -433,7 +433,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -444,61 +444,23 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
-    
-    
-      <category term="Silences" scheme="https://github.com/kiyu-git/website.git/tags/Silences/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>border</title>
-    <link href="https://github.com/kiyu-git/website.git/en/border/"/>
-    <id>https://github.com/kiyu-git/website.git/en/border/</id>
-    <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-05T05:41:44.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This piece consists of two parts. One is the live performance which is the ambisonic 3D audio controlled by body music instrument. The other is AR (augmented reality) which can watch through smartphones which audience have. This piece is a challenge for the possibility of live performance in the near future.&lt;/p&gt;
-&lt;h3 id=&quot;Reality-and-Fiction&quot;&gt;&lt;a href=&quot;#Reality-and-Fiction&quot; class=&quot;headerlink&quot; title=&quot;Reality and Fiction&quot;&gt;&lt;/a&gt;Reality and Fiction&lt;/h3&gt;&lt;p&gt;What is the “border” between reality and fiction. VR or AR made it possible to integrate fiction into our real world. In the near future, these technologies will develop more, might make it possible not to be able to distinguish fiction from real. These technologies absolutely expand our world and expression.&lt;/p&gt;
-&lt;p&gt;On the other hand, the development of communication technology is making it possible to broadcast video with low latency. So far, we received a video about in 30 seconds behind transmitting, but now, we can receive in 1 second. It means we can interact between broadcaster and receiver in real time.&lt;/p&gt;
-&lt;p&gt;These technologies will gradually change our experience.&lt;br&gt;In this piece, I expressed the futuristic live performance using webRTC, webAR and webAudio.&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
+      <category term="net art" scheme="https://kiyu-git.github.io/website/work/net-art/"/>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
-    
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
-    
-      <category term="performance" scheme="https://github.com/kiyu-git/website.git/work/performance/"/>
-    
-    
-      <category term="border" scheme="https://github.com/kiyu-git/website.git/tags/border/"/>
+      <category term="Silences" scheme="https://kiyu-git.github.io/website/tags/Silences/"/>
     
   </entry>
   
   <entry>
     <title>border</title>
-    <link href="https://github.com/kiyu-git/website.git//border/"/>
-    <id>https://github.com/kiyu-git/website.git//border/</id>
+    <link href="https://kiyu-git.github.io/website//border/"/>
+    <id>https://kiyu-git.github.io/website//border/</id>
     <published>2018-10-05T09:31:25.000Z</published>
     <updated>2019-09-05T05:39:14.000Z</updated>
     
@@ -511,7 +473,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -522,21 +484,59 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="performance" scheme="https://github.com/kiyu-git/website.git/work/performance/"/>
+      <category term="performance" scheme="https://kiyu-git.github.io/website/work/performance/"/>
     
     
-      <category term="border" scheme="https://github.com/kiyu-git/website.git/tags/border/"/>
+      <category term="border" scheme="https://kiyu-git.github.io/website/tags/border/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>border</title>
+    <link href="https://kiyu-git.github.io/website/en/border/"/>
+    <id>https://kiyu-git.github.io/website/en/border/</id>
+    <published>2018-10-05T09:31:25.000Z</published>
+    <updated>2019-09-05T05:41:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This piece consists of two parts. One is the live performance which is the ambisonic 3D audio controlled by body music instrument. The other is AR (augmented reality) which can watch through smartphones which audience have. This piece is a challenge for the possibility of live performance in the near future.&lt;/p&gt;
+&lt;h3 id=&quot;Reality-and-Fiction&quot;&gt;&lt;a href=&quot;#Reality-and-Fiction&quot; class=&quot;headerlink&quot; title=&quot;Reality and Fiction&quot;&gt;&lt;/a&gt;Reality and Fiction&lt;/h3&gt;&lt;p&gt;What is the “border” between reality and fiction. VR or AR made it possible to integrate fiction into our real world. In the near future, these technologies will develop more, might make it possible not to be able to distinguish fiction from real. These technologies absolutely expand our world and expression.&lt;/p&gt;
+&lt;p&gt;On the other hand, the development of communication technology is making it possible to broadcast video with low latency. So far, we received a video about in 30 seconds behind transmitting, but now, we can receive in 1 second. It means we can interact between broadcaster and receiver in real time.&lt;/p&gt;
+&lt;p&gt;These technologies will gradually change our experience.&lt;br&gt;In this piece, I expressed the futuristic live performance using webRTC, webAR and webAudio.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
+    
+      <category term="performance" scheme="https://kiyu-git.github.io/website/work/performance/"/>
+    
+    
+      <category term="border" scheme="https://kiyu-git.github.io/website/tags/border/"/>
     
   </entry>
   
   <entry>
     <title>twitter-visualization</title>
-    <link href="https://github.com/kiyu-git/website.git//twitter-visualization/"/>
-    <id>https://github.com/kiyu-git/website.git//twitter-visualization/</id>
+    <link href="https://kiyu-git.github.io/website//twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/website//twitter-visualization/</id>
     <published>2018-09-10T09:31:08.000Z</published>
     <updated>2019-09-05T16:55:43.000Z</updated>
     
@@ -555,7 +555,7 @@
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -566,23 +566,23 @@
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="visualization" scheme="https://github.com/kiyu-git/website.git/work/visualization/"/>
+      <category term="visualization" scheme="https://kiyu-git.github.io/website/work/visualization/"/>
     
     
-      <category term="twitter-visualization" scheme="https://github.com/kiyu-git/website.git/tags/twitter-visualization/"/>
+      <category term="twitter-visualization" scheme="https://kiyu-git.github.io/website/tags/twitter-visualization/"/>
     
   </entry>
   
   <entry>
     <title>twitter-visualization</title>
-    <link href="https://github.com/kiyu-git/website.git/en/twitter-visualization/"/>
-    <id>https://github.com/kiyu-git/website.git/en/twitter-visualization/</id>
+    <link href="https://kiyu-git.github.io/website/en/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/website/en/twitter-visualization/</id>
     <published>2018-09-10T09:31:08.000Z</published>
     <updated>2019-09-05T16:55:46.000Z</updated>
     
@@ -600,7 +600,7 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -611,23 +611,23 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="visualization" scheme="https://github.com/kiyu-git/website.git/work/visualization/"/>
+      <category term="visualization" scheme="https://kiyu-git.github.io/website/work/visualization/"/>
     
     
-      <category term="twitter-visualization" scheme="https://github.com/kiyu-git/website.git/tags/twitter-visualization/"/>
+      <category term="twitter-visualization" scheme="https://kiyu-git.github.io/website/tags/twitter-visualization/"/>
     
   </entry>
   
   <entry>
     <title>Communication-plus</title>
-    <link href="https://github.com/kiyu-git/website.git/en/Communication-plus/"/>
-    <id>https://github.com/kiyu-git/website.git/en/Communication-plus/</id>
+    <link href="https://kiyu-git.github.io/website/en/Communication-plus/"/>
+    <id>https://kiyu-git.github.io/website/en/Communication-plus/</id>
     <published>2018-08-04T09:30:52.000Z</published>
     <updated>2019-09-06T04:30:35.000Z</updated>
     
@@ -644,25 +644,25 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/work/3D-Audio/"/>
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/website/work/3D-Audio/"/>
     
     
-      <category term="Communication+" scheme="https://github.com/kiyu-git/website.git/tags/Communication/"/>
+      <category term="Communication+" scheme="https://kiyu-git.github.io/website/tags/Communication/"/>
     
-      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/tags/3D-Audio/"/>
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/website/tags/3D-Audio/"/>
     
   </entry>
   
   <entry>
     <title>Communication-plus</title>
-    <link href="https://github.com/kiyu-git/website.git//Communication-plus/"/>
-    <id>https://github.com/kiyu-git/website.git//Communication-plus/</id>
+    <link href="https://kiyu-git.github.io/website//Communication-plus/"/>
+    <id>https://kiyu-git.github.io/website//Communication-plus/</id>
     <published>2018-08-04T09:30:52.000Z</published>
     <updated>2019-09-06T04:31:38.000Z</updated>
     
@@ -675,7 +675,7 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+&lt;img src=&quot;website/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
 &lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
 
@@ -686,18 +686,18 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+      <category term="news" scheme="https://kiyu-git.github.io/website/news/"/>
     
-      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/website/work/"/>
     
-      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+      <category term="other" scheme="https://kiyu-git.github.io/website/work/other/"/>
     
-      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/work/3D-Audio/"/>
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/website/work/3D-Audio/"/>
     
     
-      <category term="Communication+" scheme="https://github.com/kiyu-git/website.git/tags/Communication/"/>
+      <category term="Communication+" scheme="https://kiyu-git.github.io/website/tags/Communication/"/>
     
-      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/tags/3D-Audio/"/>
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/website/tags/3D-Audio/"/>
     
   </entry>
   
