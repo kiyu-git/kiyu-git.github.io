@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kiyu</title>
+  <icon>https://github.com/kiyu-git/website.git/icon.png</icon>
+  
+  <link href="website.git/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/kiyu-git/website.git/"/>
+  <updated>2019-09-11T05:46:45.000Z</updated>
+  <id>https://github.com/kiyu-git/website.git/</id>
+  
+  <author>
+    <name>Kiyu Nishida</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>link</title>
+    <link href="https://github.com/kiyu-git/website.git//link/"/>
+    <id>https://github.com/kiyu-git/website.git//link/</id>
+    <published>2019-09-11T05:41:45.000Z</published>
+    <updated>2019-09-11T05:46:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;SNS&quot;&gt;&lt;a href=&quot;#SNS&quot; class=&quot;headerlink&quot; title=&quot;SNS&quot;&gt;&lt;/a&gt;SNS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/kyu_yukirinrin&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>link</title>
+    <link href="https://github.com/kiyu-git/website.git/en/link/"/>
+    <id>https://github.com/kiyu-git/website.git/en/link/</id>
+    <published>2019-09-11T05:41:37.000Z</published>
+    <updated>2019-09-11T05:47:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;SNS&quot;&gt;&lt;a href=&quot;#SNS&quot; class=&quot;headerlink&quot; title=&quot;SNS&quot;&gt;&lt;/a&gt;SNS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/kyu_yukirinrin&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>contact</title>
+    <link href="https://github.com/kiyu-git/website.git/en/contact/"/>
+    <id>https://github.com/kiyu-git/website.git/en/contact/</id>
+    <published>2019-09-11T05:30:20.000Z</published>
+    <updated>2019-09-11T05:34:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;mail:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>contact</title>
+    <link href="https://github.com/kiyu-git/website.git//contact/"/>
+    <id>https://github.com/kiyu-git/website.git//contact/</id>
+    <published>2019-09-11T05:30:06.000Z</published>
+    <updated>2019-09-11T05:34:19.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;mail:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://github.com/kiyu-git/website.git/en/about/"/>
+    <id>https://github.com/kiyu-git/website.git/en/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:42:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://github.com/kiyu-git/website.git//about/"/>
+    <id>https://github.com/kiyu-git/website.git//about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:43:04.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Gear Piano</title>
+    <link href="https://github.com/kiyu-git/website.git//Gear-Piano/"/>
+    <id>https://github.com/kiyu-git/website.git//Gear-Piano/</id>
+    <published>2019-08-04T00:59:14.000Z</published>
+    <updated>2019-09-05T09:48:43.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+    
+      <category term="Gear Piano" scheme="https://github.com/kiyu-git/website.git/tags/Gear-Piano/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gear Piano</title>
+    <link href="https://github.com/kiyu-git/website.git/en/Gear-Piano/"/>
+    <id>https://github.com/kiyu-git/website.git/en/Gear-Piano/</id>
+    <published>2019-08-04T00:59:14.000Z</published>
+    <updated>2019-09-05T09:49:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;work in progress&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+    
+      <category term="Gear Piano" scheme="https://github.com/kiyu-git/website.git/tags/Gear-Piano/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sparkle</title>
+    <link href="https://github.com/kiyu-git/website.git/en/Sparkle/"/>
+    <id>https://github.com/kiyu-git/website.git/en/Sparkle/</id>
+    <published>2019-07-09T15:22:14.000Z</published>
+    <updated>2019-09-06T06:24:25.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Look the world through holes.&lt;br&gt;Ah, human are beautiful.&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work consists of three peep boxes. The author expresses a “sparkle” of the mental world. Each of the peep boxes is named “pray or entrance,” “memory,” “dialogue.” Those three are supposed to watch in order. In “pray or entrance,” a tiny light that looks dark unless you look closely. In “memory,” multiple bright lights make as if abstract painting in the box. In “dialogue,” Your eye is illuminated and reflected on a wall in the box.&lt;br&gt;Through those works and a caption, the author encourages observers to consider the aesthetics of the mental. And, he claims the mental world of the human is beautiful.&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
+&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="installation" scheme="https://github.com/kiyu-git/website.git/work/installation/"/>
+    
+    
+      <category term="Sparkle" scheme="https://github.com/kiyu-git/website.git/tags/Sparkle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sparkle</title>
+    <link href="https://github.com/kiyu-git/website.git//Sparkle/"/>
+    <id>https://github.com/kiyu-git/website.git//Sparkle/</id>
+    <published>2019-07-09T15:22:14.000Z</published>
+    <updated>2019-09-06T06:25:33.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="installation" scheme="https://github.com/kiyu-git/website.git/work/installation/"/>
+    
+    
+      <category term="Sparkle" scheme="https://github.com/kiyu-git/website.git/tags/Sparkle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lost Connection</title>
+    <link href="https://github.com/kiyu-git/website.git/en/Lost-Connection/"/>
+    <id>https://github.com/kiyu-git/website.git/en/Lost-Connection/</id>
+    <published>2019-02-05T15:20:58.000Z</published>
+    <updated>2019-09-06T04:50:14.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
+&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+    
+    
+      <category term="Lost Connection" scheme="https://github.com/kiyu-git/website.git/tags/Lost-Connection/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lost Connection</title>
+    <link href="https://github.com/kiyu-git/website.git//Lost-Connection/"/>
+    <id>https://github.com/kiyu-git/website.git//Lost-Connection/</id>
+    <published>2019-02-05T15:20:58.000Z</published>
+    <updated>2019-09-06T04:50:29.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
+&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+    
+    
+      <category term="Lost Connection" scheme="https://github.com/kiyu-git/website.git/tags/Lost-Connection/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Silences</title>
+    <link href="https://github.com/kiyu-git/website.git//Silences/"/>
+    <id>https://github.com/kiyu-git/website.git//Silences/</id>
+    <published>2018-12-24T15:21:19.000Z</published>
+    <updated>2019-09-06T04:49:33.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
+&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+    
+    
+      <category term="Silences" scheme="https://github.com/kiyu-git/website.git/tags/Silences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Silences</title>
+    <link href="https://github.com/kiyu-git/website.git/en/Silences/"/>
+    <id>https://github.com/kiyu-git/website.git/en/Silences/</id>
+    <published>2018-12-24T15:21:19.000Z</published>
+    <updated>2019-09-06T05:22:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This work is a conceptual net art whose theme is the “silence” and published on the Internet.&lt;br&gt;This work can be enjoyed by devices that can connect the Internet such as computers and smartphones.&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;The theme of this work is what is the “silence.” In the work, the silence and noise, and also black screen and white screen that correspond to each one are irregularly repeated.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.&lt;br&gt;This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.&lt;/p&gt;
+&lt;h3 id=&quot;Format&quot;&gt;&lt;a href=&quot;#Format&quot; class=&quot;headerlink&quot; title=&quot;Format&quot;&gt;&lt;/a&gt;Format&lt;/h3&gt;&lt;p&gt;This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one’s device.&lt;br&gt;The work presented one’s device influences the sound scenery there and affect observers.&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm is a web art platform that was influenced by the culture of the internet surf club. This is established on the dat protocol which is one of the peer-to-peer protocol which realizes the vision of the open web. You can access the dat using the Beaker browser.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="net art" scheme="https://github.com/kiyu-git/website.git/work/net-art/"/>
+    
+    
+      <category term="Silences" scheme="https://github.com/kiyu-git/website.git/tags/Silences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>border</title>
+    <link href="https://github.com/kiyu-git/website.git//border/"/>
+    <id>https://github.com/kiyu-git/website.git//border/</id>
+    <published>2018-10-05T09:31:25.000Z</published>
+    <updated>2019-09-05T05:39:14.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響を使った体の動きに反応する楽器による ライブパフォーマンスと観客のスマートフォンを通してみるリアルタイムなARを融合させた作品 です。近未来のライブパフォーマンスの可能性に今ある技術で挑戦しました。&lt;/p&gt;
+&lt;h3 id=&quot;現実と虚構&quot;&gt;&lt;a href=&quot;#現実と虚構&quot; class=&quot;headerlink&quot; title=&quot;現実と虚構&quot;&gt;&lt;/a&gt;現実と虚構&lt;/h3&gt;&lt;p&gt;現実と虚構との境目はなんでしょう。VRやARといった技術は虚構を現実に溶け込ませることを可能にしました。近いうちにこれらの技術はより発達し、私たちがそれが現実のものなのか虚構なのかわからなくなるほどになるかもしれません。このようなことは明らかに私たちの世界と表現を拡 張します。&lt;/p&gt;
+&lt;p&gt;他方、近年の通信技術の発展は映像をほとんど遅延なく送信できるようになりました。今までは実際に放送されてから受信するまで30秒ほどだったものが、1秒以内まで縮まりつつあります。すなわち、放送側と受信側の相互コミュニケーションが可能となるということです。&lt;/p&gt;
+&lt;p&gt;これら、ARや高速な通信技術は明らかに私たちの体験を変えて行くでしょう。&lt;br&gt;この作品では、webRTC webAR webAudio を用いて近未来のパフォーマンスを表現しました。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="performance" scheme="https://github.com/kiyu-git/website.git/work/performance/"/>
+    
+    
+      <category term="border" scheme="https://github.com/kiyu-git/website.git/tags/border/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>border</title>
+    <link href="https://github.com/kiyu-git/website.git/en/border/"/>
+    <id>https://github.com/kiyu-git/website.git/en/border/</id>
+    <published>2018-10-05T09:31:25.000Z</published>
+    <updated>2019-09-05T05:41:44.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;This piece consists of two parts. One is the live performance which is the ambisonic 3D audio controlled by body music instrument. The other is AR (augmented reality) which can watch through smartphones which audience have. This piece is a challenge for the possibility of live performance in the near future.&lt;/p&gt;
+&lt;h3 id=&quot;Reality-and-Fiction&quot;&gt;&lt;a href=&quot;#Reality-and-Fiction&quot; class=&quot;headerlink&quot; title=&quot;Reality and Fiction&quot;&gt;&lt;/a&gt;Reality and Fiction&lt;/h3&gt;&lt;p&gt;What is the “border” between reality and fiction. VR or AR made it possible to integrate fiction into our real world. In the near future, these technologies will develop more, might make it possible not to be able to distinguish fiction from real. These technologies absolutely expand our world and expression.&lt;/p&gt;
+&lt;p&gt;On the other hand, the development of communication technology is making it possible to broadcast video with low latency. So far, we received a video about in 30 seconds behind transmitting, but now, we can receive in 1 second. It means we can interact between broadcaster and receiver in real time.&lt;/p&gt;
+&lt;p&gt;These technologies will gradually change our experience.&lt;br&gt;In this piece, I expressed the futuristic live performance using webRTC, webAR and webAudio.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="performance" scheme="https://github.com/kiyu-git/website.git/work/performance/"/>
+    
+    
+      <category term="border" scheme="https://github.com/kiyu-git/website.git/tags/border/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>twitter-visualization</title>
+    <link href="https://github.com/kiyu-git/website.git/en/twitter-visualization/"/>
+    <id>https://github.com/kiyu-git/website.git/en/twitter-visualization/</id>
+    <published>2018-09-10T09:31:08.000Z</published>
+    <updated>2019-09-05T16:55:46.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
+    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
+Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
+This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
+  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
+ Also, the relationship of the following is shown to express influencers in the bubble.
+&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
+  &lt;h3&gt;The filter bubble&lt;/h3&gt;
+  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="visualization" scheme="https://github.com/kiyu-git/website.git/work/visualization/"/>
+    
+    
+      <category term="twitter-visualization" scheme="https://github.com/kiyu-git/website.git/tags/twitter-visualization/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>twitter-visualization</title>
+    <link href="https://github.com/kiyu-git/website.git//twitter-visualization/"/>
+    <id>https://github.com/kiyu-git/website.git//twitter-visualization/</id>
+    <published>2018-09-10T09:31:08.000Z</published>
+    <updated>2019-09-05T16:55:43.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3&gt;フィルターバブルの可視化&lt;/h3&gt;
+&lt;p&gt;この作品ではtwitterでのフィルターバブルを可視化しました。twitterでは自分の好みに合わせて他の人をフォローします。そして私たちはその人たちが発信する情報を集めたタイムラインから情報を得ます。その結果、私たちが好む情報のみが表示され、それと対立する意見は入ってきにくくなります。
+これはアルゴリズムによって私たちの知らないところで作られたフィルターではなく、私たちが作ったフィルターなのですが、twitterを見ていると、このフィルターを忘れて、自分のバブルに閉じこもり、自分のバブルが全体の意見だと思っているような発言、または攻撃が見受けられます。
+この作品ではそのようなフィルターバブルを可視化しました。&lt;/p&gt;&lt;p&gt;
+この作品は、インタラクティブな作品で、鑑賞者の参加によって成り立ちます。参加者が自分のtwitterアカウントを入力すると、その人を表すポイントが示されます。この位置は同じようなバブル(コミュニティー)に属している人同士ほど近くに表示され、それはバブルを示しています。またフォロー関係を可視化することで、どの人がどのバブルに影響を及ぼしているのかも可視化しました。
+&lt;/p&gt;&lt;p&gt;
+バブルフィルターはインターネットの中だけでなくリアルな社会に対しても当てはめられるかもしれません。
+インターネットはそのリアルの一部を誇張し切り取ったものなのなのかもしれません。&lt;/p&gt;
+&lt;h3&gt;フィルターバブル&lt;/h3&gt;
+&lt;p&gt;フィルターバブルとはイーラリー・パリサーが2011年に出版した『The Filter Bubble（邦題: 閉じこもるインターネット）』のなかで提唱した新しい言葉です。インターネット上のサービスのパーソナライズが引き起こす問題を表した言葉です。例えばGoogleの検索結果、Facebookのニュースフィードはアルゴリズムによって、パーソナライズされ、ユーザーが欲しいと思われる情報のみが表示されます。それに加えて私たちは、何が削除されたかわかりません。このような機能をフィルターバブルと呼びます。この結果、ユーザーは自分の意見と対立する情報に触れることができなくなり、また同じような意見を持つ人たちだけが集まり、そこで孤立した集団が形成されます。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="visualization" scheme="https://github.com/kiyu-git/website.git/work/visualization/"/>
+    
+    
+      <category term="twitter-visualization" scheme="https://github.com/kiyu-git/website.git/tags/twitter-visualization/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Communication-plus</title>
+    <link href="https://github.com/kiyu-git/website.git//Communication-plus/"/>
+    <id>https://github.com/kiyu-git/website.git//Communication-plus/</id>
+    <published>2018-08-04T09:30:52.000Z</published>
+    <updated>2019-09-06T04:31:38.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響と、観客のスマートフォンを使ったスマホVRによる作品です。作品が始まる前に観客にあるwebサイトにつないでもらいそのwebサイトを経由して、曲が進むのと同時にVR映像を再生、また観客のVR内での位置を表す円の色を変化させることによってVRと現実とをつなげました。観客が作品の一部に参加できるインタラクティブな作品です。VR映像と3D音響を使うことによって没入感の高い作品となっています。&lt;/p&gt;
+&lt;p&gt;観客は自分の座っている位置を入力します。これによって、観客のVR内での位置を表す円柱が表示されます。これによりVRと現実とをつなげました。また曲に合わせて色を変化させることによってよりインタラクティブに楽しる作品にしました。&lt;/p&gt;
+&lt;p&gt;自分の足元に見える円がVR空間内で、自分の位置を示す目印で、遠くに見える円柱は、他の観客を示しています。&lt;/p&gt;
+&lt;p&gt;このビデオでは、実際のVR映像を展開した映像に、ダミーヘッドで録音した映像を合わせています。一部スマホのキャプチャーを混ぜ説明しやすくしています。ヘッドホンやイヤホンなどを通して聴くと、より臨場感が味わえると思います。Communicationと本作品は同じ曲を用いていますが、インタラクティブ部分が異なる作品です。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;website.git/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/work/3D-Audio/"/>
+    
+    
+      <category term="Communication+" scheme="https://github.com/kiyu-git/website.git/tags/Communication/"/>
+    
+      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/tags/3D-Audio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Communication-plus</title>
+    <link href="https://github.com/kiyu-git/website.git/en/Communication-plus/"/>
+    <id>https://github.com/kiyu-git/website.git/en/Communication-plus/</id>
+    <published>2018-08-04T09:30:52.000Z</published>
+    <updated>2019-09-06T04:30:35.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is an interactive piece that uses both ambisonic 3D audio and web VR. The audience watched VR using their smartphone. Before
+        
+      
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://github.com/kiyu-git/website.git/news/"/>
+    
+      <category term="work" scheme="https://github.com/kiyu-git/website.git/work/"/>
+    
+      <category term="other" scheme="https://github.com/kiyu-git/website.git/work/other/"/>
+    
+      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/work/3D-Audio/"/>
+    
+    
+      <category term="Communication+" scheme="https://github.com/kiyu-git/website.git/tags/Communication/"/>
+    
+      <category term="3D Audio" scheme="https://github.com/kiyu-git/website.git/tags/3D-Audio/"/>
+    
+  </entry>
+  
+</feed>
