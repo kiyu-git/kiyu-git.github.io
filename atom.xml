@@ -110,29 +110,6 @@
   
   <entry>
     <title>about</title>
-    <link href="https://kiyu-git.github.io/webpage/en/about/"/>
-    <id>https://kiyu-git.github.io/webpage/en/about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:42:45.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
     <link href="https://kiyu-git.github.io/webpage/ja/about/"/>
     <id>https://kiyu-git.github.io/webpage/ja/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
@@ -145,6 +122,29 @@
         
         
           &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://kiyu-git.github.io/webpage/en/about/"/>
+    <id>https://kiyu-git.github.io/webpage/en/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:42:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
         
       
     
@@ -303,15 +303,15 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:14.000Z</updated>
+    <updated>2019-09-06T04:50:29.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
-&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
+      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
+&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -341,15 +341,15 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/webpage/en/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:29.000Z</updated>
+    <updated>2019-09-06T04:50:14.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
-&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
+      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
+&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -626,41 +626,6 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
   
   <entry>
     <title>Communication-plus</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Communication-plus/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Communication-plus/</id>
-    <published>2018-08-04T09:30:52.000Z</published>
-    <updated>2019-09-06T04:30:35.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;This is an interactive piece that uses both ambisonic 3D audio and web VR. The audience watched VR using their smartphone. Before
-        
-      
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
-    
-      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/work/3D-Audio/"/>
-    
-    
-      <category term="Communication+" scheme="https://kiyu-git.github.io/webpage/tags/Communication/"/>
-    
-      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/tags/3D-Audio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Communication-plus</title>
     <link href="https://kiyu-git.github.io/webpage/ja/Communication-plus/"/>
     <id>https://kiyu-git.github.io/webpage/ja/Communication-plus/</id>
     <published>2018-08-04T09:30:52.000Z</published>
@@ -682,6 +647,41 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
 &lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/work/3D-Audio/"/>
+    
+    
+      <category term="Communication+" scheme="https://kiyu-git.github.io/webpage/tags/Communication/"/>
+    
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/tags/3D-Audio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Communication-plus</title>
+    <link href="https://kiyu-git.github.io/webpage/en/Communication-plus/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Communication-plus/</id>
+    <published>2018-08-04T09:30:52.000Z</published>
+    <updated>2019-09-06T04:30:35.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is an interactive piece that uses both ambisonic 3D audio and web VR. The audience watched VR using their smartphone. Before
+        
+      
     
     </summary>
     
