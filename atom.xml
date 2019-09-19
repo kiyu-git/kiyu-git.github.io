@@ -110,29 +110,6 @@
   
   <entry>
     <title>about</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/about/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:43:04.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
     <link href="https://kiyu-git.github.io/webpage/en/about/"/>
     <id>https://kiyu-git.github.io/webpage/en/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
@@ -155,15 +132,38 @@
   </entry>
   
   <entry>
-    <title>Gear Piano</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/Gear-Piano/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/Gear-Piano/</id>
-    <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-09-11T09:36:20.000Z</updated>
+    <title>about</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/about/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:43:04.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Gear Piano</title>
+    <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
+    <published>2019-08-04T00:59:14.000Z</published>
+    <updated>2019-09-05T09:49:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;work in progress&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -191,14 +191,14 @@
   
   <entry>
     <title>Gear Piano</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-09-05T09:49:39.000Z</updated>
+    <updated>2019-09-11T09:36:20.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;work in progress&lt;/p&gt;
+      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -303,15 +303,15 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:14.000Z</updated>
+    <updated>2019-09-06T04:50:29.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
-&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
+      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
+&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -341,15 +341,15 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
+    <link href="https://kiyu-git.github.io/webpage/en/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:29.000Z</updated>
+    <updated>2019-09-06T04:50:14.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
-&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
+      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
+&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -459,44 +459,6 @@
   
   <entry>
     <title>border</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/border/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/border/</id>
-    <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-05T05:39:14.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響を使った体の動きに反応する楽器による ライブパフォーマンスと観客のスマートフォンを通してみるリアルタイムなARを融合させた作品 です。近未来のライブパフォーマンスの可能性に今ある技術で挑戦しました。&lt;/p&gt;
-&lt;h3 id=&quot;現実と虚構&quot;&gt;&lt;a href=&quot;#現実と虚構&quot; class=&quot;headerlink&quot; title=&quot;現実と虚構&quot;&gt;&lt;/a&gt;現実と虚構&lt;/h3&gt;&lt;p&gt;現実と虚構との境目はなんでしょう。VRやARといった技術は虚構を現実に溶け込ませることを可能にしました。近いうちにこれらの技術はより発達し、私たちがそれが現実のものなのか虚構なのかわからなくなるほどになるかもしれません。このようなことは明らかに私たちの世界と表現を拡 張します。&lt;/p&gt;
-&lt;p&gt;他方、近年の通信技術の発展は映像をほとんど遅延なく送信できるようになりました。今までは実際に放送されてから受信するまで30秒ほどだったものが、1秒以内まで縮まりつつあります。すなわち、放送側と受信側の相互コミュニケーションが可能となるということです。&lt;/p&gt;
-&lt;p&gt;これら、ARや高速な通信技術は明らかに私たちの体験を変えて行くでしょう。&lt;br&gt;この作品では、webRTC webAR webAudio を用いて近未来のパフォーマンスを表現しました。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
-    
-    
-      <category term="border" scheme="https://kiyu-git.github.io/webpage/tags/border/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>border</title>
     <link href="https://kiyu-git.github.io/webpage/en/border/"/>
     <id>https://kiyu-git.github.io/webpage/en/border/</id>
     <published>2018-10-05T09:31:25.000Z</published>
@@ -534,24 +496,61 @@
   </entry>
   
   <entry>
-    <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/twitter-visualization/</id>
-    <published>2018-09-10T09:31:08.000Z</published>
-    <updated>2019-09-05T16:55:43.000Z</updated>
+    <title>border</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/border/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/border/</id>
+    <published>2018-10-05T09:31:25.000Z</published>
+    <updated>2019-09-05T05:39:14.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3&gt;フィルターバブルの可視化&lt;/h3&gt;
-&lt;p&gt;この作品ではtwitterでのフィルターバブルを可視化しました。twitterでは自分の好みに合わせて他の人をフォローします。そして私たちはその人たちが発信する情報を集めたタイムラインから情報を得ます。その結果、私たちが好む情報のみが表示され、それと対立する意見は入ってきにくくなります。
-これはアルゴリズムによって私たちの知らないところで作られたフィルターではなく、私たちが作ったフィルターなのですが、twitterを見ていると、このフィルターを忘れて、自分のバブルに閉じこもり、自分のバブルが全体の意見だと思っているような発言、または攻撃が見受けられます。
-この作品ではそのようなフィルターバブルを可視化しました。&lt;/p&gt;&lt;p&gt;
-この作品は、インタラクティブな作品で、鑑賞者の参加によって成り立ちます。参加者が自分のtwitterアカウントを入力すると、その人を表すポイントが示されます。この位置は同じようなバブル(コミュニティー)に属している人同士ほど近くに表示され、それはバブルを示しています。またフォロー関係を可視化することで、どの人がどのバブルに影響を及ぼしているのかも可視化しました。
-&lt;/p&gt;&lt;p&gt;
-バブルフィルターはインターネットの中だけでなくリアルな社会に対しても当てはめられるかもしれません。
-インターネットはそのリアルの一部を誇張し切り取ったものなのなのかもしれません。&lt;/p&gt;
-&lt;h3&gt;フィルターバブル&lt;/h3&gt;
-&lt;p&gt;フィルターバブルとはイーラリー・パリサーが2011年に出版した『The Filter Bubble（邦題: 閉じこもるインターネット）』のなかで提唱した新しい言葉です。インターネット上のサービスのパーソナライズが引き起こす問題を表した言葉です。例えばGoogleの検索結果、Facebookのニュースフィードはアルゴリズムによって、パーソナライズされ、ユーザーが欲しいと思われる情報のみが表示されます。それに加えて私たちは、何が削除されたかわかりません。このような機能をフィルターバブルと呼びます。この結果、ユーザーは自分の意見と対立する情報に触れることができなくなり、また同じような意見を持つ人たちだけが集まり、そこで孤立した集団が形成されます。&lt;/p&gt;
+      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響を使った体の動きに反応する楽器による ライブパフォーマンスと観客のスマートフォンを通してみるリアルタイムなARを融合させた作品 です。近未来のライブパフォーマンスの可能性に今ある技術で挑戦しました。&lt;/p&gt;
+&lt;h3 id=&quot;現実と虚構&quot;&gt;&lt;a href=&quot;#現実と虚構&quot; class=&quot;headerlink&quot; title=&quot;現実と虚構&quot;&gt;&lt;/a&gt;現実と虚構&lt;/h3&gt;&lt;p&gt;現実と虚構との境目はなんでしょう。VRやARといった技術は虚構を現実に溶け込ませることを可能にしました。近いうちにこれらの技術はより発達し、私たちがそれが現実のものなのか虚構なのかわからなくなるほどになるかもしれません。このようなことは明らかに私たちの世界と表現を拡 張します。&lt;/p&gt;
+&lt;p&gt;他方、近年の通信技術の発展は映像をほとんど遅延なく送信できるようになりました。今までは実際に放送されてから受信するまで30秒ほどだったものが、1秒以内まで縮まりつつあります。すなわち、放送側と受信側の相互コミュニケーションが可能となるということです。&lt;/p&gt;
+&lt;p&gt;これら、ARや高速な通信技術は明らかに私たちの体験を変えて行くでしょう。&lt;br&gt;この作品では、webRTC webAR webAudio を用いて近未来のパフォーマンスを表現しました。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
+    
+    
+      <category term="border" scheme="https://kiyu-git.github.io/webpage/tags/border/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>twitter-visualization</title>
+    <link href="https://kiyu-git.github.io/webpage/en/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/webpage/en/twitter-visualization/</id>
+    <published>2018-09-10T09:31:08.000Z</published>
+    <updated>2019-09-05T16:55:46.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
+    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
+Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
+This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
+  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
+ Also, the relationship of the following is shown to express influencers in the bubble.
+&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
+  &lt;h3&gt;The filter bubble&lt;/h3&gt;
+  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -581,22 +580,23 @@
   
   <entry>
     <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/webpage/en/twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/webpage/en/twitter-visualization/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/twitter-visualization/</id>
     <published>2018-09-10T09:31:08.000Z</published>
-    <updated>2019-09-05T16:55:46.000Z</updated>
+    <updated>2019-09-05T16:55:43.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
-    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
-Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
-This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
-  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
- Also, the relationship of the following is shown to express influencers in the bubble.
-&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
-  &lt;h3&gt;The filter bubble&lt;/h3&gt;
-  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
+      &lt;h3&gt;フィルターバブルの可視化&lt;/h3&gt;
+&lt;p&gt;この作品ではtwitterでのフィルターバブルを可視化しました。twitterでは自分の好みに合わせて他の人をフォローします。そして私たちはその人たちが発信する情報を集めたタイムラインから情報を得ます。その結果、私たちが好む情報のみが表示され、それと対立する意見は入ってきにくくなります。
+これはアルゴリズムによって私たちの知らないところで作られたフィルターではなく、私たちが作ったフィルターなのですが、twitterを見ていると、このフィルターを忘れて、自分のバブルに閉じこもり、自分のバブルが全体の意見だと思っているような発言、または攻撃が見受けられます。
+この作品ではそのようなフィルターバブルを可視化しました。&lt;/p&gt;&lt;p&gt;
+この作品は、インタラクティブな作品で、鑑賞者の参加によって成り立ちます。参加者が自分のtwitterアカウントを入力すると、その人を表すポイントが示されます。この位置は同じようなバブル(コミュニティー)に属している人同士ほど近くに表示され、それはバブルを示しています。またフォロー関係を可視化することで、どの人がどのバブルに影響を及ぼしているのかも可視化しました。
+&lt;/p&gt;&lt;p&gt;
+バブルフィルターはインターネットの中だけでなくリアルな社会に対しても当てはめられるかもしれません。
+インターネットはそのリアルの一部を誇張し切り取ったものなのなのかもしれません。&lt;/p&gt;
+&lt;h3&gt;フィルターバブル&lt;/h3&gt;
+&lt;p&gt;フィルターバブルとはイーラリー・パリサーが2011年に出版した『The Filter Bubble（邦題: 閉じこもるインターネット）』のなかで提唱した新しい言葉です。インターネット上のサービスのパーソナライズが引き起こす問題を表した言葉です。例えばGoogleの検索結果、Facebookのニュースフィードはアルゴリズムによって、パーソナライズされ、ユーザーが欲しいと思われる情報のみが表示されます。それに加えて私たちは、何が削除されたかわかりません。このような機能をフィルターバブルと呼びます。この結果、ユーザーは自分の意見と対立する情報に触れることができなくなり、また同じような意見を持つ人たちだけが集まり、そこで孤立した集団が形成されます。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
