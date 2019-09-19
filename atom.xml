@@ -156,41 +156,6 @@
   
   <entry>
     <title>Gear Piano</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
-    <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-09-05T09:49:39.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;work in progress&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
-    
-    
-      <category term="Gear Piano" scheme="https://kiyu-git.github.io/webpage/tags/Gear-Piano/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gear Piano</title>
     <link href="https://kiyu-git.github.io/webpage/ja/Gear-Piano/"/>
     <id>https://kiyu-git.github.io/webpage/ja/Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
@@ -213,9 +178,44 @@
     </summary>
     
     
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+    
+      <category term="Gear Piano" scheme="https://kiyu-git.github.io/webpage/tags/Gear-Piano/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gear Piano</title>
+    <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
+    <published>2019-08-04T00:59:14.000Z</published>
+    <updated>2019-09-05T09:49:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;work in progress&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -251,9 +251,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
     
@@ -290,9 +290,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
     
@@ -326,9 +326,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -364,9 +364,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -404,9 +404,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -444,9 +444,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -454,44 +454,6 @@
     
     
       <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>border</title>
-    <link href="https://kiyu-git.github.io/webpage/en/border/"/>
-    <id>https://kiyu-git.github.io/webpage/en/border/</id>
-    <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-05T05:41:44.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This piece consists of two parts. One is the live performance which is the ambisonic 3D audio controlled by body music instrument. The other is AR (augmented reality) which can watch through smartphones which audience have. This piece is a challenge for the possibility of live performance in the near future.&lt;/p&gt;
-&lt;h3 id=&quot;Reality-and-Fiction&quot;&gt;&lt;a href=&quot;#Reality-and-Fiction&quot; class=&quot;headerlink&quot; title=&quot;Reality and Fiction&quot;&gt;&lt;/a&gt;Reality and Fiction&lt;/h3&gt;&lt;p&gt;What is the “border” between reality and fiction. VR or AR made it possible to integrate fiction into our real world. In the near future, these technologies will develop more, might make it possible not to be able to distinguish fiction from real. These technologies absolutely expand our world and expression.&lt;/p&gt;
-&lt;p&gt;On the other hand, the development of communication technology is making it possible to broadcast video with low latency. So far, we received a video about in 30 seconds behind transmitting, but now, we can receive in 1 second. It means we can interact between broadcaster and receiver in real time.&lt;/p&gt;
-&lt;p&gt;These technologies will gradually change our experience.&lt;br&gt;In this piece, I expressed the futuristic live performance using webRTC, webAR and webAudio.&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
-    
-    
-      <category term="border" scheme="https://kiyu-git.github.io/webpage/tags/border/"/>
     
   </entry>
   
@@ -522,9 +484,9 @@
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
     
@@ -534,23 +496,18 @@
   </entry>
   
   <entry>
-    <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/webpage/en/twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/webpage/en/twitter-visualization/</id>
-    <published>2018-09-10T09:31:08.000Z</published>
-    <updated>2019-09-05T16:55:46.000Z</updated>
+    <title>border</title>
+    <link href="https://kiyu-git.github.io/webpage/en/border/"/>
+    <id>https://kiyu-git.github.io/webpage/en/border/</id>
+    <published>2018-10-05T09:31:25.000Z</published>
+    <updated>2019-09-05T05:41:44.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
-    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
-Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
-This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
-  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
- Also, the relationship of the following is shown to express influencers in the bubble.
-&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
-  &lt;h3&gt;The filter bubble&lt;/h3&gt;
-  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
+      &lt;p&gt;This piece consists of two parts. One is the live performance which is the ambisonic 3D audio controlled by body music instrument. The other is AR (augmented reality) which can watch through smartphones which audience have. This piece is a challenge for the possibility of live performance in the near future.&lt;/p&gt;
+&lt;h3 id=&quot;Reality-and-Fiction&quot;&gt;&lt;a href=&quot;#Reality-and-Fiction&quot; class=&quot;headerlink&quot; title=&quot;Reality and Fiction&quot;&gt;&lt;/a&gt;Reality and Fiction&lt;/h3&gt;&lt;p&gt;What is the “border” between reality and fiction. VR or AR made it possible to integrate fiction into our real world. In the near future, these technologies will develop more, might make it possible not to be able to distinguish fiction from real. These technologies absolutely expand our world and expression.&lt;/p&gt;
+&lt;p&gt;On the other hand, the development of communication technology is making it possible to broadcast video with low latency. So far, we received a video about in 30 seconds behind transmitting, but now, we can receive in 1 second. It means we can interact between broadcaster and receiver in real time.&lt;/p&gt;
+&lt;p&gt;These technologies will gradually change our experience.&lt;br&gt;In this piece, I expressed the futuristic live performance using webRTC, webAR and webAudio.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -565,16 +522,14 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
     
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
-      <category term="visualization" scheme="https://kiyu-git.github.io/webpage/work/visualization/"/>
+      <category term="performance" scheme="https://kiyu-git.github.io/webpage/work/performance/"/>
     
     
-      <category term="twitter-visualization" scheme="https://kiyu-git.github.io/webpage/tags/twitter-visualization/"/>
+      <category term="border" scheme="https://kiyu-git.github.io/webpage/tags/border/"/>
     
   </entry>
   
@@ -611,9 +566,9 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
@@ -625,37 +580,47 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
   </entry>
   
   <entry>
-    <title>Communication-plus</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Communication-plus/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Communication-plus/</id>
-    <published>2018-08-04T09:30:52.000Z</published>
-    <updated>2019-09-06T04:30:35.000Z</updated>
+    <title>twitter-visualization</title>
+    <link href="https://kiyu-git.github.io/webpage/en/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/webpage/en/twitter-visualization/</id>
+    <published>2018-09-10T09:31:08.000Z</published>
+    <updated>2019-09-05T16:55:46.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;This is an interactive piece that uses both ambisonic 3D audio and web VR. The audience watched VR using their smartphone. Before
-        
-      
+      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
+    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
+Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
+This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
+  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
+ Also, the relationship of the following is shown to express influencers in the bubble.
+&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
+  &lt;h3&gt;The filter bubble&lt;/h3&gt;
+  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
-      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/work/3D-Audio/"/>
+      <category term="visualization" scheme="https://kiyu-git.github.io/webpage/work/visualization/"/>
     
     
-      <category term="Communication+" scheme="https://kiyu-git.github.io/webpage/tags/Communication/"/>
-    
-      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/tags/3D-Audio/"/>
+      <category term="twitter-visualization" scheme="https://kiyu-git.github.io/webpage/tags/twitter-visualization/"/>
     
   </entry>
   
@@ -686,9 +651,44 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
     </summary>
     
     
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/work/3D-Audio/"/>
+    
+    
+      <category term="Communication+" scheme="https://kiyu-git.github.io/webpage/tags/Communication/"/>
+    
+      <category term="3D Audio" scheme="https://kiyu-git.github.io/webpage/tags/3D-Audio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Communication-plus</title>
+    <link href="https://kiyu-git.github.io/webpage/en/Communication-plus/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Communication-plus/</id>
+    <published>2018-08-04T09:30:52.000Z</published>
+    <updated>2019-09-06T04:30:35.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is an interactive piece that uses both ambisonic 3D audio and web VR. The audience watched VR using their smartphone. Before
+        
+      
+    
+    </summary>
+    
+    
       <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
       <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
     
