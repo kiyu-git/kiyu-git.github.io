@@ -110,6 +110,29 @@
   
   <entry>
     <title>about</title>
+    <link href="https://kiyu-git.github.io/webpage/en/about/"/>
+    <id>https://kiyu-git.github.io/webpage/en/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:42:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
     <link href="https://kiyu-git.github.io/webpage/ja/about/"/>
     <id>https://kiyu-git.github.io/webpage/ja/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
@@ -132,25 +155,37 @@
   </entry>
   
   <entry>
-    <title>about</title>
-    <link href="https://kiyu-git.github.io/webpage/en/about/"/>
-    <id>https://kiyu-git.github.io/webpage/en/about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:42:45.000Z</updated>
+    <title>Gear Piano</title>
+    <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
+    <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
+    <published>2019-08-04T00:59:14.000Z</published>
+    <updated>2019-09-05T09:49:39.000Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
-        
-      
+      &lt;p&gt;work in progress&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+    
+      <category term="Gear Piano" scheme="https://kiyu-git.github.io/webpage/tags/Gear-Piano/"/>
     
   </entry>
   
@@ -190,15 +225,18 @@
   </entry>
   
   <entry>
-    <title>Gear Piano</title>
-    <link href="https://kiyu-git.github.io/webpage/en/Gear-Piano/"/>
-    <id>https://kiyu-git.github.io/webpage/en/Gear-Piano/</id>
-    <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-09-05T09:49:39.000Z</updated>
+    <title>Sparkle</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/Sparkle/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Sparkle/</id>
+    <published>2019-07-09T15:22:14.000Z</published>
+    <updated>2019-09-06T06:25:33.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;work in progress&lt;/p&gt;
+      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -217,10 +255,10 @@
     
       <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
     
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+      <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
     
     
-      <category term="Gear Piano" scheme="https://kiyu-git.github.io/webpage/tags/Gear-Piano/"/>
+      <category term="Sparkle" scheme="https://kiyu-git.github.io/webpage/tags/Sparkle/"/>
     
   </entry>
   
@@ -264,82 +302,6 @@
   </entry>
   
   <entry>
-    <title>Sparkle</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/Sparkle/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/Sparkle/</id>
-    <published>2019-07-09T15:22:14.000Z</published>
-    <updated>2019-09-06T06:25:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="installation" scheme="https://kiyu-git.github.io/webpage/work/installation/"/>
-    
-    
-      <category term="Sparkle" scheme="https://kiyu-git.github.io/webpage/tags/Sparkle/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lost Connection</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
-    <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:29.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
-&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
-    
-      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
-    
-      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
-    
-    
-      <category term="Lost Connection" scheme="https://kiyu-git.github.io/webpage/tags/Lost-Connection/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Lost Connection</title>
     <link href="https://kiyu-git.github.io/webpage/en/Lost-Connection/"/>
     <id>https://kiyu-git.github.io/webpage/en/Lost-Connection/</id>
@@ -378,18 +340,16 @@
   </entry>
   
   <entry>
-    <title>Silences</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/Silences/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/Silences/</id>
-    <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T04:49:33.000Z</updated>
+    <title>Lost Connection</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/Lost-Connection/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Lost-Connection/</id>
+    <published>2019-02-05T15:20:58.000Z</published>
+    <updated>2019-09-06T04:50:29.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
-&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
+&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -413,7 +373,7 @@
       <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
     
     
-      <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
+      <category term="Lost Connection" scheme="https://kiyu-git.github.io/webpage/tags/Lost-Connection/"/>
     
   </entry>
   
@@ -458,11 +418,51 @@
   </entry>
   
   <entry>
+    <title>Silences</title>
+    <link href="https://kiyu-git.github.io/webpage/ja/Silences/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/Silences/</id>
+    <published>2018-12-24T15:21:19.000Z</published>
+    <updated>2019-09-06T04:49:33.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
+&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/webpage/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu-git.github.io/webpage/news/"/>
+    
+      <category term="work" scheme="https://kiyu-git.github.io/webpage/work/"/>
+    
+      <category term="other" scheme="https://kiyu-git.github.io/webpage/work/other/"/>
+    
+      <category term="net art" scheme="https://kiyu-git.github.io/webpage/work/net-art/"/>
+    
+    
+      <category term="Silences" scheme="https://kiyu-git.github.io/webpage/tags/Silences/"/>
+    
+  </entry>
+  
+  <entry>
     <title>border</title>
     <link href="https://kiyu-git.github.io/webpage/en/border/"/>
     <id>https://kiyu-git.github.io/webpage/en/border/</id>
     <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-05T05:41:44.000Z</updated>
+    <updated>2019-09-20T09:50:30.000Z</updated>
     
     <summary type="html">
     
@@ -500,7 +500,7 @@
     <link href="https://kiyu-git.github.io/webpage/ja/border/"/>
     <id>https://kiyu-git.github.io/webpage/ja/border/</id>
     <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-05T05:39:14.000Z</updated>
+    <updated>2019-09-20T09:50:18.000Z</updated>
     
     <summary type="html">
     
@@ -535,22 +535,23 @@
   
   <entry>
     <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/webpage/en/twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/webpage/en/twitter-visualization/</id>
+    <link href="https://kiyu-git.github.io/webpage/ja/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/webpage/ja/twitter-visualization/</id>
     <published>2018-09-10T09:31:08.000Z</published>
-    <updated>2019-09-05T16:55:46.000Z</updated>
+    <updated>2019-09-05T16:55:43.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
-    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
-Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
-This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
-  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
- Also, the relationship of the following is shown to express influencers in the bubble.
-&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
-  &lt;h3&gt;The filter bubble&lt;/h3&gt;
-  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
+      &lt;h3&gt;フィルターバブルの可視化&lt;/h3&gt;
+&lt;p&gt;この作品ではtwitterでのフィルターバブルを可視化しました。twitterでは自分の好みに合わせて他の人をフォローします。そして私たちはその人たちが発信する情報を集めたタイムラインから情報を得ます。その結果、私たちが好む情報のみが表示され、それと対立する意見は入ってきにくくなります。
+これはアルゴリズムによって私たちの知らないところで作られたフィルターではなく、私たちが作ったフィルターなのですが、twitterを見ていると、このフィルターを忘れて、自分のバブルに閉じこもり、自分のバブルが全体の意見だと思っているような発言、または攻撃が見受けられます。
+この作品ではそのようなフィルターバブルを可視化しました。&lt;/p&gt;&lt;p&gt;
+この作品は、インタラクティブな作品で、鑑賞者の参加によって成り立ちます。参加者が自分のtwitterアカウントを入力すると、その人を表すポイントが示されます。この位置は同じようなバブル(コミュニティー)に属している人同士ほど近くに表示され、それはバブルを示しています。またフォロー関係を可視化することで、どの人がどのバブルに影響を及ぼしているのかも可視化しました。
+&lt;/p&gt;&lt;p&gt;
+バブルフィルターはインターネットの中だけでなくリアルな社会に対しても当てはめられるかもしれません。
+インターネットはそのリアルの一部を誇張し切り取ったものなのなのかもしれません。&lt;/p&gt;
+&lt;h3&gt;フィルターバブル&lt;/h3&gt;
+&lt;p&gt;フィルターバブルとはイーラリー・パリサーが2011年に出版した『The Filter Bubble（邦題: 閉じこもるインターネット）』のなかで提唱した新しい言葉です。インターネット上のサービスのパーソナライズが引き起こす問題を表した言葉です。例えばGoogleの検索結果、Facebookのニュースフィードはアルゴリズムによって、パーソナライズされ、ユーザーが欲しいと思われる情報のみが表示されます。それに加えて私たちは、何が削除されたかわかりません。このような機能をフィルターバブルと呼びます。この結果、ユーザーは自分の意見と対立する情報に触れることができなくなり、また同じような意見を持つ人たちだけが集まり、そこで孤立した集団が形成されます。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -580,23 +581,22 @@ This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
   
   <entry>
     <title>twitter-visualization</title>
-    <link href="https://kiyu-git.github.io/webpage/ja/twitter-visualization/"/>
-    <id>https://kiyu-git.github.io/webpage/ja/twitter-visualization/</id>
+    <link href="https://kiyu-git.github.io/webpage/en/twitter-visualization/"/>
+    <id>https://kiyu-git.github.io/webpage/en/twitter-visualization/</id>
     <published>2018-09-10T09:31:08.000Z</published>
-    <updated>2019-09-05T16:55:43.000Z</updated>
+    <updated>2019-09-05T16:55:46.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3&gt;フィルターバブルの可視化&lt;/h3&gt;
-&lt;p&gt;この作品ではtwitterでのフィルターバブルを可視化しました。twitterでは自分の好みに合わせて他の人をフォローします。そして私たちはその人たちが発信する情報を集めたタイムラインから情報を得ます。その結果、私たちが好む情報のみが表示され、それと対立する意見は入ってきにくくなります。
-これはアルゴリズムによって私たちの知らないところで作られたフィルターではなく、私たちが作ったフィルターなのですが、twitterを見ていると、このフィルターを忘れて、自分のバブルに閉じこもり、自分のバブルが全体の意見だと思っているような発言、または攻撃が見受けられます。
-この作品ではそのようなフィルターバブルを可視化しました。&lt;/p&gt;&lt;p&gt;
-この作品は、インタラクティブな作品で、鑑賞者の参加によって成り立ちます。参加者が自分のtwitterアカウントを入力すると、その人を表すポイントが示されます。この位置は同じようなバブル(コミュニティー)に属している人同士ほど近くに表示され、それはバブルを示しています。またフォロー関係を可視化することで、どの人がどのバブルに影響を及ぼしているのかも可視化しました。
-&lt;/p&gt;&lt;p&gt;
-バブルフィルターはインターネットの中だけでなくリアルな社会に対しても当てはめられるかもしれません。
-インターネットはそのリアルの一部を誇張し切り取ったものなのなのかもしれません。&lt;/p&gt;
-&lt;h3&gt;フィルターバブル&lt;/h3&gt;
-&lt;p&gt;フィルターバブルとはイーラリー・パリサーが2011年に出版した『The Filter Bubble（邦題: 閉じこもるインターネット）』のなかで提唱した新しい言葉です。インターネット上のサービスのパーソナライズが引き起こす問題を表した言葉です。例えばGoogleの検索結果、Facebookのニュースフィードはアルゴリズムによって、パーソナライズされ、ユーザーが欲しいと思われる情報のみが表示されます。それに加えて私たちは、何が削除されたかわかりません。このような機能をフィルターバブルと呼びます。この結果、ユーザーは自分の意見と対立する情報に触れることができなくなり、また同じような意見を持つ人たちだけが集まり、そこで孤立した集団が形成されます。&lt;/p&gt;
+      &lt;h3&gt;visualization of the filter bubble&lt;/h3&gt;
+    &lt;p&gt;This piece visualizes the filter bubble on Twitter. In Twitter, we follow the person who we like or are interested in.  As a result, only the information which we like is shown in our timeline and the other is not.
+Sometimes I see the aggressive opinion from the person who forgot they are in their bubble as if they thought their opinion is a majority, in spite of this filter was created by themselves.
+This piece visualizes such a filter bubble on Twitter.&lt;/p&gt;&lt;p&gt;
+  This is an interactive piece and needs attendance. If the attendance types their Twitter account, points that express them are shown. People who are getting the same information (follow the same account ) shown in a closed position. In this way, I visualize filter bubbles.
+ Also, the relationship of the following is shown to express influencers in the bubble.
+&lt;/p&gt;&lt;p&gt;The bubble filter might be able to adapt to real society. &lt;/p&gt;
+  &lt;h3&gt;The filter bubble&lt;/h3&gt;
+  &lt;p&gt;The filter bubble is a new word which suggested in the book, “The Filter Bubble” written by Eli Pariser. It describes the problem in the personalize on the I internet service. For example, a search result of Google or a newsfeed on Facebook is personalized by an algorithm and shows only the information which the user wants to get. Besides, we have no way to know what removes. Such a  function is called the “filter bubble.” As a result, users are not able to get the opposite idea, Only the person who has the same idea gather, then they create the isolated community.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
