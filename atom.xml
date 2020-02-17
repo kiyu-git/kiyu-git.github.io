@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiyu.untamable.work/"/>
-  <updated>2019-11-27T13:48:09.000Z</updated>
+  <updated>2019-11-27T13:46:26.000Z</updated>
   <id>https://kiyu.untamable.work/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>The story on a paper</title>
-    <link href="https://kiyu.untamable.work/en/The-story-on-a-paper/"/>
-    <id>https://kiyu.untamable.work/en/The-story-on-a-paper/</id>
-    <published>2019-11-27T13:35:27.000Z</published>
-    <updated>2019-11-27T13:48:09.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="drawing" scheme="https://kiyu.untamable.work/work/drawing/"/>
-    
-    
-      <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
-    
-  </entry>
   
   <entry>
     <title>The story on a paper</title>
@@ -63,18 +40,42 @@
   </entry>
   
   <entry>
-    <title>Breath of Silence</title>
-    <link href="https://kiyu.untamable.work/ja/Breath-of-Silence/"/>
-    <id>https://kiyu.untamable.work/ja/Breath-of-Silence/</id>
-    <published>2019-09-25T02:48:37.000Z</published>
-    <updated>2019-10-31T05:44:02.000Z</updated>
+    <title>The story on a paper</title>
+    <link href="https://kiyu.untamable.work/en/The-story-on-a-paper/"/>
+    <id>https://kiyu.untamable.work/en/The-story-on-a-paper/</id>
+    <published>2019-11-27T13:35:27.000Z</published>
+    <updated>2019-11-27T13:48:09.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;静寂のすまうとこ&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;本作品は「静寂」をテーマに構成されており、静寂に反応する作品です。静かな状態が保たれている時、電球は徐々に明るくなり、明るくなりきるとスピーカが音を発します。その音はマイクとの間でループしながら、電球の明かりの減衰とともに消えていきます。しかし、静かな状態が保たれない状態では電球の明かりは暗く揺らぎ続け、明るくなることはありません。この様子は、まるで作品が静寂の中で呼吸し、生きているようにも見えます。&lt;br&gt;日常において、私たちは音がいきなり止まったり、突発的な音がなり終わった後に、そこにあった音に気づきます。例えば、空調が止まった時にそこにその音がなっていたことに気づくようなことです。本作品ではそのような音に対する私たちの知覚を誘発し、その場にある音を知覚させます。また、静寂が保たれていることを条件として正しく鑑賞できることは、鑑賞者のその空間の音に対する知覚を促します。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+    
+      <category term="drawing" scheme="https://kiyu.untamable.work/work/drawing/"/>
+    
+    
+      <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Breath of Silence</title>
+    <link href="https://kiyu.untamable.work/en/Breath-of-Silence/"/>
+    <id>https://kiyu.untamable.work/en/Breath-of-Silence/</id>
+    <published>2019-09-25T02:48:37.000Z</published>
+    <updated>2019-10-31T05:56:02.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;where silence lives&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work is consisted of a theme “silence” and reacts to silence. When silence is maintained, a light bubble is gradually getting light, reaches the maximum, then a loudspeaker produces a pulse noise. The sound loops between the loudspeaker and a microphone, attenuate along the light bubble is getting dark. On the other hand, when silence is not maintained, the bubble light wavers in a dark and is not getting light. This behavior looks like as if the work breath and has a life in silence.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. This work stimulates people to notice such sound and make people notice the sound existing there. What this work requires keeping silence to enjoy this work correctly also stimulates people to notice the sound in a space.&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
+&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -102,18 +103,17 @@
   
   <entry>
     <title>Breath of Silence</title>
-    <link href="https://kiyu.untamable.work/en/Breath-of-Silence/"/>
-    <id>https://kiyu.untamable.work/en/Breath-of-Silence/</id>
+    <link href="https://kiyu.untamable.work/ja/Breath-of-Silence/"/>
+    <id>https://kiyu.untamable.work/ja/Breath-of-Silence/</id>
     <published>2019-09-25T02:48:37.000Z</published>
-    <updated>2019-10-31T05:56:02.000Z</updated>
+    <updated>2019-10-31T05:44:02.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;where silence lives&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work is consisted of a theme “silence” and reacts to silence. When silence is maintained, a light bubble is gradually getting light, reaches the maximum, then a loudspeaker produces a pulse noise. The sound loops between the loudspeaker and a microphone, attenuate along the light bubble is getting dark. On the other hand, when silence is not maintained, the bubble light wavers in a dark and is not getting light. This behavior looks like as if the work breath and has a life in silence.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. This work stimulates people to notice such sound and make people notice the sound existing there. What this work requires keeping silence to enjoy this work correctly also stimulates people to notice the sound in a space.&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
-&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;静寂のすまうとこ&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;本作品は「静寂」をテーマに構成されており、静寂に反応する作品です。静かな状態が保たれている時、電球は徐々に明るくなり、明るくなりきるとスピーカが音を発します。その音はマイクとの間でループしながら、電球の明かりの減衰とともに消えていきます。しかし、静かな状態が保たれない状態では電球の明かりは暗く揺らぎ続け、明るくなることはありません。この様子は、まるで作品が静寂の中で呼吸し、生きているようにも見えます。&lt;br&gt;日常において、私たちは音がいきなり止まったり、突発的な音がなり終わった後に、そこにあった音に気づきます。例えば、空調が止まった時にそこにその音がなっていたことに気づくようなことです。本作品ではそのような音に対する私たちの知覚を誘発し、その場にある音を知覚させます。また、静寂が保たれていることを条件として正しく鑑賞できることは、鑑賞者のその空間の音に対する知覚を促します。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -279,15 +279,15 @@
   
   <entry>
     <title>Gear Piano</title>
-    <link href="https://kiyu.untamable.work/ja/Gear-Piano/"/>
-    <id>https://kiyu.untamable.work/ja/Gear-Piano/</id>
+    <link href="https://kiyu.untamable.work/en/Gear-Piano/"/>
+    <id>https://kiyu.untamable.work/en/Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-10-15T13:26:22.000Z</updated>
+    <updated>2019-10-15T13:42:26.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;⻭車の⻭と振動部が直接接触することによりアコースティックに音を発生する楽器.デジタル楽器では表現しにくいパルスの連続するような音を出すことができる.音程間の周波数比を⻭車の⻭数の比と対応させることにより音階を作っている.全ての⻭車が一体となって噛み合って動いているため，基本とな る回転数を変化させることにより，音階を保ったままキーを変化させることができる.&lt;/p&gt;
+      &lt;p&gt;work in progress.&lt;/p&gt;
+&lt;p&gt;This musical instrument produces sound when teeth of a gear touch a vibrating plate. It can make like a concatenation of pulse sound which is not easy to produce in digital. A musical scale is represented by fitting a duty of musical interval to a duty of the number of teeth. All gears work mesh each other, so you can change the pitch of a sound by changing the fundamental number of revolution.  &lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -315,15 +315,15 @@
   
   <entry>
     <title>Gear Piano</title>
-    <link href="https://kiyu.untamable.work/en/Gear-Piano/"/>
-    <id>https://kiyu.untamable.work/en/Gear-Piano/</id>
+    <link href="https://kiyu.untamable.work/ja/Gear-Piano/"/>
+    <id>https://kiyu.untamable.work/ja/Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-10-15T13:42:26.000Z</updated>
+    <updated>2019-10-15T13:26:22.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;work in progress.&lt;/p&gt;
-&lt;p&gt;This musical instrument produces sound when teeth of a gear touch a vibrating plate. It can make like a concatenation of pulse sound which is not easy to produce in digital. A musical scale is represented by fitting a duty of musical interval to a duty of the number of teeth. All gears work mesh each other, so you can change the pitch of a sound by changing the fundamental number of revolution.  &lt;/p&gt;
+      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;⻭車の⻭と振動部が直接接触することによりアコースティックに音を発生する楽器.デジタル楽器では表現しにくいパルスの連続するような音を出すことができる.音程間の周波数比を⻭車の⻭数の比と対応させることにより音階を作っている.全ての⻭車が一体となって噛み合って動いているため，基本とな る回転数を変化させることにより，音階を保ったままキーを変化させることができる.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -428,15 +428,15 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu.untamable.work/en/Lost-Connection/"/>
-    <id>https://kiyu.untamable.work/en/Lost-Connection/</id>
+    <link href="https://kiyu.untamable.work/ja/Lost-Connection/"/>
+    <id>https://kiyu.untamable.work/ja/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:14.000Z</updated>
+    <updated>2019-09-06T04:50:29.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
-&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
+      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
+&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -466,15 +466,15 @@
   
   <entry>
     <title>Lost Connection</title>
-    <link href="https://kiyu.untamable.work/ja/Lost-Connection/"/>
-    <id>https://kiyu.untamable.work/ja/Lost-Connection/</id>
+    <link href="https://kiyu.untamable.work/en/Lost-Connection/"/>
+    <id>https://kiyu.untamable.work/en/Lost-Connection/</id>
     <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:29.000Z</updated>
+    <updated>2019-09-06T04:50:14.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
-&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
+      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
+&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
