@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiyu.untamable.work/"/>
-  <updated>2019-11-27T13:46:26.000Z</updated>
+  <updated>2019-11-27T13:48:09.000Z</updated>
   <id>https://kiyu.untamable.work/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>The story on a paper</title>
-    <link href="https://kiyu.untamable.work/ja/The-story-on-a-paper/"/>
-    <id>https://kiyu.untamable.work/ja/The-story-on-a-paper/</id>
+    <link href="https://kiyu.untamable.work/en/The-story-on-a-paper/"/>
+    <id>https://kiyu.untamable.work/en/The-story-on-a-paper/</id>
     <published>2019-11-27T13:35:27.000Z</published>
-    <updated>2019-11-27T13:46:26.000Z</updated>
+    <updated>2019-11-27T13:48:09.000Z</updated>
     
     <summary type="html">
     
@@ -41,10 +41,10 @@
   
   <entry>
     <title>The story on a paper</title>
-    <link href="https://kiyu.untamable.work/en/The-story-on-a-paper/"/>
-    <id>https://kiyu.untamable.work/en/The-story-on-a-paper/</id>
+    <link href="https://kiyu.untamable.work/ja/The-story-on-a-paper/"/>
+    <id>https://kiyu.untamable.work/ja/The-story-on-a-paper/</id>
     <published>2019-11-27T13:35:27.000Z</published>
-    <updated>2019-11-27T13:48:09.000Z</updated>
+    <updated>2019-11-27T13:46:26.000Z</updated>
     
     <summary type="html">
     
@@ -504,17 +504,17 @@
   
   <entry>
     <title>Silences</title>
-    <link href="https://kiyu.untamable.work/en/Silences/"/>
-    <id>https://kiyu.untamable.work/en/Silences/</id>
+    <link href="https://kiyu.untamable.work/ja/Silences/"/>
+    <id>https://kiyu.untamable.work/ja/Silences/</id>
     <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T05:22:42.000Z</updated>
+    <updated>2019-09-06T04:49:33.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;This work is a conceptual net art whose theme is the “silence” and published on the Internet.&lt;br&gt;This work can be enjoyed by devices that can connect the Internet such as computers and smartphones.&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;The theme of this work is what is the “silence.” In the work, the silence and noise, and also black screen and white screen that correspond to each one are irregularly repeated.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.&lt;br&gt;This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.&lt;/p&gt;
-&lt;h3 id=&quot;Format&quot;&gt;&lt;a href=&quot;#Format&quot; class=&quot;headerlink&quot; title=&quot;Format&quot;&gt;&lt;/a&gt;Format&lt;/h3&gt;&lt;p&gt;This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one’s device.&lt;br&gt;The work presented one’s device influences the sound scenery there and affect observers.&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm is a web art platform that was influenced by the culture of the internet surf club. This is established on the dat protocol which is one of the peer-to-peer protocol which realizes the vision of the open web. You can access the dat using the Beaker browser.&lt;/p&gt;
+      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
+&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -544,17 +544,17 @@
   
   <entry>
     <title>Silences</title>
-    <link href="https://kiyu.untamable.work/ja/Silences/"/>
-    <id>https://kiyu.untamable.work/ja/Silences/</id>
+    <link href="https://kiyu.untamable.work/en/Silences/"/>
+    <id>https://kiyu.untamable.work/en/Silences/</id>
     <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T04:49:33.000Z</updated>
+    <updated>2019-09-06T05:22:42.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
-&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
+      &lt;p&gt;This work is a conceptual net art whose theme is the “silence” and published on the Internet.&lt;br&gt;This work can be enjoyed by devices that can connect the Internet such as computers and smartphones.&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;The theme of this work is what is the “silence.” In the work, the silence and noise, and also black screen and white screen that correspond to each one are irregularly repeated.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.&lt;br&gt;This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.&lt;/p&gt;
+&lt;h3 id=&quot;Format&quot;&gt;&lt;a href=&quot;#Format&quot; class=&quot;headerlink&quot; title=&quot;Format&quot;&gt;&lt;/a&gt;Format&lt;/h3&gt;&lt;p&gt;This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one’s device.&lt;br&gt;The work presented one’s device influences the sound scenery there and affect observers.&lt;/p&gt;
+&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm is a web art platform that was influenced by the culture of the internet surf club. This is established on the dat protocol which is one of the peer-to-peer protocol which realizes the vision of the open web. You can access the dat using the Beaker browser.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
