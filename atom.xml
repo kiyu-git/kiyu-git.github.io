@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiyu.untamable.work/"/>
-  <updated>2019-11-27T13:46:26.000Z</updated>
+  <updated>2019-11-27T13:48:09.000Z</updated>
   <id>https://kiyu.untamable.work/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>The story on a paper</title>
-    <link href="https://kiyu.untamable.work/ja/The-story-on-a-paper/"/>
-    <id>https://kiyu.untamable.work/ja/The-story-on-a-paper/</id>
-    <published>2019-11-27T13:35:27.000Z</published>
-    <updated>2019-11-27T13:46:26.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="drawing" scheme="https://kiyu.untamable.work/work/drawing/"/>
-    
-    
-      <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
-    
-  </entry>
   
   <entry>
     <title>The story on a paper</title>
@@ -63,19 +40,41 @@
   </entry>
   
   <entry>
-    <title>Breath of Silence</title>
-    <link href="https://kiyu.untamable.work/en/Breath-of-Silence/"/>
-    <id>https://kiyu.untamable.work/en/Breath-of-Silence/</id>
-    <published>2019-09-25T02:48:37.000Z</published>
-    <updated>2019-10-31T05:56:02.000Z</updated>
+    <title>The story on a paper</title>
+    <link href="https://kiyu.untamable.work/ja/The-story-on-a-paper/"/>
+    <id>https://kiyu.untamable.work/ja/The-story-on-a-paper/</id>
+    <published>2019-11-27T13:35:27.000Z</published>
+    <updated>2019-11-27T13:46:26.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;where silence lives&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work is consisted of a theme “silence” and reacts to silence. When silence is maintained, a light bubble is gradually getting light, reaches the maximum, then a loudspeaker produces a pulse noise. The sound loops between the loudspeaker and a microphone, attenuate along the light bubble is getting dark. On the other hand, when silence is not maintained, the bubble light wavers in a dark and is not getting light. This behavior looks like as if the work breath and has a life in silence.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. This work stimulates people to notice such sound and make people notice the sound existing there. What this work requires keeping silence to enjoy this work correctly also stimulates people to notice the sound in a space.&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
-&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+    
+      <category term="drawing" scheme="https://kiyu.untamable.work/work/drawing/"/>
+    
+    
+      <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Breath of Silence</title>
+    <link href="https://kiyu.untamable.work/ja/Breath-of-Silence/"/>
+    <id>https://kiyu.untamable.work/ja/Breath-of-Silence/</id>
+    <published>2019-09-25T02:48:37.000Z</published>
+    <updated>2019-10-31T05:44:02.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;静寂のすまうとこ&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;本作品は「静寂」をテーマに構成されており、静寂に反応する作品です。静かな状態が保たれている時、電球は徐々に明るくなり、明るくなりきるとスピーカが音を発します。その音はマイクとの間でループしながら、電球の明かりの減衰とともに消えていきます。しかし、静かな状態が保たれない状態では電球の明かりは暗く揺らぎ続け、明るくなることはありません。この様子は、まるで作品が静寂の中で呼吸し、生きているようにも見えます。&lt;br&gt;日常において、私たちは音がいきなり止まったり、突発的な音がなり終わった後に、そこにあった音に気づきます。例えば、空調が止まった時にそこにその音がなっていたことに気づくようなことです。本作品ではそのような音に対する私たちの知覚を誘発し、その場にある音を知覚させます。また、静寂が保たれていることを条件として正しく鑑賞できることは、鑑賞者のその空間の音に対する知覚を促します。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -103,17 +102,18 @@
   
   <entry>
     <title>Breath of Silence</title>
-    <link href="https://kiyu.untamable.work/ja/Breath-of-Silence/"/>
-    <id>https://kiyu.untamable.work/ja/Breath-of-Silence/</id>
+    <link href="https://kiyu.untamable.work/en/Breath-of-Silence/"/>
+    <id>https://kiyu.untamable.work/en/Breath-of-Silence/</id>
     <published>2019-09-25T02:48:37.000Z</published>
-    <updated>2019-10-31T05:44:02.000Z</updated>
+    <updated>2019-10-31T05:56:02.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;静寂のすまうとこ&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;本作品は「静寂」をテーマに構成されており、静寂に反応する作品です。静かな状態が保たれている時、電球は徐々に明るくなり、明るくなりきるとスピーカが音を発します。その音はマイクとの間でループしながら、電球の明かりの減衰とともに消えていきます。しかし、静かな状態が保たれない状態では電球の明かりは暗く揺らぎ続け、明るくなることはありません。この様子は、まるで作品が静寂の中で呼吸し、生きているようにも見えます。&lt;br&gt;日常において、私たちは音がいきなり止まったり、突発的な音がなり終わった後に、そこにあった音に気づきます。例えば、空調が止まった時にそこにその音がなっていたことに気づくようなことです。本作品ではそのような音に対する私たちの知覚を誘発し、その場にある音を知覚させます。また、静寂が保たれていることを条件として正しく鑑賞できることは、鑑賞者のその空間の音に対する知覚を促します。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;where silence lives&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work is consisted of a theme “silence” and reacts to silence. When silence is maintained, a light bubble is gradually getting light, reaches the maximum, then a loudspeaker produces a pulse noise. The sound loops between the loudspeaker and a microphone, attenuate along the light bubble is getting dark. On the other hand, when silence is not maintained, the bubble light wavers in a dark and is not getting light. This behavior looks like as if the work breath and has a life in silence.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. This work stimulates people to notice such sound and make people notice the sound existing there. What this work requires keeping silence to enjoy this work correctly also stimulates people to notice the sound in a space.&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
+&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -233,29 +233,6 @@
   
   <entry>
     <title>about</title>
-    <link href="https://kiyu.untamable.work/en/about/"/>
-    <id>https://kiyu.untamable.work/en/about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:42:45.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
     <link href="https://kiyu.untamable.work/ja/about/"/>
     <id>https://kiyu.untamable.work/ja/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
@@ -268,6 +245,29 @@
         
         
           &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="https://kiyu.untamable.work/en/about/"/>
+    <id>https://kiyu.untamable.work/en/about/</id>
+    <published>2019-08-30T04:18:15.000Z</published>
+    <updated>2019-09-11T05:42:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
         
       
     
@@ -351,18 +351,17 @@
   
   <entry>
     <title>Sparkle</title>
-    <link href="https://kiyu.untamable.work/en/Sparkle/"/>
-    <id>https://kiyu.untamable.work/en/Sparkle/</id>
+    <link href="https://kiyu.untamable.work/ja/Sparkle/"/>
+    <id>https://kiyu.untamable.work/ja/Sparkle/</id>
     <published>2019-07-09T15:22:14.000Z</published>
-    <updated>2019-09-06T06:24:25.000Z</updated>
+    <updated>2019-09-06T06:25:33.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Look the world through holes.&lt;br&gt;Ah, human are beautiful.&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work consists of three peep boxes. The author expresses a “sparkle” of the mental world. Each of the peep boxes is named “pray or entrance,” “memory,” “dialogue.” Those three are supposed to watch in order. In “pray or entrance,” a tiny light that looks dark unless you look closely. In “memory,” multiple bright lights make as if abstract painting in the box. In “dialogue,” Your eye is illuminated and reflected on a wall in the box.&lt;br&gt;Through those works and a caption, the author encourages observers to consider the aesthetics of the mental. And, he claims the mental world of the human is beautiful.&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
-&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
@@ -390,17 +389,18 @@
   
   <entry>
     <title>Sparkle</title>
-    <link href="https://kiyu.untamable.work/ja/Sparkle/"/>
-    <id>https://kiyu.untamable.work/ja/Sparkle/</id>
+    <link href="https://kiyu.untamable.work/en/Sparkle/"/>
+    <id>https://kiyu.untamable.work/en/Sparkle/</id>
     <published>2019-07-09T15:22:14.000Z</published>
-    <updated>2019-09-06T06:25:33.000Z</updated>
+    <updated>2019-09-06T06:24:25.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Look the world through holes.&lt;br&gt;Ah, human are beautiful.&lt;/p&gt;
+&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work consists of three peep boxes. The author expresses a “sparkle” of the mental world. Each of the peep boxes is named “pray or entrance,” “memory,” “dialogue.” Those three are supposed to watch in order. In “pray or entrance,” a tiny light that looks dark unless you look closely. In “memory,” multiple bright lights make as if abstract painting in the box. In “dialogue,” Your eye is illuminated and reflected on a wall in the box.&lt;br&gt;Through those works and a caption, the author encourages observers to consider the aesthetics of the mental. And, he claims the mental world of the human is beautiful.&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
+&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
