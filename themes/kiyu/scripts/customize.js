@@ -1,3 +1,18 @@
+hexo.extend.filter.register('before_post_render', function(data){
+    const { config } = this;
+    if(data.lang == config.language_default){
+        data.lang = ""
+    }
+    return data
+  });
+// hexo.extend.filter.register('before_generate', function(data){
+//     const { config } = this;
+//     if(data.lang == config.language_default){
+//         data.lang = ""
+//     }
+//     return data
+// })
+
 // // var images = [];
 // hexo.extend.tag.register('medias_mover',function(args, content){
 //   return ""
