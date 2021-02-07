@@ -1,5 +1,5 @@
 /*チェックボックス等は非表示に*/
-.nav-unshown {
+.nav-unshown, .sidebar input {
   display:none;
 }
 #nav-content {
