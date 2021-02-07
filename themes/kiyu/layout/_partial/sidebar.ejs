@@ -1,0 +1,31 @@
+<%
+if(page.path.indexOf("en/") == -1){
+  lang = "ja";
+}else{
+  lang = "en";
+}
+%>
+<div class="sidebar">
+  <nav>
+    <div id="nav-drawer">
+      <input id="nav-input" type="checkbox" class="nav-unshown">
+
+      <div id="nav-content">
+        <ul>
+        <li><a href="<%- url_for(lang+"/about/") %>">about</a></li>
+        <!-- <li><a href="<%- url_for(lang+"/news/") %>">news</a></li> -->
+        <li><a href="<%- url_for(lang+"/link/") %>">link</a></li>
+        <li><a href="<%- url_for(lang+"/contact/") %>">contact</a></li>
+        <li><a href="<%- url_for(lang+"/work/").replace("ja/", "") %>">work</a></li>
+        <ul>
+          <li><a href="<%- url_for(lang+"/work/video/").replace("ja/", "") %>">video</a></li>
+          <li><a href="<%- url_for(lang+"/work/performance/").replace("ja/", "")%>">performance</a></li>
+          <li><a href="<%- url_for(lang+"/work/installation/").replace("ja/", "") %>">installation</a></li>
+          <li><a href="<%- url_for(lang+"/work/direction/").replace("ja/", "") %>">direction</a></li>
+          <li><a href="<%- url_for(lang+"/work/other/").replace("ja/", "") %>">other</a></li>
+        </ul>
+      </ul>
+    </div>
+  </div>
+  </nav>
+</div>

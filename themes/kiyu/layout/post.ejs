@@ -1,0 +1,69 @@
+<div class="post-work">
+  <div class="work_about">
+    <div class="photos">
+      <div class="slider-pro">
+        <div class="sp-slides">
+        <%
+        if(page.medias){
+        page.medias.forEach(function(value, key){
+            if((value.match(/png/) && !value.match(/\(/))|| (value.match(/jpg/) && !value.match(/\(/)) ||(value.match(/JPG/) && !value.match(/\(/))){
+        %>
+          <div class="sp-slide">
+            <img class="sp-image" src="<%- url_for(page.path+value).replace("en/", "ja/") %>" />
+          </div>
+        <% }else{ %>
+          <div class="sp-slide">
+            <iframe class="sp-image" width="600" height="450" src="https://www.youtube.com/embed/<%- value.slice(1).split("(")[0] %>" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <% }
+        });} %>
+          </div>
+          <div class="sp-thumbnails">
+          <%
+          if(page.medias){
+          page.medias.forEach(function(value, key){
+              if((value.match(/png/) && !value.match(/\(/))|| (value.match(/jpg/) && !value.match(/\(/)) ||(value.match(/JPG/) && !value.match(/\(/))){
+          %>
+              <img class="sp-thumbnail" src="<%- url_for(page.path+value).replace("en/", "ja/") %>" />
+          <% }else{ %>
+            <%
+            if(value.indexOf("(") != -1){
+              value = value.split("(")[1].split(")")[0]
+            }else{
+              value = "top.jpg";
+            }
+             %>
+              <div class="sp-thumbnail">
+                  <img src="<%- url_for(page.path+value).replace("en/", "ja/") %>" />
+                  <div class="play">
+                      <i class="fas fa-play-circle" aria-hidden="true"></i>
+                  </div>
+              </div>
+          <% } %>
+            <% });} %>
+        </div>
+      </div>
+    </div>
+    <div class="work_description">
+      <h2 class="work_title"><%- page.title_show %></h2>
+      <hr>
+      <div class="work-details">
+        <%
+        var format = "";
+        page.categories.forEach(function(value, key){
+          if(value.name != "work" && value.name != "news"){
+            format = value.name
+          }
+        }) %>
+        <li><%= __('post.format') %>: <%- format %></li>
+        <% if(page.medium){%><li><%= __('post.media') %>: <%- page.medium %></li><% }%>
+        <% if(page.duration){%><li><%= __('post.duration') %>: <%- moment(page.duration, "hh:mm:ss").format("mm:ss") %></li><% }%>
+        <% if(page.date){%><li><%= __('post.when') %>: <%- page.date.format("YYYY-MM") %></li><% }%>
+        <% if(page.where){%><li><%= __('post.where') %>: <%- page.where %></li><% }%>
+        <% if(page.other){%><p class="other"><%- page.other %></p><% }%>
+      </div>
+    </div>
+  </div>
+  <div class="work_detail">
+    <%- page.content %>
+  </div>

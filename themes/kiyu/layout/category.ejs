@@ -1,0 +1,34 @@
+<!-- <h1>This is category.ejs</h1> -->
+<%
+var parent = "works";
+var sort = "-date";
+if(page.category == "news"){
+  parent = "news";
+  sort = "-updated";
+}%>
+<div class="<%- parent %>">
+  <%
+  if(page.path.indexOf("en/") == -1){
+    lang = "ja";
+  }else{
+    lang = "en";
+  }
+  page.posts.sort(sort).forEach(function(post){
+    if(post.lang == lang){
+      if(page.category == "news"){%>
+          <li><%- post.updated.format("YYYY-MM-DD") %>:&nbsp;&nbsp;&nbsp;<a href="<%-  url_for(post.path) %>"><%- post.title_show %></a></li>
+      <% }else{%>
+        <div class="index-work">
+          <a href="<%-  url_for(post.path) %>">
+            <div class="image_wrapper">
+              <% %>
+              <img class="top-image" src="<%- url_for(post.path+post.cover_image).replace("en/", "ja/")%>" alt="<%- post.title_show %>" />
+            </div>
+            <div class="top-text">
+              <p style="font-size:75%;text-align:right;"><%- post.date.format("YYYY-MM")%></p>
+              <p><%- post.title_show %></p>
+            </div>
+          </a>
+        </div>
+  <% }}});%>
+</div>

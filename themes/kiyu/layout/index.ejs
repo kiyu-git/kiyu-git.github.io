@@ -1,0 +1,13 @@
+<p>自動的に画面が遷移しない場合はURLをクリックしてください<br><a id="url"></a></p>
+<script type="text/javascript">
+  var url = location.href;
+  if(url.slice(-1) != "/"){
+    url += "/"
+  }
+  url += "work";
+  document.getElementById("url").setAttribute("href", url);
+  document.getElementById("url").innerHTML = url;
+  setTimeout(function(){
+    window.location.href = url;
+  }, 1000);
+</script>
