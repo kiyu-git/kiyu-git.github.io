@@ -48,3 +48,15 @@ $(document).ready(function($) {
     slideDistance: 10,//スライド同士の距離
   });
 });
+
+function category_select(e, b){
+  if(b == "hover"){
+    $(".work_category").css('opacity','0.5')
+    $("."+e.textContent).css('opacity','1')
+    e.style = "text-decoration: underline;"
+  }else if(b == "unhover"){
+    e.style = "text-decoration: none;"
+  } else{
+    $(".work_category").css('opacity','1')
+  }
+}

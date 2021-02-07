@@ -5,18 +5,28 @@
 
       <div id="nav-content">
         <ul>
-        <li><%- page.lang %></li>
         <li><a href="<%- url_for(page.lang+"/about/") %>">about</a></li>
         <!-- <li><a href="<%- url_for(page.lang+"/news/") %>">news</a></li> -->
         <li><a href="<%- url_for(page.lang+"/link/") %>">link</a></li>
         <li><a href="<%- url_for(page.lang+"/contact/") %>">contact</a></li>
-        <li><a href="<%- url_for(page.lang+"/work/") %>">work</a></li>
+        <li onmouseover="category_select(this, 'unhover_all')"><a href="<%- url_for(page.lang+"/") %>">work</a></li>
         <ul>
-          <li><a href="<%- url_for(page.lang+"/work/video/") %>">video</a></li>
-          <li><a href="<%- url_for(page.lang+"/work/performance/")%>">performance</a></li>
-          <li><a href="<%- url_for(page.lang+"/work/installation/") %>">installation</a></li>
-          <li><a href="<%- url_for(page.lang+"/work/direction/") %>">direction</a></li>
-          <li><a href="<%- url_for(page.lang+"/work/other/") %>">other</a></li>
+          <li>
+            <label id="video_label" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">video</label>
+            <input name="sub_category" type="radio" id="video">
+          </li>
+          <li>
+            <input name="sub_category" type="radio" id="performance">
+            <label id="performance_label" for="performance" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">performance</label>
+          </li>
+          <li>
+            <input name="sub_category" type="radio" id="installation">
+            <label id="installation_label" for="installation" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">installation</label>
+          </li>
+          <li>
+            <input  name="sub_category" type="radio" id="direction">
+            <label id="direction_label" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">direction</label>
+          </li>
         </ul>
       </ul>
     </div>

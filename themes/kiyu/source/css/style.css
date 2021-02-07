@@ -41,6 +41,15 @@ nav a{
 nav li a:hover{
   text-decoration: underline;
 }
+
+.sub_category_select{
+  opacity: 1;
+}
+
+.sub_category_select{
+  opacity: 0.5;
+}
+
 /* header */
 header{
   position: fixed;
