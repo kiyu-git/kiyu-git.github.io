@@ -53,10 +53,11 @@ function category_select(e, b){
   if(b == "hover"){
     $(".work_category").css('opacity','0.5')
     $("."+e.textContent).css('opacity','1')
+    $(".sub_category").css('text-decoration','none')
     e.style = "text-decoration: underline;"
   }else if(b == "unhover"){
-    e.style = "text-decoration: none;"
   } else{
     $(".work_category").css('opacity','1')
+    $(".sub_category").css('text-decoration','none')
   }
 }
