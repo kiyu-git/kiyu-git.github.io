@@ -1,10 +1,3 @@
-<%
-if(page.path.indexOf("en/") == -1){
-  lang = "ja";
-}else{
-  lang = "en";
-}
-%>
 <div class="sidebar">
   <nav>
     <div id="nav-drawer">
@@ -12,17 +5,16 @@ if(page.path.indexOf("en/") == -1){
 
       <div id="nav-content">
         <ul>
-        <li><a href="<%- url_for(lang+"/about/") %>">about</a></li>
-        <!-- <li><a href="<%- url_for(lang+"/news/") %>">news</a></li> -->
-        <li><a href="<%- url_for(lang+"/link/") %>">link</a></li>
-        <li><a href="<%- url_for(lang+"/contact/") %>">contact</a></li>
-        <li><a href="<%- url_for(lang+"/work/").replace("ja/", "") %>">work</a></li>
+        <li><a href="<%- url_for(page.lang+"/about/") %>">about</a></li>
+        <!-- <li><a href="<%- url_for(page.lang+"/news/") %>">news</a></li> -->
+        <li><a href="<%- url_for(page.lang+"/link/") %>">link</a></li>
+        <li><a href="<%- url_for(page.lang+"/contact/") %>">contact</a></li>
+        <li><a href="<%- url_for(page.lang+"/") %>">work</a></li>
         <ul>
-          <li><a href="<%- url_for(lang+"/work/video/").replace("ja/", "") %>">video</a></li>
-          <li><a href="<%- url_for(lang+"/work/performance/").replace("ja/", "")%>">performance</a></li>
-          <li><a href="<%- url_for(lang+"/work/installation/").replace("ja/", "") %>">installation</a></li>
-          <li><a href="<%- url_for(lang+"/work/direction/").replace("ja/", "") %>">direction</a></li>
-          <li><a href="<%- url_for(lang+"/work/other/").replace("ja/", "") %>">other</a></li>
+          <li><a href="<%- url_for(page.lang+"/work/video/") %>">video</a></li>
+          <li><a href="<%- url_for(page.lang+"/work/performance/")%>">performance</a></li>
+          <li><a href="<%- url_for(page.lang+"/work/installation/") %>">installation</a></li>
+          <li><a href="<%- url_for(page.lang+"/work/direction/") %>">direction</a></li>
         </ul>
       </ul>
     </div>

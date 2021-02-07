@@ -8,13 +8,8 @@ if(page.category == "news"){
 }%>
 <div class="<%- parent %>">
   <%
-  if(page.path.indexOf("en/") == -1){
-    lang = "ja";
-  }else{
-    lang = "en";
-  }
   page.posts.sort(sort).forEach(function(post){
-    if(post.lang == lang){
+    if(post.lang == page.lang){
       if(page.category == "news"){%>
           <li><%- post.updated.format("YYYY-MM-DD") %>:&nbsp;&nbsp;&nbsp;<a href="<%-  url_for(post.path) %>"><%- post.title_show %></a></li>
       <% }else{%>
