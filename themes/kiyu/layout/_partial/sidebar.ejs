@@ -11,7 +11,12 @@
         <li><a href="<%- url_for(page.lang+"/contact/") %>">contact</a></li>
         <li onmouseover="category_select(this, 'unhover_all')"><a href="<%- url_for(page.lang+"/") %>">work</a></li>
         <ul>
+          <%
+          // work 以下の sub_categoryを展開
+          site.categories.sort((a, b) => a.length - b.length).filter(category => category.length > config.sub_category_min_length*2).map(category => category.slug).filter(item => item.includes("work/") && !item.includes("other")).map(item => item.replace("work/", "")).forEach(function(category){
+          %>
           <li>
+<<<<<<< HEAD
             <input name="sub_category" type="radio" id="video">
             <label id="video_label"  class="sub_category" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">video</label>
           </li>
@@ -26,7 +31,14 @@
           <li>
             <input  name="sub_category" type="radio" id="direction">
             <label id="direction_label" class="sub_category" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">direction</label>
+=======
+            <label id="<%- category %>_label" class="sub_category" for="<%- category %>" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><%- category %></label>
+            <input name="sub_category" type="radio" id="<%- category %>">
+>>>>>>> sub_categories_selector
           </li>
+          <%
+          })
+          %>
         </ul>
       </ul>
     </div>
