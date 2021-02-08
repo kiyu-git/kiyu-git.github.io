@@ -6,20 +6,29 @@ html, body{
   font-family: 'Noto Serif JP', serif;
 }
 .contents{
-  margin: 0 20px;
-  margin-bottom: 50px;
+  padding: 50px 20px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* sidebar */
-.sidebar #nav-content{
-  position: fixed;
+.left_column, .right_column{
   width: 15%;
+  z-index: 999;
+}
+
+
+.sidebar #nav-content{
   height: 100%;
   min-width: 200px;
   font-size: 100%;
   z-index: 3;
 }
 
+.sidebar > nav{
+  position: fixed;
+}
 
 nav li{
   padding: 5px 0;
@@ -99,16 +108,33 @@ header h3 a{
 /* main - work */
 .main{
   width: 70%;
-  margin:0 15%;
-  padding-top: 100px;
+  padding-top: 1em;
 }
 
 .works{
   display: grid;
   column-gap: 50px;
   row-gap: 1em;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
+
+/* .works{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+} */
+
+/* .index-work{
+  width: 20%;
+  margin: 1em 50px;
+} */
+
+/* .works{
+  display: grid;
+  column-gap: 50px;
+  row-gap: 1em;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+} */
 
 .main a{
   text-decoration: none;
@@ -250,14 +276,13 @@ footer{
   .main {
     width: 100%;
     margin: 0 auto;
-    padding-top: 100px;
   }
-  .works {
+  /* .works {
     display: grid;
     column-gap: 50px;
     row-gap: 1em;
     grid-template-columns: 1fr 1fr 1fr;
-  }
+  } */
   .work_about{
     display: block;
   }
@@ -275,7 +300,7 @@ footer{
 }
 
 @media (max-width: 700px) {
-  .works {
+  /* .works {
     display: grid;
     column-gap: 50px;
     row-gap: 1em;
@@ -288,5 +313,6 @@ footer{
       column-gap: 50px;
       row-gap: 1em;
       grid-template-columns: 1fr;
-    }
+    } */
   }
+
