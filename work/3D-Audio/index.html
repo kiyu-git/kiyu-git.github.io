@@ -4,15 +4,15 @@
   
 
   
-  <title>3D Audio | Kiyu website</title>
+  <title>3D audio | Kiyu website</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="alternate" hreflang="ja" href="/">
   <link rel="alternate" hreflang="en" href="/en/">
   <meta name="description" content="created by Kiyu">
 <meta property="og:type" content="website">
-<meta property="og:title" content="3D Audio">
-<meta property="og:url" content="https://kiyu.untamable.work/work/3D-Audio/index.html">
+<meta property="og:title" content="3D audio">
+<meta property="og:url" content="https://kiyu.untamable.work/work/3D-audio/index.html">
 <meta property="og:site_name" content="Kiyu website">
 <meta property="og:description" content="created by Kiyu">
 <meta property="og:locale" content="ja_JP">
@@ -48,7 +48,7 @@
   
 <header>
   <h3><a href="/">Kiyu Nishida</a></h3>
-  <div class="language_choice"><a id="lang_ja" href="/work/3D-Audio/">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/en/work/3D-Audio/">en.</a></div>
+  <div class="language_choice"><a id="lang_ja" href="/work/3D-audio/">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/en/work/3D-audio/">en.</a></div>
   <label id="nav-open" for="nav-input"><span></span></label>
   <label class="nav-unshown" id="nav-close" for="nav-input"></label>
 </header>
@@ -104,6 +104,11 @@
             <input name="sub_category" type="radio" id="3D-Audio">
           </li>
           
+          <li>
+            <label id="musical-instrument_label" class="sub_category" for="musical-instrument" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">musical-instrument</a></label>
+            <input name="sub_category" type="radio" id="musical-instrument">
+          </li>
+          
         </ul>
       </ul>
     </div>
@@ -115,15 +120,43 @@
 
 <div class="works">
   
-        <div class="index-work">
-          <a href="/Communication-plus/">
-            <div class="image_wrapper">
-              
+</div>
+</div>
+    <div class="right_column"></div>
+  </div>
+   <footer>
+    <!--<p>Copyright 2019</p>
+    <h2>Kiyu</h2>-->
+  </footer> 
+  <script>
+    // make meta og image
+    if($('meta[name="twitter:image"]')[0].content.includes("NULL")){
+      let img_path = $('img').filter(function(i){return this.src.includes("top.jpg")}).map(function(i){return this.src})[0]
+      $('meta[name="twitter:image"]')[0].content = img_path;
+      $('meta[property="og:image"]')[0].content = img_path;
+    }
+  </script>
+</body>
+</html>
+    
               <img class="top-image" src="/Communication-plus/top.jpg" alt="Communication+" />
             </div>
             <div class="top-text">
               <p style="font-size:75%;text-align:right;">2018-08</p>
               <p>Communication+</p>
+            </div>
+          </a>
+        </div>
+  
+        <div class="index-work">
+          <a href="/SPATIAL-STUDY-BETWEEN-SOUNDS-VOICE/">
+            <div class="image_wrapper">
+              
+              <img class="top-image" src="/SPATIAL-STUDY-BETWEEN-SOUNDS-VOICE/top.jpg" alt="SPATIAL STUDY BETWEEN SOUNDS & VOICE" />
+            </div>
+            <div class="top-text">
+              <p style="font-size:75%;text-align:right;">2018-07</p>
+              <p>SPATIAL STUDY BETWEEN SOUNDS & VOICE</p>
             </div>
           </a>
         </div>
