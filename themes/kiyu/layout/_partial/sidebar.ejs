@@ -16,25 +16,8 @@
           site.categories.sort((a, b) => a.length - b.length).filter(category => category.length > config.sub_category_min_length*2).map(category => category.slug).filter(item => item.includes("work/") && !item.includes("other")).map(item => item.replace("work/", "")).forEach(function(category){
           %>
           <li>
-<<<<<<< HEAD
-            <input name="sub_category" type="radio" id="video">
-            <label id="video_label"  class="sub_category" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">video</label>
-          </li>
-          <li>
-            <input name="sub_category" type="radio" id="performance">
-            <label id="performance_label" class="sub_category" for="performance" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">performance</label>
-          </li>
-          <li>
-            <input name="sub_category" type="radio" id="installation">
-            <label id="installation_label" class="sub_category" for="installation" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">installation</label>
-          </li>
-          <li>
-            <input  name="sub_category" type="radio" id="direction">
-            <label id="direction_label" class="sub_category" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')">direction</label>
-=======
             <label id="<%- category %>_label" class="sub_category" for="<%- category %>" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><%- category %></label>
             <input name="sub_category" type="radio" id="<%- category %>">
->>>>>>> sub_categories_selector
           </li>
           <%
           })
