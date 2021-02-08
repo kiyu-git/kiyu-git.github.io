@@ -1,27 +1,11 @@
 <%
-if(page.path.indexOf("work/") != -1){
-  //work
-  if(page.path.indexOf("en/") == -1){
-    href_en = url_for("/en/" + page.path)
-    href_ja = url_for(page.path)
-  }else{
-    href_en = url_for(page.path)
-    href_ja = url_for(page.path.replace("en/", ""))
-  }
-}else{
-  if(page.path.indexOf("en/") == -1){
-    // ja
-    href_en = url_for(page.path).replace("ja/", "en/")
-    href_ja = url_for(page.path)
-  }else{
-    href_en = url_for(page.path)
-    href_ja = url_for(page.path.replace("en/", "ja/"))
-  }
-}
-if(page.path.indexOf("en/") == -1){
-  lang = "ja";
-}else{
-  lang = "en";
+console.log(page.path)
+if(page.path.includes("ja/")){
+    href_en = url_for(page.path).replace("ja/", "en/").replace("index.html", "")
+    href_ja = url_for(page.path).replace("index.html", "")
+}else if(page.path.includes("en/")){
+    href_en = url_for(page.path).replace("index.html", "")
+    href_ja = url_for(page.path.replace("en/", "ja/")).replace("index.html", "")
 }
 
 %>

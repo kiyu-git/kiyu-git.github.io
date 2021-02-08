@@ -16,7 +16,7 @@
           site.categories.sort((a, b) => a.length - b.length).filter(category => category.length > config.sub_category_min_length*2).map(category => category.slug).filter(item => item.includes("work/") && !item.includes("other")).map(item => item.replace("work/", "")).forEach(function(category){
           %>
           <li>
-            <label id="<%- category %>_label" class="sub_category" for="<%- category %>" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><%- category %></label>
+            <label id="<%- category %>_label" class="sub_category" for="<%- category %>" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="<%- url_for(page.lang+"/#") %>"><%- category %></a></label>
             <input name="sub_category" type="radio" id="<%- category %>">
           </li>
           <%
