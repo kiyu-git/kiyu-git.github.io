@@ -16,10 +16,10 @@
 <meta property="og:site_name" content="Kiyu website">
 <meta property="og:description" content="created by Kiyu">
 <meta property="og:locale" content="ja_JP">
-<meta property="og:image" content="https://kiyu.untamable.work/tags/encore/top.jpg">
+<meta property="og:image" content="https://kiyu.untamable.work/tags/encore/NULL">
 <meta property="article:author" content="Kiyu Nishida">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://kiyu.untamable.work/tags/encore/top.jpg">
+<meta name="twitter:image" content="https://kiyu.untamable.work/tags/encore/NULL">
 <meta name="twitter:creator" content="@kyu_yukirinrin">
   
   
@@ -70,8 +70,8 @@
         <ul>
           
           <li>
-            <label id="performance_label" class="sub_category" for="performance" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">performance</a></label>
-            <input name="sub_category" type="radio" id="performance">
+            <label id="video_label" class="sub_category" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">video</a></label>
+            <input name="sub_category" type="radio" id="video">
           </li>
           
           <li>
@@ -80,8 +80,8 @@
           </li>
           
           <li>
-            <label id="video_label" class="sub_category" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">video</a></label>
-            <input name="sub_category" type="radio" id="video">
+            <label id="performance_label" class="sub_category" for="performance" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">performance</a></label>
+            <input name="sub_category" type="radio" id="performance">
           </li>
           
           <li>
@@ -90,13 +90,13 @@
           </li>
           
           <li>
-            <label id="sculpture_label" class="sub_category" for="sculpture" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">sculpture</a></label>
-            <input name="sub_category" type="radio" id="sculpture">
+            <label id="direction_label" class="sub_category" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">direction</a></label>
+            <input name="sub_category" type="radio" id="direction">
           </li>
           
           <li>
-            <label id="direction_label" class="sub_category" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">direction</a></label>
-            <input name="sub_category" type="radio" id="direction">
+            <label id="sculpture_label" class="sub_category" for="sculpture" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">sculpture</a></label>
+            <input name="sub_category" type="radio" id="sculpture">
           </li>
           
           <li>
@@ -120,10 +120,11 @@
   </footer> 
   <script>
     // make meta og image
-    let img_path = $('img').filter(function(i){return this.src.includes("top.jpg")}).map(function(i){return this.src})[0]
-    $('meta[name="twitter:image"]')[0].content = img_path;
-    $('meta[property="og:image"]')[0].content = img_path;
-
+    if($('meta[name="twitter:image"]')[0].content.includes("NULL")){
+      let img_path = $('img').filter(function(i){return this.src.includes("top.jpg")}).map(function(i){return this.src})[0]
+      $('meta[name="twitter:image"]')[0].content = img_path;
+      $('meta[property="og:image"]')[0].content = img_path;
+    }
   </script>
 </body>
 </html>
