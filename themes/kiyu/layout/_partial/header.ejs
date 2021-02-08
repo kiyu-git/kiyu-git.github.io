@@ -1,11 +1,4 @@
 <%
-// if(page.path.includes("ja/")){
-//     href_en = url_for(page.path).replace("ja/", "en/").replace("index.html", "")
-//     href_ja = url_for(page.path).replace("index.html", "")
-// }else if(page.path.includes("en/")){
-//     href_en = url_for(page.path).replace("index.html", "")
-//     href_ja = url_for(page.path.replace("en/", "ja/")).replace("index.html", "")
-// }
 if(!page.path.includes("en/")){
     href_en = url_for("en/"+page.path).replace("index.html", "")
     href_ja = url_for(page.path).replace("index.html", "")

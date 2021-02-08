@@ -1,7 +1,6 @@
 // config.language_defaultをrootに
 hexo.extend.filter.register('post_permalink', function(data){
     const { config } = this;
-    console.log(data)
     return data.replace(config.language_default+"/", "")
 });
   

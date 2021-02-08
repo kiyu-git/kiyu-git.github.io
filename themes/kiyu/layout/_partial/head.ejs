@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
   <%- partial('google-analytics') %>
   <%
@@ -27,13 +25,13 @@
   <link rel="alternate" hreflang="en" href="<%-url_for('en/')%>">
   <%- open_graph({twitter_id: "kyu_yukirinrin", google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id, title: title, description: "created by Kiyu Nishida"}) %>
   <% if (theme.rss){ %>
-    <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
+  <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
   <% } %>
   <% if (theme.favicon){ %>
-    <link rel="icon" href="<%- theme.favicon %>">
+  <link rel="icon" href="<%- theme.favicon %>">
   <% } %>
   <% if (config.highlight.enable){ %>
-    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <% } %>
   <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/slider-pro/1.5.0/css/slider-pro.min.css" rel="stylesheet">
