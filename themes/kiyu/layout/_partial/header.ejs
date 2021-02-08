@@ -1,16 +1,26 @@
 <%
-console.log(page.path)
-if(page.path.includes("ja/")){
-    href_en = url_for(page.path).replace("ja/", "en/").replace("index.html", "")
+// if(page.path.includes("ja/")){
+//     href_en = url_for(page.path).replace("ja/", "en/").replace("index.html", "")
+//     href_ja = url_for(page.path).replace("index.html", "")
+// }else if(page.path.includes("en/")){
+//     href_en = url_for(page.path).replace("index.html", "")
+//     href_ja = url_for(page.path.replace("en/", "ja/")).replace("index.html", "")
+// }
+if(!page.path.includes("en/")){
+    href_en = url_for("en/"+page.path).replace("index.html", "")
     href_ja = url_for(page.path).replace("index.html", "")
-}else if(page.path.includes("en/")){
+}else{
     href_en = url_for(page.path).replace("index.html", "")
-    href_ja = url_for(page.path.replace("en/", "ja/")).replace("index.html", "")
+    href_ja = url_for(page.path.replace("en/", "")).replace("index.html", "")
 }
 
+let lang = page.lang
+if(page.lang.includes("ja")){
+  lang = ""
+}
 %>
 <header>
-  <h3><a href="<%- url_for(page.lang+"/") %>">Kiyu Nishida</a></h3>
+  <h3><a href="<%- url_for(lang+"/") %>">Kiyu Nishida</a></h3>
   <div class="language_choice"><a id="lang_ja" href="<%- href_ja %>">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="<%- href_en %>">en.</a></div>
   <label id="nav-open" for="nav-input"><span></span></label>
   <label class="nav-unshown" id="nav-close" for="nav-input"></label>

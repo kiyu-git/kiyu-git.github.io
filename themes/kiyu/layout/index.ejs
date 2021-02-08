@@ -1,16 +1,16 @@
 <div class="works">
   <% 
   site.posts.sort("-updated").forEach(function(post){
-    if(post.lang == page.lang){
+    if(post.lang == page.lang.replace("ja", "")){
       // 言語がpageとpostで一致
       if(post.categories.some(category => category.name === 'work')){
         // カテゴリーがwork
         const categories = post.categories.map(category => category.slug).filter(item => item.includes("work/") && !item.includes("other")).map(item => item.replace("work/", ""))
   %>
     <div class="index-work work_category <%- categories %>">
-      <a href="<%-  url_for(post.path) %>">
+      <a href="<%-  url_for(post.path).replace("ja/", "") %>">
         <div class="image_wrapper">
-          <img class="top-image" src="<%- url_for(post.path+post.cover_image).replace("en/", "ja/")%>" alt="<%- post.title_show %>" />
+          <img class="top-image" src="<%- url_for(post.path+post.cover_image).replace("en/", "")%>" alt="<%- post.title_show %>" />
         </div>
         <div class="top-text">
           <p style="font-size:75%;text-align:right;"><%- post.date.format("YYYY-MM")%></p>

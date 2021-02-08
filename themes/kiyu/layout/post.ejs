@@ -9,7 +9,7 @@
             if((value.match(/png/) && !value.match(/\(/))|| (value.match(/jpg/) && !value.match(/\(/)) ||(value.match(/JPG/) && !value.match(/\(/))){
         %>
           <div class="sp-slide">
-            <img class="sp-image" src="<%- url_for(page.path+value).replace("en/", "ja/") %>" />
+            <img class="sp-image" src="<%- url_for(page.path+value).replace("en/", "") %>" />
           </div>
         <% }else{ %>
           <div class="sp-slide">
@@ -24,7 +24,7 @@
           page.medias.forEach(function(value, key){
               if((value.match(/png/) && !value.match(/\(/))|| (value.match(/jpg/) && !value.match(/\(/)) ||(value.match(/JPG/) && !value.match(/\(/))){
           %>
-              <img class="sp-thumbnail" src="<%- url_for(page.path+value).replace("en/", "ja/") %>" />
+              <img class="sp-thumbnail" src="<%- url_for(page.path+value).replace("en/", "") %>" />
           <% }else{ %>
             <%
             if(value.indexOf("(") != -1){
@@ -34,7 +34,7 @@
             }
              %>
               <div class="sp-thumbnail">
-                  <img src="<%- url_for(page.path+value).replace("en/", "ja/") %>" />
+                  <img src="<%- url_for(page.path+value).replace("en/", "") %>" />
                   <div class="play">
                       <i class="fas fa-play-circle" aria-hidden="true"></i>
                   </div>

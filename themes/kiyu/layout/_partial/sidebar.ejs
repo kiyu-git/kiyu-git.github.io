@@ -1,3 +1,9 @@
+<%
+let lang = page.lang
+if(page.lang.includes("ja")){
+  lang = ""
+}
+%>
 <div class="sidebar left_column">
   <nav>
     <div id="nav-drawer">
@@ -5,18 +11,18 @@
 
       <div id="nav-content">
         <ul>
-        <li><a href="<%- url_for(page.lang+"/about/") %>">about</a></li>
-        <!-- <li><a href="<%- url_for(page.lang+"/news/") %>">news</a></li> -->
-        <li><a href="<%- url_for(page.lang+"/link/") %>">link</a></li>
-        <li><a href="<%- url_for(page.lang+"/contact/") %>">contact</a></li>
-        <li onmouseover="category_select(this, 'unhover_all')"><a href="<%- url_for(page.lang+"/") %>">work</a></li>
+        <li><a href="<%- url_for(lang+"/about/") %>">about</a></li>
+        <!-- <li><a href="<%- url_for(lang+"/news/") %>">news</a></li> -->
+        <li><a href="<%- url_for(lang+"/link/") %>">link</a></li>
+        <li><a href="<%- url_for(lang+"/contact/") %>">contact</a></li>
+        <li onmouseover="category_select(this, 'unhover_all')"><a href="<%- url_for(lang+"/") %>">work</a></li>
         <ul>
           <%
           // work 以下の sub_categoryを展開
           site.categories.sort((a, b) => a.length - b.length).filter(category => category.length > config.sub_category_min_length*2).map(category => category.slug).filter(item => item.includes("work/") && !item.includes("other")).map(item => item.replace("work/", "")).forEach(function(category){
           %>
           <li>
-            <label id="<%- category %>_label" class="sub_category" for="<%- category %>" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="<%- url_for(page.lang+"/#") %>"><%- category %></a></label>
+            <label id="<%- category %>_label" class="sub_category" for="<%- category %>" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="<%- url_for(lang+"/#") %>"><%- category %></a></label>
             <input name="sub_category" type="radio" id="<%- category %>">
           </li>
           <%
