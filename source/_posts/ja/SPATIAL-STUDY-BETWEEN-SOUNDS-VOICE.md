@@ -10,6 +10,7 @@ duration: '00:05:00'
 categories:
   - news
   - [work, performance]
+  - [work, 3D Audio]
 lang: ja
 date: 2018-07-21 23:20:31
 where: Rundgang カールスルーエ造形大学年度末展示会

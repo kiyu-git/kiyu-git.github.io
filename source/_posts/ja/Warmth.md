@@ -11,6 +11,7 @@ duration:
 categories:
   - news
   - [work, other]
+  - [work, "sculpture"]
 lang: ja
 date: 2017-10-20 12:50:51
 where:

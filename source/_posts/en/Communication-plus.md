@@ -12,6 +12,7 @@ categories:
   - news
   - [work, other]
   - [work, "3D Audio"]
+  - [work, "performance"]
 lang: en
 date: 2018-08-04 18:30:52
 where: KAMUNA (Karlsruhe Museum Night)

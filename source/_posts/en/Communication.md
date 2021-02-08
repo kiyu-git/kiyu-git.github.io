@@ -11,6 +11,7 @@ categories:
   - news
   - [work, other]
   - [work, "3D Audio"]
+  - [work, "performance"]
 lang: en
 date: 2018-07-20 18:28:55
 where: Rundgang in Karlsruhe University of Arts and Design

@@ -56,3 +56,4 @@ kiyu & nagai, Nxpc. Lab vol.44 INFECTION, 岐阜, 2020/7
 kiyu & LUDO Takebe, Nxpc. Lab vol.46 X 1/2, 岐阜, 2020/10
 西田騎夕,オープンスタジオ 『メディア表現基礎5%4』, 岐阜, 2020/10
 情報科学芸術大学院大学 音響表現研究室, "Aloe vera Synthesizer", Ogaki Mini Maker Faire 2020, 岐阜, 2020/12
+西田騎夕, "歩行練習", [Archival Archetyping Exhibition 2020](https://archival-archetyping.github.io/exhibition-2020/), 2020/12

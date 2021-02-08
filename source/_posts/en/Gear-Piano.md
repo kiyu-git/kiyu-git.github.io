@@ -10,6 +10,7 @@ duration:
 categories:
   - news
   - [work, other]
+  - [work, musical instrument]
 lang: en
 date: 2019-8-04 09:59:14
 where: Maker Faire Tokyo

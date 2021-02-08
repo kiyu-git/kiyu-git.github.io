@@ -9,7 +9,7 @@ medium: [アクリル板, ガチャガチャマシン]
 duration:
 categories:
   - news
-  - [work,  installation]
+  - [work, installation]
   - [work, relational art]
 lang: ja
 date: 2019-11-15 13:41:25

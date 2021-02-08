@@ -10,6 +10,7 @@ duration: '00:10:00'
 categories:
   - news
   - [work, performance]
+  - [work, 3D Audio]
 lang: ja
 date: 2018-10-05 18:31:25
 where: The concert "Future Sound" at Beyond Festival 2018 in ZKM (Karlsruhe Art and Media Center)

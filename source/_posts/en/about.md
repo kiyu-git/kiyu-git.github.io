@@ -63,3 +63,4 @@ kiyu & nagai, Nxpc. Lab vol.44 INFECTION, Gifu Japan, 2020/7
 kiyu & LUDO Takebe, Nxpc. Lab vol.46 X 1/2, Gifu Japan, 2020/10
 Kiyu Nishida, Open Studio "Media Creation Foundation 5%4", Gifu Japan, 2020/10
 IAMAS Acoustic Media Creation Lab, "Aloe vera Synthesizer", Ogaki Mini Maker Faire 2020, Gifu Japan, 2020/12
+Kiyu Nishida, "Gait Training, [Archival Archetyping Exhibition 2020](https://archival-archetyping.github.io/exhibition-2020/), 2020/12

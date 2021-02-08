@@ -3,10 +3,6 @@
 - tag manager
 - news ?
 
-- test ogc
-
-- 表示タイトル
-
 
 # DONE
 - other p
@@ -20,3 +16,5 @@
 - display stand
 - social selection
 - watcher
+- test ogc
+- 表示タイトル
