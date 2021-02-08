@@ -4,7 +4,7 @@
 - news ?
 
 - test ogc
-- remove other format 
+
 - 表示タイトル
 
 
@@ -14,6 +14,7 @@
 - silences
 - lost connection
 - about
+- remove other format 
 
 - latest romances
 - display stand

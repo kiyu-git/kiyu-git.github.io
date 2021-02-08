@@ -55,7 +55,7 @@
             format = value.name
           }
         }) %>
-        <li><%= __('post.format') %>: <%- format %></li>
+        <!--<li><%= __('post.format') %>: <%- format %></li>-->
         <% if(page.medium){%><li><%= __('post.media') %>: <%- page.medium.map(item => " "+item) %></li><% }%>
         <% if(page.duration){%><li><%= __('post.duration') %>: <%- moment(page.duration, "hh:mm:ss").format("mm:ss") %></li><% }%>
         <% if(page.date){%><li><%= __('post.when') %>: <%- page.date.format("YYYY-MM") %></li><% }%>

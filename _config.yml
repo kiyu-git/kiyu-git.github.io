@@ -88,7 +88,7 @@ theme: kiyu
 deploy:
   type: git
   repo: https://github.com/kiyu-git/webpage.git
-  branch: master
+  branch: source
   # ignore_pattern:
     # public/ja/**/source: .
     # - ja/**/*alias*
