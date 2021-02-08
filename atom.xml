@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Kiyu</title>
+  <title>Kiyu website</title>
   <icon>https://kiyu.untamable.work/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiyu.untamable.work/"/>
-  <updated>2019-11-27T13:46:26.000Z</updated>
+  <updated>2021-02-08T13:07:01.192Z</updated>
   <id>https://kiyu.untamable.work/</id>
   
   <author>
@@ -14,28 +14,242 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>The story on a paper</title>
-    <link href="https://kiyu.untamable.work/ja/The-story-on-a-paper/"/>
-    <id>https://kiyu.untamable.work/ja/The-story-on-a-paper/</id>
-    <published>2019-11-27T13:35:27.000Z</published>
-    <updated>2019-11-27T13:46:26.000Z</updated>
+    <title>Aloe_vera_Synthesizer</title>
+    <link href="https://kiyu.untamable.work/en/Aloe-vera-Synthesizer/"/>
+    <id>https://kiyu.untamable.work/en/Aloe-vera-Synthesizer/</id>
+    <published>2020-10-07T12:58:27.000Z</published>
+    <updated>2021-02-08T13:07:01.192Z</updated>
     
     <summary type="html">
+    
+      &lt;p&gt;The Aloe vera Synthesizer is a musical instrument which integrate memristor into analog synthesizer modules. The memristor is a fourth fundamental circuit element theorized by Leon Chua in 1971. It is less familiar than the other three (the resistor, capacitor and inductor). The Aloe vera is one of the materials which shows the property of memristor. In this project, I explore not only the new possibilities of musical expression which arise from integrating the Aloe vera memristor into a circuit of analog synthesizer module, but also the possibilities of expression which arise from collaboration with non human agency.&lt;/p&gt;
+&lt;h3 id=&quot;Presentations&quot;&gt;&lt;a href=&quot;#Presentations&quot; class=&quot;headerlink&quot; title=&quot;Presentations&quot;&gt;&lt;/a&gt;Presentations&lt;/h3&gt;&lt;h4 id=&quot;Performance&quot;&gt;&lt;a href=&quot;#Performance&quot; class=&quot;headerlink&quot; title=&quot;Performance&quot;&gt;&lt;/a&gt;Performance&lt;/h4&gt;&lt;p&gt;Kiyu Nishida，”Untitled”，ICSAF 2019 (Intercollegiate Sonic Arts Festival)，Saitama Japan，2019/12&lt;br&gt;Kiyu Nishida，Nxpc. Live vol.38 KID×IAMAS，Fukuoka Japan，2019/12&lt;br&gt;kiyu &amp;amp; LUDO Takebe, Nxpc. Lab vol.46 X 1/2，岐阜，2020/10&lt;/p&gt;
+&lt;p&gt;Kiyu Nishida, Open Studio “Media Creation Foundation 5%4”，Gifu Japan，2020/10&lt;br&gt;IAMAS Acoustic Media Creation Lab “Aloe vera Synthesizer”, Ogaki Mini Maker Faire 2020，Gifu Japan，2020/12&lt;/p&gt;
+&lt;h4 id=&quot;Papers&quot;&gt;&lt;a href=&quot;#Papers&quot; class=&quot;headerlink&quot; title=&quot;Papers&quot;&gt;&lt;/a&gt;Papers&lt;/h4&gt;&lt;p&gt;西田騎夕，城一裕，“バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ”，第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28，2019/12.&lt;/p&gt;
+&lt;p&gt;Kiyu Nishida, “The Modules for Analog Synthesizers Using Aloe vela (L.) Biomemristor”, Kyushu University School of Design Department of Acoustic Bachelor thesis, 2020/1&lt;/p&gt;
+&lt;p&gt;K. Nishida and k. jo. Modules for analog synthesizers using aloe verabiomemristor. In R. Michon and F. Schroeder, editors,Proceedings of theInternational Conference on New Interfaces for Musical Expression, pages93–96, Birmingham, UK, July 2020. Birmingham City University. &lt;a href=&quot;https://www.nime.org/proceedings/2020/nime2020_paper18.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
     
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
     
-      <category term="drawing" scheme="https://kiyu.untamable.work/work/drawing/"/>
+      <category term="performance" scheme="https://kiyu.untamable.work//work/performance/"/>
+    
+      <category term="musical instrument" scheme="https://kiyu.untamable.work//work/musical-instrument/"/>
     
     
-      <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
+      <category term="Aloe_vera_Synthesizer" scheme="https://kiyu.untamable.work/tags/Aloe-vera-Synthesizer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Aloe_vera_Synthesizer</title>
+    <link href="https://kiyu.untamable.work/Aloe-vera-Synthesizer/"/>
+    <id>https://kiyu.untamable.work/Aloe-vera-Synthesizer/</id>
+    <published>2020-10-07T12:58:27.000Z</published>
+    <updated>2021-02-08T13:04:50.870Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;アロエベラシンセサイザーはアロエベラのもつメモリスタという電気素子としての特性をアナログシンセサイザーモジュールの回路に組み込んだ楽器です。メモリスタとは抵抗、コンデンサ、コイルに次ぐ第四の電気素子であり近年研究が進められています。そのメモリスタの特性を示す物質の一つとしてアロエベラが挙げられています。本楽器ではアロエベラによるメモリスタをアナログモジュラーシンセサイザーの回路に取り込むことで生まれる新しい音楽表現の可能性を探求すると同時に、メモリスタの非線形的な特徴やアロエベラというバイオ素材を用いた本楽器の演奏は、制御不可能な側面を含み、単なる素材ではなく他者としてのアロエベラと共に創造する表現を生み出します。&lt;/p&gt;
+&lt;h3 id=&quot;発表&quot;&gt;&lt;a href=&quot;#発表&quot; class=&quot;headerlink&quot; title=&quot;発表&quot;&gt;&lt;/a&gt;発表&lt;/h3&gt;&lt;h4 id=&quot;パフォーマンス&quot;&gt;&lt;a href=&quot;#パフォーマンス&quot; class=&quot;headerlink&quot; title=&quot;パフォーマンス&quot;&gt;&lt;/a&gt;パフォーマンス&lt;/h4&gt;&lt;p&gt;西田騎夕，”Untitled”，ICSAF 2019インターカレッジ・ソニックアーツ・フェスティバル，埼玉，2019/12&lt;br&gt;西田騎夕，Nxpc. Live vol.38 KID×IAMAS，福岡，2019/12&lt;br&gt;kiyu &amp;amp; LUDO Takebe, Nxpc. Lab vol.46 X 1/2，岐阜，2020/10&lt;/p&gt;
+&lt;h4 id=&quot;展示&quot;&gt;&lt;a href=&quot;#展示&quot; class=&quot;headerlink&quot; title=&quot;展示&quot;&gt;&lt;/a&gt;展示&lt;/h4&gt;&lt;p&gt;西田騎夕，オープンスタジオ 『メディア表現基礎5%4』，岐阜，2020/10&lt;br&gt;情報科学芸術大学院大学 音響表現研究室, “Aloe vera Synthesizer”, Ogaki Mini Maker Faire 2020，岐阜，2020/12&lt;/p&gt;
+&lt;h4 id=&quot;論文&quot;&gt;&lt;a href=&quot;#論文&quot; class=&quot;headerlink&quot; title=&quot;論文&quot;&gt;&lt;/a&gt;論文&lt;/h4&gt;&lt;p&gt;西田騎夕，城一裕，“バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ”，第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28，2019/12.&lt;/p&gt;
+&lt;p&gt;西田騎夕, “アロエベラを素材とするバイオメモリスタを用いたモジュラーシンセの検討”, 九州大学 芸術工学部 音響設計学科 2019年度後期 卒業論文, 2020/1&lt;/p&gt;
+&lt;p&gt;K. Nishida and k. jo. Modules for analog synthesizers using aloe verabiomemristor. In R. Michon and F. Schroeder, editors,Proceedings of theInternational Conference on New Interfaces for Musical Expression, pages93–96, Birmingham, UK, July 2020. Birmingham City University. &lt;a href=&quot;https://www.nime.org/proceedings/2020/nime2020_paper18.pdf&quot;&gt;pdf&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="performance" scheme="https://kiyu.untamable.work//work/performance/"/>
+    
+      <category term="musical instrument" scheme="https://kiyu.untamable.work//work/musical-instrument/"/>
+    
+    
+      <category term="Aloe_vera_Synthesizer" scheme="https://kiyu.untamable.work/tags/Aloe-vera-Synthesizer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Watcher</title>
+    <link href="https://kiyu.untamable.work/en/Watcher/"/>
+    <id>https://kiyu.untamable.work/en/Watcher/</id>
+    <published>2020-03-16T11:42:11.000Z</published>
+    <updated>2021-02-08T11:47:00.423Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A sculpture placed at fountain space where is a symbolic place at the campus. It might be looked like a lifeguard at a pool.&lt;/p&gt;
+&lt;p&gt;We made a room for interpretation by installing the sculpture as an installation for a limited time and generating extraordinariness. In this work, we made a room for interpretation of the space by installing the sculpture which looks like a lifeguard near the fountain.&lt;/p&gt;
+&lt;h3 id=&quot;Exhibition&quot;&gt;&lt;a href=&quot;#Exhibition&quot; class=&quot;headerlink&quot; title=&quot;Exhibition&quot;&gt;&lt;/a&gt;Exhibition&lt;/h3&gt;&lt;p&gt;We produced this sculpture with a project “jack fountain” planed by jack which is a group for exhibiting at public spaces and exhibited this work at fountain space where is a symbolic place at Ohashi campus at Kyushu University.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="installation" scheme="https://kiyu.untamable.work//work/installation/"/>
+    
+      <category term="sculpture" scheme="https://kiyu.untamable.work//work/sculpture/"/>
+    
+    
+      <category term="Watcher" scheme="https://kiyu.untamable.work/tags/Watcher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Watcher</title>
+    <link href="https://kiyu.untamable.work/Watcher/"/>
+    <id>https://kiyu.untamable.work/Watcher/</id>
+    <published>2020-03-16T11:42:11.000Z</published>
+    <updated>2021-02-08T11:47:02.861Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;キャンパスのシンボル的な空間である噴水広場に置かれた彫刻。その姿はプールの監視員のようにも見て取れる。&lt;/p&gt;
+&lt;p&gt;期間限定のインスタレーション作品として彫刻を設置することで、その場に非日常性を発生させ、日常空間の中に解釈の余地が見えてくる。この作品ではプールの監視員のような彫刻を噴水の傍に置くことによって空間に解釈の余地を生み出した。&lt;/p&gt;
+&lt;h3 id=&quot;展示&quot;&gt;&lt;a href=&quot;#展示&quot; class=&quot;headerlink&quot; title=&quot;展示&quot;&gt;&lt;/a&gt;展示&lt;/h3&gt;&lt;p&gt;パブリックスペースでの展示を行う有志団体jackによる企画「jack噴水」として彫刻を製作、キャンパスのシンボル的な存在である噴水広場にて展示を行なった。&lt;/p&gt;
+&lt;h3 id=&quot;製作協力&quot;&gt;&lt;a href=&quot;#製作協力&quot; class=&quot;headerlink&quot; title=&quot;製作協力&quot;&gt;&lt;/a&gt;製作協力&lt;/h3&gt;&lt;p&gt;jack噴水メンバー&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="installation" scheme="https://kiyu.untamable.work//work/installation/"/>
+    
+      <category term="sculpture" scheme="https://kiyu.untamable.work//work/sculpture/"/>
+    
+    
+      <category term="Watcher" scheme="https://kiyu.untamable.work/tags/Watcher/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Display-Stand</title>
+    <link href="https://kiyu.untamable.work/en/Display-Stand/"/>
+    <id>https://kiyu.untamable.work/en/Display-Stand/</id>
+    <published>2019-12-23T11:24:45.000Z</published>
+    <updated>2021-02-08T11:30:22.954Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I made a woodwork display stand using Shopbot for the works that had made through the process: generating data by programming, shaping the data by digital fabrication, and then re-produce the shape by hand in a digital fabrication class.&lt;/p&gt;
+&lt;p&gt;Each work is produced by shaping by a 3D printer from the data and then reshaping with cray, also shaping by laser cutter from a cross-section of the data and then reshaping by sculpting.&lt;/p&gt;
+&lt;p&gt;From reconsidering each work that has the process of reference through producing display stand with considering characteristics of both digital fabrication and traditional technique which I have learned before, I sculpted frames from a board as accurately as possible for the works by digital (Shopbot) for hand made works and hand for digital fabricated works.&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="design" scheme="https://kiyu.untamable.work//work/design/"/>
+    
+    
+      <category term="Display-Stand" scheme="https://kiyu.untamable.work/tags/Display-Stand/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Display-Stand</title>
+    <link href="https://kiyu.untamable.work/Display-Stand/"/>
+    <id>https://kiyu.untamable.work/Display-Stand/</id>
+    <published>2019-12-23T11:24:45.000Z</published>
+    <updated>2021-02-08T11:30:21.627Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;デジタルファブリケーションの授業にてプログラミングによるデータの生成、デジタル機器によるデータの物理化、さらにその形状の手による再現、という３つのプロセスを経て製作した個々の作品を踏まえ、その作品を展示するための展示台そのものをShopbotを活用した木工作品として制作した。&lt;/p&gt;
+&lt;p&gt;それぞれの作品は生成したデータから３Dプリンターを使用した物理化、粘土による再現、また生成したデータの断面データからレーザーカッターを使用した物理化、彫刻による再現により製作した。&lt;/p&gt;
+&lt;p&gt;これまでに学んできたデジタルファブリケーションと従来の伝統的技法の双方の特性を踏まえ、展示台を作るという作業を通じて、それ自体が参照のプロセスを持つ各々の作品を再考し直すという点からレーザーカッターや３Dプリンターを用いてデジタルで造形された作品には手で、手で造形した作品にはデジタル(Shopbot)でそれをはめるための枠をできる限り正確に板から削り出した。&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="design" scheme="https://kiyu.untamable.work//work/design/"/>
+    
+    
+      <category term="Display-Stand" scheme="https://kiyu.untamable.work/tags/Display-Stand/"/>
     
   </entry>
   
@@ -51,11 +265,11 @@
     </summary>
     
     
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
     
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
     
-      <category term="drawing" scheme="https://kiyu.untamable.work/work/drawing/"/>
+      <category term="drawing" scheme="https://kiyu.untamable.work//work/drawing/"/>
     
     
       <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
@@ -63,40 +277,105 @@
   </entry>
   
   <entry>
-    <title>Breath of Silence</title>
-    <link href="https://kiyu.untamable.work/ja/Breath-of-Silence/"/>
-    <id>https://kiyu.untamable.work/ja/Breath-of-Silence/</id>
-    <published>2019-09-25T02:48:37.000Z</published>
-    <updated>2019-10-31T05:44:02.000Z</updated>
+    <title>The story on a paper</title>
+    <link href="https://kiyu.untamable.work/The-story-on-a-paper/"/>
+    <id>https://kiyu.untamable.work/The-story-on-a-paper/</id>
+    <published>2019-11-27T13:35:27.000Z</published>
+    <updated>2021-02-08T05:18:04.934Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;静寂のすまうとこ&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;本作品は「静寂」をテーマに構成されており、静寂に反応する作品です。静かな状態が保たれている時、電球は徐々に明るくなり、明るくなりきるとスピーカが音を発します。その音はマイクとの間でループしながら、電球の明かりの減衰とともに消えていきます。しかし、静かな状態が保たれない状態では電球の明かりは暗く揺らぎ続け、明るくなることはありません。この様子は、まるで作品が静寂の中で呼吸し、生きているようにも見えます。&lt;br&gt;日常において、私たちは音がいきなり止まったり、突発的な音がなり終わった後に、そこにあった音に気づきます。例えば、空調が止まった時にそこにその音がなっていたことに気づくようなことです。本作品ではそのような音に対する私たちの知覚を誘発し、その場にある音を知覚させます。また、静寂が保たれていることを条件として正しく鑑賞できることは、鑑賞者のその空間の音に対する知覚を促します。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="drawing" scheme="https://kiyu.untamable.work//work/drawing/"/>
+    
+    
+      <category term="The paper on a paper" scheme="https://kiyu.untamable.work/tags/The-paper-on-a-paper/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Social Selection</title>
+    <link href="https://kiyu.untamable.work/en/social-selection/"/>
+    <id>https://kiyu.untamable.work/en/social-selection/</id>
+    <published>2019-11-15T04:41:25.000Z</published>
+    <updated>2021-02-08T11:40:25.234Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;“Personality consists of two aspects. One is what we can select, the other is what we cannot. However the society requires us to recognize it as good thing regardless of our intention.”&lt;/p&gt;
+&lt;p&gt;Social Selection means phenomena that social conditions influence on human lifespan, birth rate, and so on. In this work, I grasp this concept wider, focused on “personality.” The appreciators re-experienced the process by engaging this work.&lt;/p&gt;
+&lt;h3 id=&quot;Exhibition&quot;&gt;&lt;a href=&quot;#Exhibition&quot; class=&quot;headerlink&quot; title=&quot;Exhibition&quot;&gt;&lt;/a&gt;Exhibition&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://www.geikou.net/2020/04/06/【大芸工展2019出展作品】social-selection/&quot;&gt;Daigeikouten&lt;/a&gt;, KOBE Kiito Japan, 2019/11&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work&quot;&gt;mute the thrid exhibition&lt;/a&gt;, Fukuoka Japan, 2019/11&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
 &lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
 
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
     
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
     
-      <category term="installation" scheme="https://kiyu.untamable.work/work/installation/"/>
+      <category term="installation" scheme="https://kiyu.untamable.work//work/installation/"/>
+    
+      <category term="relational art" scheme="https://kiyu.untamable.work//work/relational-art/"/>
     
     
-      <category term="Breath of Silence" scheme="https://kiyu.untamable.work/tags/Breath-of-Silence/"/>
+      <category term="social selection" scheme="https://kiyu.untamable.work/tags/social-selection/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Social Selection</title>
+    <link href="https://kiyu.untamable.work/social-selection/"/>
+    <id>https://kiyu.untamable.work/social-selection/</id>
+    <published>2019-11-15T04:41:25.000Z</published>
+    <updated>2021-02-08T11:40:23.278Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;「個性は2つの要素から成り立っている。私たちが選べるものと選べないもの。しかし、私たちがそれを気に入っているかどうかに関わらず社会は良いものとしてそれを捉えることを要求する。」&lt;/p&gt;
+&lt;p&gt;Social Selection（社会淘汰）とは、社会的条件によって人間の寿命、出生率、死亡率が影響される現象のこと。この作品ではこの概念をより広いものとして捉え、「個性」に焦点を当てた。鑑賞者が作品に参加することを通してこのプロセスを追体験するようになっている。&lt;/p&gt;
+&lt;h3 id=&quot;展示会&quot;&gt;&lt;a href=&quot;#展示会&quot; class=&quot;headerlink&quot; title=&quot;展示会&quot;&gt;&lt;/a&gt;展示会&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://www.geikou.net/2020/04/06/【大芸工展2019出展作品】social-selection/&quot;&gt;大芸工展&lt;/a&gt;,　神戸KIITO, 2019/11&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work&quot;&gt;mute第三回展示会&lt;/a&gt;, 福岡, 2019/11&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="installation" scheme="https://kiyu.untamable.work//work/installation/"/>
+    
+      <category term="relational art" scheme="https://kiyu.untamable.work//work/relational-art/"/>
+    
+    
+      <category term="social selection" scheme="https://kiyu.untamable.work/tags/social-selection/"/>
     
   </entry>
   
@@ -113,26 +392,64 @@
 &lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work is consisted of a theme “silence” and reacts to silence. When silence is maintained, a light bubble is gradually getting light, reaches the maximum, then a loudspeaker produces a pulse noise. The sound loops between the loudspeaker and a microphone, attenuate along the light bubble is getting dark. On the other hand, when silence is not maintained, the bubble light wavers in a dark and is not getting light. This behavior looks like as if the work breath and has a life in silence.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. This work stimulates people to notice such sound and make people notice the sound existing there. What this work requires keeping silence to enjoy this work correctly also stimulates people to notice the sound in a space.&lt;/p&gt;
 &lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
 &lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
 &lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
 
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
     
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
     
-      <category term="installation" scheme="https://kiyu.untamable.work/work/installation/"/>
+      <category term="installation" scheme="https://kiyu.untamable.work//work/installation/"/>
+    
+    
+      <category term="Breath of Silence" scheme="https://kiyu.untamable.work/tags/Breath-of-Silence/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Breath of Silence</title>
+    <link href="https://kiyu.untamable.work/Breath-of-Silence/"/>
+    <id>https://kiyu.untamable.work/Breath-of-Silence/</id>
+    <published>2019-09-25T02:48:37.000Z</published>
+    <updated>2021-02-08T05:18:03.542Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;静寂のすまうとこ&lt;/p&gt;
+&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;本作品は「静寂」をテーマに構成されており、静寂に反応する作品です。静かな状態が保たれている時、電球は徐々に明るくなり、明るくなりきるとスピーカが音を発します。その音はマイクとの間でループしながら、電球の明かりの減衰とともに消えていきます。しかし、静かな状態が保たれない状態では電球の明かりは暗く揺らぎ続け、明るくなることはありません。この様子は、まるで作品が静寂の中で呼吸し、生きているようにも見えます。&lt;br&gt;日常において、私たちは音がいきなり止まったり、突発的な音がなり終わった後に、そこにあった音に気づきます。例えば、空調が止まった時にそこにその音がなっていたことに気づくようなことです。本作品ではそのような音に対する私たちの知覚を誘発し、その場にある音を知覚させます。また、静寂が保たれていることを条件として正しく鑑賞できることは、鑑賞者のその空間の音に対する知覚を促します。&lt;/p&gt;
+&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="installation" scheme="https://kiyu.untamable.work//work/installation/"/>
     
     
       <category term="Breath of Silence" scheme="https://kiyu.untamable.work/tags/Breath-of-Silence/"/>
@@ -141,10 +458,10 @@
   
   <entry>
     <title>link</title>
-    <link href="https://kiyu.untamable.work/ja/link/"/>
-    <id>https://kiyu.untamable.work/ja/link/</id>
+    <link href="https://kiyu.untamable.work/link/"/>
+    <id>https://kiyu.untamable.work/link/</id>
     <published>2019-09-11T05:41:45.000Z</published>
-    <updated>2020-02-17T02:44:51.000Z</updated>
+    <updated>2021-02-08T05:18:04.124Z</updated>
     
     <summary type="html">
     
@@ -152,7 +469,7 @@
       
         
         
-          &lt;h3 id=&quot;SNS&quot;&gt;&lt;a href=&quot;#SNS&quot; class=&quot;headerlink&quot; title=&quot;SNS&quot;&gt;&lt;/a&gt;SNS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/kyu_yukirinrin&quot; target=&quot;_blank&quot;
+          &lt;h3 id=&quot;SNS&quot;&gt;&lt;a href=&quot;#SNS&quot; class=&quot;headerlink&quot; title=&quot;SNS&quot;&gt;&lt;/a&gt;SNS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/kyu_yukirinrin&quot;&gt;twitter&lt;/a&gt;&lt;br&gt;&lt;a
         
       
     
@@ -175,7 +492,7 @@
       
         
         
-          &lt;h3 id=&quot;SNS&quot;&gt;&lt;a href=&quot;#SNS&quot; class=&quot;headerlink&quot; title=&quot;SNS&quot;&gt;&lt;/a&gt;SNS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/kyu_yukirinrin&quot; target=&quot;_blank&quot;
+          &lt;h3 id=&quot;SNS&quot;&gt;&lt;a href=&quot;#SNS&quot; class=&quot;headerlink&quot; title=&quot;SNS&quot;&gt;&lt;/a&gt;SNS&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/kyu_yukirinrin&quot;&gt;twitter&lt;/a&gt;&lt;br&gt;&lt;a
         
       
     
@@ -210,10 +527,10 @@
   
   <entry>
     <title>contact</title>
-    <link href="https://kiyu.untamable.work/ja/contact/"/>
-    <id>https://kiyu.untamable.work/ja/contact/</id>
+    <link href="https://kiyu.untamable.work/contact/"/>
+    <id>https://kiyu.untamable.work/contact/</id>
     <published>2019-09-11T05:30:06.000Z</published>
-    <updated>2019-09-11T05:34:19.000Z</updated>
+    <updated>2021-02-08T05:18:03.831Z</updated>
     
     <summary type="html">
     
@@ -233,10 +550,10 @@
   
   <entry>
     <title>about</title>
-    <link href="https://kiyu.untamable.work/ja/about/"/>
-    <id>https://kiyu.untamable.work/ja/about/</id>
+    <link href="https://kiyu.untamable.work/en/about/"/>
+    <id>https://kiyu.untamable.work/en/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:43:04.000Z</updated>
+    <updated>2021-02-08T10:47:50.869Z</updated>
     
     <summary type="html">
     
@@ -244,7 +561,7 @@
       
         
         
-          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
         
       
     
@@ -256,10 +573,10 @@
   
   <entry>
     <title>about</title>
-    <link href="https://kiyu.untamable.work/en/about/"/>
-    <id>https://kiyu.untamable.work/en/about/</id>
+    <link href="https://kiyu.untamable.work/about/"/>
+    <id>https://kiyu.untamable.work/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2019-09-11T05:42:45.000Z</updated>
+    <updated>2021-02-08T10:48:09.654Z</updated>
     
     <summary type="html">
     
@@ -267,7 +584,7 @@
       
         
         
-          &lt;h2 id=&quot;Kiyu-Nishida&quot;&gt;&lt;a href=&quot;#Kiyu-Nishida&quot; class=&quot;headerlink&quot; title=&quot;Kiyu Nishida&quot;&gt;&lt;/a&gt;Kiyu Nishida&lt;/h2&gt;&lt;h3 id=&quot;Bio&quot;&gt;&lt;a href=&quot;#Bio&quot;
+          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
         
       
     
@@ -293,20 +610,20 @@
 ## Image
 &lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
 
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
     
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
     
-      <category term="other" scheme="https://kiyu.untamable.work/work/other/"/>
+      <category term="other" scheme="https://kiyu.untamable.work//work/other/"/>
     
     
       <category term="Gear Piano" scheme="https://kiyu.untamable.work/tags/Gear-Piano/"/>
@@ -315,346 +632,37 @@
   
   <entry>
     <title>Gear Piano</title>
-    <link href="https://kiyu.untamable.work/ja/Gear-Piano/"/>
-    <id>https://kiyu.untamable.work/ja/Gear-Piano/</id>
+    <link href="https://kiyu.untamable.work/Gear-Piano/"/>
+    <id>https://kiyu.untamable.work/Gear-Piano/</id>
     <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2019-10-15T13:26:22.000Z</updated>
+    <updated>2021-02-08T05:18:04.006Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;⻭車の⻭と振動部が直接接触することによりアコースティックに音を発生する楽器.デジタル楽器では表現しにくいパルスの連続するような音を出すことができる.音程間の周波数比を⻭車の⻭数の比と対応させることにより音階を作っている.全ての⻭車が一体となって噛み合って動いているため，基本とな る回転数を変化させることにより，音階を保ったままキーを変化させることができる.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
 &lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
 
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
 
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
     
     </summary>
     
     
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
     
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
     
-      <category term="other" scheme="https://kiyu.untamable.work/work/other/"/>
+      <category term="other" scheme="https://kiyu.untamable.work//work/other/"/>
     
     
       <category term="Gear Piano" scheme="https://kiyu.untamable.work/tags/Gear-Piano/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sparkle</title>
-    <link href="https://kiyu.untamable.work/ja/Sparkle/"/>
-    <id>https://kiyu.untamable.work/ja/Sparkle/</id>
-    <published>2019-07-09T15:22:14.000Z</published>
-    <updated>2019-09-06T06:25:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;世界を覗く。&lt;br&gt;あぁ、人間は美しい&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;3つの覗き箱からなる作品です。作者は精神世界の「輝き」について表現しています。覗き箱は「祈りまたは入口」、「記憶」、「対話」と名付けられ順番に見ていくことを想定しており、「祈りまたは入口」ではよく見ないと、真っ暗に見えてしまうほどの小さな明かりがゆっくりと明るくなったり暗くなったりしています。「記憶」では、明るく力強い複数の光が箱の内側に抽象画のように像を作っています。「対話」では自分自身の瞳が照らされ、箱の中に映し出されます。&lt;br&gt;これらの作品とキャプションを通して作者は鑑賞者が精神の美しさについて考えることを促しています。そして作者自身の主張として人間の内的世界は美しいと述べています。&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute は『ミニマルでアナログな美しさ』をコンセプトに制作活動を行う団体&lt;br&gt;我々muteは、九州大学大橋キャンパスで制作活動を行なっていて感じた疑問点から『ミニマルでアナログな美』をコンセプトに創作活動・展示会を行なっています。&lt;br&gt;制作というものを考えてみると、表現したい事とそれを実現する方法について私たちは考えなければなりません。表現したい事という側面を見てみると、人それぞれに様々でしょう。しかし、方法となるとテレビモニターを使用した映像音響作品に偏っているように思えます。我々はそこに疑問を感じ、アナログという単語をコンセプトに用いました。テレビモニターの中だけでは終わらない、物理的、彫刻的な、体験する作品の制作を通して新たな表現に挑戦します。一方で、作品の内容について考えてみると、ついついたくさんの情報を入れ込んで、その本当に伝えたい主題がぼやけてしまうことが多々あります。我々はミニマルをコンセプトに掲げ主題について究極的に考えることで、ごまかしのきかない必要最小限の要素で構成された作品を制作し、その美を表現しようと試みています。&lt;br&gt;各展示会ごとに、サブテーマをもうけ、これと『ミニマルでアナログな美しさ』とを包含した作品を制作しています。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=jp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;muteウェブサイト&lt;/a&gt;&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="installation" scheme="https://kiyu.untamable.work/work/installation/"/>
-    
-    
-      <category term="Sparkle" scheme="https://kiyu.untamable.work/tags/Sparkle/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sparkle</title>
-    <link href="https://kiyu.untamable.work/en/Sparkle/"/>
-    <id>https://kiyu.untamable.work/en/Sparkle/</id>
-    <published>2019-07-09T15:22:14.000Z</published>
-    <updated>2019-09-06T06:24:25.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Look the world through holes.&lt;br&gt;Ah, human are beautiful.&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;This work consists of three peep boxes. The author expresses a “sparkle” of the mental world. Each of the peep boxes is named “pray or entrance,” “memory,” “dialogue.” Those three are supposed to watch in order. In “pray or entrance,” a tiny light that looks dark unless you look closely. In “memory,” multiple bright lights make as if abstract painting in the box. In “dialogue,” Your eye is illuminated and reflected on a wall in the box.&lt;br&gt;Through those works and a caption, the author encourages observers to consider the aesthetics of the mental. And, he claims the mental world of the human is beautiful.&lt;/p&gt;
-&lt;h3 id=&quot;mute&quot;&gt;&lt;a href=&quot;#mute&quot; class=&quot;headerlink&quot; title=&quot;mute&quot;&gt;&lt;/a&gt;mute&lt;/h3&gt;&lt;p&gt;mute exhibits our work with “minimal and analog aesthetics as theme.&lt;/p&gt;
-&lt;p&gt;The main theme of our group, mute, is “minimal and analog aesthetics”, we decided this theme based on questions which we found in our school.&lt;br&gt;To think about making something, we have to think about what we want to express and how we can do it. “What” would be various depend on persons, on the other hand when it comes to “how,” it seems to rely on audiovisual based on the TV monitor. We have a doubt on that point, so we used “analog” in our main theme. We challenge a new expression through creating physical, sculptural and experiencing works beyond the TV monitor. On the other hand, to think the content of our works, it tends to contain a lot of information and it causes the theme of the work are blurred. We set up “minimal” as one of our themes and are trying to express aesthetics by considering a lot and creating works consisted of minimal elements.&lt;br&gt;We set up a sub-theme each exhibition, creates works including it and “minimal and analog aesthetics.”&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://mute.untamable.work/index.html?lang=en&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;mute website&lt;/a&gt;&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="installation" scheme="https://kiyu.untamable.work/work/installation/"/>
-    
-    
-      <category term="Sparkle" scheme="https://kiyu.untamable.work/tags/Sparkle/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lost Connection</title>
-    <link href="https://kiyu.untamable.work/ja/Lost-Connection/"/>
-    <id>https://kiyu.untamable.work/ja/Lost-Connection/</id>
-    <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:29.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“Lost Connection”は、ネットに繋がっているという状態を表現したネットアートです。&lt;br&gt;この作品はインターネットが繋がっている状態では動きませんが、地下などインターネット接続が失われると動き出します。&lt;br&gt;htmlのvideoタグを使ったコラージュになっています。&lt;/p&gt;
-&lt;p&gt;この作品はdatプロトコルを利用した、peer-to-peer通信を使用して公開された。datはオープンWebのビジョンを実現するpeer-to-peer通信の一方式。Beakerというブラウザを用いてアクセスできる。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="other" scheme="https://kiyu.untamable.work/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu.untamable.work/work/net-art/"/>
-    
-    
-      <category term="Lost Connection" scheme="https://kiyu.untamable.work/tags/Lost-Connection/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lost Connection</title>
-    <link href="https://kiyu.untamable.work/en/Lost-Connection/"/>
-    <id>https://kiyu.untamable.work/en/Lost-Connection/</id>
-    <published>2019-02-05T15:20:58.000Z</published>
-    <updated>2019-09-06T04:50:14.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“Lost Connection” is a work that expresses the status of being connected to the Internet.&lt;br&gt;This work does not playback anything else if you are online, but once you lost connection like in a subway, the videos are played back.&lt;br&gt;This is a collage of video tag in HTML.&lt;/p&gt;
-&lt;p&gt;This work was published using the dat protocol which is a kind of peer-to-peer communication.&lt;br&gt;The dat is one of the ways to realize the vision of the open web.&lt;br&gt;You can access the dat using Beaker browser.&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="other" scheme="https://kiyu.untamable.work/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu.untamable.work/work/net-art/"/>
-    
-    
-      <category term="Lost Connection" scheme="https://kiyu.untamable.work/tags/Lost-Connection/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Silences</title>
-    <link href="https://kiyu.untamable.work/ja/Silences/"/>
-    <id>https://kiyu.untamable.work/ja/Silences/</id>
-    <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T04:49:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;「Silence ‒ 静寂 ‒ 」を題材としたコンセプチュアルアート。ネットアートとしてウェブ上で公開された。パソコンやスマートフォンなどのインターネットに接続できる端末から鑑賞することが可能。&lt;/p&gt;
-&lt;h3 id=&quot;作品解説&quot;&gt;&lt;a href=&quot;#作品解説&quot; class=&quot;headerlink&quot; title=&quot;作品解説&quot;&gt;&lt;/a&gt;作品解説&lt;/h3&gt;&lt;p&gt;「Silence ‒ 静寂 ‒」とは何かということがテーマとなっています。作品中、無音とノイズ、またそれらにそれぞれ対応した、黒画面と白画面&lt;br&gt;が不規則に繰り返されます。&lt;br&gt;私たちは、急に音が鳴ったり、急に音が止まったりした時に、そこにある / あった音に気づきます。例えばエアコンが止まった時に初めて、 ああエアコンの音がしていたんだ、エアコンがついていたんだな、と思うようなことです。このような音の知覚は多くの人が経験したことが あると思います。 本作品ではそのような、そこにある・あった音の知覚をノイズと無音、そしてそれと対応させた視覚情報によって作り出し、鑑賞者が音があ るということ、音がないということとはどういうことなのかなど思考することを喚起します。&lt;/p&gt;
-&lt;h3 id=&quot;作品形態&quot;&gt;&lt;a href=&quot;#作品形態&quot; class=&quot;headerlink&quot; title=&quot;作品形態&quot;&gt;&lt;/a&gt;作品形態&lt;/h3&gt;&lt;p&gt;本作品は、ウェブプラットフォームに即したアート作品としてブラウザで動作し、また URL を開くだけで誰でも鑑賞が可能な作品形態をと りました。パソコンやスマートフォンを用いて誰もがどこでも作品を鑑賞できます。それぞれの端末上で表現された作品は、鑑賞する場所の 風景・音と呼応し、鑑賞者に作用します。&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm はインターネットサーフクラブ文化から影響を受けたウェブアートプラットフォーム。dat プロトコルを使用した利用した peer-to-peer 通信を使用している。dat はオープン Web のビジョンを実現する peer-to-peer 通信の一方式。Beaker というブラウザを用いてア クセスできる。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="other" scheme="https://kiyu.untamable.work/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu.untamable.work/work/net-art/"/>
-    
-    
-      <category term="Silences" scheme="https://kiyu.untamable.work/tags/Silences/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Silences</title>
-    <link href="https://kiyu.untamable.work/en/Silences/"/>
-    <id>https://kiyu.untamable.work/en/Silences/</id>
-    <published>2018-12-24T15:21:19.000Z</published>
-    <updated>2019-09-06T05:22:42.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This work is a conceptual net art whose theme is the “silence” and published on the Internet.&lt;br&gt;This work can be enjoyed by devices that can connect the Internet such as computers and smartphones.&lt;/p&gt;
-&lt;h3 id=&quot;Commentary&quot;&gt;&lt;a href=&quot;#Commentary&quot; class=&quot;headerlink&quot; title=&quot;Commentary&quot;&gt;&lt;/a&gt;Commentary&lt;/h3&gt;&lt;p&gt;The theme of this work is what is the “silence.” In the work, the silence and noise, and also black screen and white screen that correspond to each one are irregularly repeated.&lt;br&gt;When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.&lt;br&gt;This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.&lt;/p&gt;
-&lt;h3 id=&quot;Format&quot;&gt;&lt;a href=&quot;#Format&quot; class=&quot;headerlink&quot; title=&quot;Format&quot;&gt;&lt;/a&gt;Format&lt;/h3&gt;&lt;p&gt;This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one’s device.&lt;br&gt;The work presented one’s device influences the sound scenery there and affect observers.&lt;/p&gt;
-&lt;h3 id=&quot;Floating-Swarm&quot;&gt;&lt;a href=&quot;#Floating-Swarm&quot; class=&quot;headerlink&quot; title=&quot;Floating Swarm&quot;&gt;&lt;/a&gt;Floating Swarm&lt;/h3&gt;&lt;p&gt;Floating Swarm is a web art platform that was influenced by the culture of the internet surf club. This is established on the dat protocol which is one of the peer-to-peer protocol which realizes the vision of the open web. You can access the dat using the Beaker browser.&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="other" scheme="https://kiyu.untamable.work/work/other/"/>
-    
-      <category term="net art" scheme="https://kiyu.untamable.work/work/net-art/"/>
-    
-    
-      <category term="Silences" scheme="https://kiyu.untamable.work/tags/Silences/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>border</title>
-    <link href="https://kiyu.untamable.work/ja/border/"/>
-    <id>https://kiyu.untamable.work/ja/border/</id>
-    <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-20T09:50:18.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;スピーカードームでのアンビソニックによる3D音響を使った体の動きに反応する楽器による ライブパフォーマンスと観客のスマートフォンを通してみるリアルタイムなARを融合させた作品 です。近未来のライブパフォーマンスの可能性に今ある技術で挑戦しました。&lt;/p&gt;
-&lt;h3 id=&quot;現実と虚構&quot;&gt;&lt;a href=&quot;#現実と虚構&quot; class=&quot;headerlink&quot; title=&quot;現実と虚構&quot;&gt;&lt;/a&gt;現実と虚構&lt;/h3&gt;&lt;p&gt;現実と虚構との境目はなんでしょう。VRやARといった技術は虚構を現実に溶け込ませることを可能にしました。近いうちにこれらの技術はより発達し、私たちがそれが現実のものなのか虚構なのかわからなくなるほどになるかもしれません。このようなことは明らかに私たちの世界と表現を拡 張します。&lt;/p&gt;
-&lt;p&gt;他方、近年の通信技術の発展は映像をほとんど遅延なく送信できるようになりました。今までは実際に放送されてから受信するまで30秒ほどだったものが、1秒以内まで縮まりつつあります。すなわち、放送側と受信側の相互コミュニケーションが可能となるということです。&lt;/p&gt;
-&lt;p&gt;これら、ARや高速な通信技術は明らかに私たちの体験を変えて行くでしょう。&lt;br&gt;この作品では、webRTC webAR webAudio を用いて近未来のパフォーマンスを表現しました。&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="performance" scheme="https://kiyu.untamable.work/work/performance/"/>
-    
-    
-      <category term="border" scheme="https://kiyu.untamable.work/tags/border/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>border</title>
-    <link href="https://kiyu.untamable.work/en/border/"/>
-    <id>https://kiyu.untamable.work/en/border/</id>
-    <published>2018-10-05T09:31:25.000Z</published>
-    <updated>2019-09-20T09:50:30.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;This piece consists of two parts. One is the live performance which is the ambisonic 3D audio controlled by body music instrument. The other is AR (augmented reality) which can watch through smartphones which audience have. This piece is a challenge for the possibility of live performance in the near future.&lt;/p&gt;
-&lt;h3 id=&quot;Reality-and-Fiction&quot;&gt;&lt;a href=&quot;#Reality-and-Fiction&quot; class=&quot;headerlink&quot; title=&quot;Reality and Fiction&quot;&gt;&lt;/a&gt;Reality and Fiction&lt;/h3&gt;&lt;p&gt;What is the “border” between reality and fiction. VR or AR made it possible to integrate fiction into our real world. In the near future, these technologies will develop more, might make it possible not to be able to distinguish fiction from real. These technologies absolutely expand our world and expression.&lt;/p&gt;
-&lt;p&gt;On the other hand, the development of communication technology is making it possible to broadcast video with low latency. So far, we received a video about in 30 seconds behind transmitting, but now, we can receive in 1 second. It means we can interact between broadcaster and receiver in real time.&lt;/p&gt;
-&lt;p&gt;These technologies will gradually change our experience.&lt;br&gt;In this piece, I expressed the futuristic live performance using webRTC, webAR and webAudio.&lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/video_id&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work/news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work/work/"/>
-    
-      <category term="performance" scheme="https://kiyu.untamable.work/work/performance/"/>
-    
-    
-      <category term="border" scheme="https://kiyu.untamable.work/tags/border/"/>
     
   </entry>
   

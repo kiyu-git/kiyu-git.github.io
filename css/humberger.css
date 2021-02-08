@@ -1,10 +1,10 @@
 /*チェックボックス等は非表示に*/
-.nav-unshown {
+.nav-unshown, .sidebar input {
   display:none;
 }
-#nav-content {
+/* #nav-content {
   padding-top: 50px;
-}
+} */
 
 @media (max-width: 1000px) {
   #nav-content>ul{
@@ -64,7 +64,6 @@
   #nav-content {
     overflow: auto;
     position: fixed;
-    top: 0;
     left: 0;
     z-index: 9999;/*最前面に*/
     /* width: 90%;/*右側に隙間を作る（閉じるカバーを表示）*/

@@ -1,53 +1,63 @@
 <!DOCTYPE html>
 <html>
-<head><meta name="generator" content="Hexo 3.9.0">
+<head>
   
 
   
-  <title>Kiyu</title>
+  <title>Kiyu website</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <link rel="alternate" hreflang="ja" href="/ja/">
+  <link rel="alternate" hreflang="ja" href="/">
   <link rel="alternate" hreflang="en" href="/en/">
-  <meta name="description" content="created by Kiyu Nishida">
+  <meta name="description" content="created by Kiyu">
 <meta property="og:type" content="article">
 <meta property="og:title" content="link">
 <meta property="og:url" content="https://kiyu.untamable.work/en/link/index.html">
-<meta property="og:site_name" content="Kiyu">
-<meta property="og:description" content="created by Kiyu Nishida">
-<meta property="og:locale" content="en">
-<meta property="og:updated_time" content="2020-02-17T02:45:11.000Z">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="link">
-<meta name="twitter:description" content="created by Kiyu Nishida">
+<meta property="og:site_name" content="Kiyu website">
+<meta property="og:description" content="created by Kiyu">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://kiyu.untamable.work/en/link/top.jpg">
+<meta property="article:published_time" content="2019-09-11T05:41:37.000Z">
+<meta property="article:modified_time" content="2020-02-17T02:45:11.000Z">
+<meta property="article:author" content="Kiyu Nishida">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kiyu.untamable.work/en/link/top.jpg">
 <meta name="twitter:creator" content="@kyu_yukirinrin">
   
   
   
-    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   
   <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/slider-pro/1.5.0/css/slider-pro.min.css" rel="stylesheet">
+  <link rel="alternate" href="/atom.xml" title="Kiyu" type="application/atom+xml">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slider-pro/1.5.0/js/jquery.sliderPro.min.js"></script>
   <script src="https://kit.fontawesome.com/52728bdb71.js"></script>
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/humberger.css">
-  <script src="/js/main.js"></script>
-</head>
-</html>
-  <body>
-    
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<link rel="stylesheet" href="/css/humberger.css">
+
+  
+<script src="/js/main.js"></script>
+
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+
+<body>
+  
 <header>
-  <h3><a href="/en/work/">Kiyu Nishida</a></h3>
-  <div class="language_choice"><a id="lang_ja" href="/ja/link/">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/en/link/">en.</a></div>
+  <h3><a href="/en/">Kiyu Nishida</a></h3>
+  <div class="language_choice"><a id="lang_ja" href="/link/">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/en/link/">en.</a></div>
   <label id="nav-open" for="nav-input"><span></span></label>
   <label class="nav-unshown" id="nav-close" for="nav-input"></label>
 </header>
 
-    <div class="contents">
-      
-<div class="sidebar">
+  <div class="contents">
+    
+<div class="sidebar left_column">
   <nav>
     <div id="nav-drawer">
       <input id="nav-input" type="checkbox" class="nav-unshown">
@@ -58,13 +68,44 @@
         <!-- <li><a href="/en/news/">news</a></li> -->
         <li><a href="/en/link/">link</a></li>
         <li><a href="/en/contact/">contact</a></li>
-        <li><a href="/en/work/">work</a></li>
+        <li onmouseover="category_select(this, 'unhover_all')"><a href="/en/">work</a></li>
         <ul>
-          <li><a href="/en/work/video/">video</a></li>
-          <li><a href="/en/work/performance/">performance</a></li>
-          <li><a href="/en/work/installation/">installation</a></li>
-          <li><a href="/en/work/direction/">direction</a></li>
-          <li><a href="/en/work/other/">other</a></li>
+          
+          <li>
+            <label id="installation_label" class="sub_category" for="installation" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">installation</a></label>
+            <input name="sub_category" type="radio" id="installation">
+          </li>
+          
+          <li>
+            <label id="performance_label" class="sub_category" for="performance" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">performance</a></label>
+            <input name="sub_category" type="radio" id="performance">
+          </li>
+          
+          <li>
+            <label id="video_label" class="sub_category" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">video</a></label>
+            <input name="sub_category" type="radio" id="video">
+          </li>
+          
+          <li>
+            <label id="net-art_label" class="sub_category" for="net-art" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">net-art</a></label>
+            <input name="sub_category" type="radio" id="net-art">
+          </li>
+          
+          <li>
+            <label id="sculpture_label" class="sub_category" for="sculpture" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">sculpture</a></label>
+            <input name="sub_category" type="radio" id="sculpture">
+          </li>
+          
+          <li>
+            <label id="direction_label" class="sub_category" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">direction</a></label>
+            <input name="sub_category" type="radio" id="direction">
+          </li>
+          
+          <li>
+            <label id="3D-Audio_label" class="sub_category" for="3D-Audio" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/en/#">3D-Audio</a></label>
+            <input name="sub_category" type="radio" id="3D-Audio">
+          </li>
+          
         </ul>
       </ul>
     </div>
@@ -72,19 +113,22 @@
   </nav>
 </div>
 
-      <div class="main">
-        <div class="post-work">
-  <h3 id="SNS"><a href="#SNS" class="headerlink" title="SNS"></a>SNS</h3><p><a href="https://twitter.com/kyu_yukirinrin" target="_blank" rel="noopener">twitter</a><br><a href="https://www.instagram.com/kyu_yukirinrin/" target="_blank" rel="noopener">instagram</a><br><a href="https://fav.untamable.work/" target="_blank" rel="noopener">favorites</a><br><br><br></p>
-<h3 id="Blog"><a href="#Blog" class="headerlink" title="Blog"></a>Blog</h3><p><a href="https://qiita.com/kiyu_knowledges" target="_blank" rel="noopener">Qiita</a><br><a href="https://note.mu/thinking_kiyu" target="_blank" rel="noopener">note</a><br><br><br></p>
-<h3 id="Community"><a href="#Community" class="headerlink" title="Community"></a>Community</h3><p><a href="http://mute.untamable.work" target="_blank" rel="noopener">mute</a></p>
+    <div class="main"><div class="post-work">
+  <h3 id="SNS"><a href="#SNS" class="headerlink" title="SNS"></a>SNS</h3><p><a target="_blank" rel="noopener" href="https://twitter.com/kyu_yukirinrin">twitter</a><br><a target="_blank" rel="noopener" href="https://www.instagram.com/kyu_yukirinrin/">instagram</a><br><a target="_blank" rel="noopener" href="https://fav.untamable.work/">favorites</a><br><br><br></p>
+<h3 id="Blog"><a href="#Blog" class="headerlink" title="Blog"></a>Blog</h3><p><a target="_blank" rel="noopener" href="https://qiita.com/kiyu_knowledges">Qiita</a><br><a target="_blank" rel="noopener" href="https://note.mu/thinking_kiyu">note</a><br><br><br></p>
+<h3 id="Community"><a href="#Community" class="headerlink" title="Community"></a>Community</h3><p><a target="_blank" rel="noopener" href="http://mute.untamable.work">mute</a></p>
 
 </div>
-
-      </div>
-    </div>
-    <!-- <footer>
-      <p>Copyright 2019</p>
-      <h2>Kiyu</h2>
-    </footer> -->
-  </body>
+</div>
+    <div class="right_column"></div>
+  </div>
+  <footer>
+    <!-- <p>Copyright 2019</p>
+    <h2>Kiyu</h2>-->
+  </footer> 
+  <script>
+    // make meta og image
+    $('meta[name="twitter:image"]')[0].content = $('img').map(function(i){return this.src})[0]
+  </script>
+</body>
 </html>

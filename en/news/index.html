@@ -1,69 +1,109 @@
 <!DOCTYPE html>
 <html>
-<head><meta name="generator" content="Hexo 3.9.0">
+<head>
   
 
   
-  <title>news | Kiyu</title>
+  <title>news | Kiyu website</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <link rel="alternate" hreflang="ja" href="/ja/">
+  <link rel="alternate" hreflang="ja" href="/">
   <link rel="alternate" hreflang="en" href="/en/">
-  <meta name="description" content="created by Kiyu Nishida">
+  <meta name="description" content="created by Kiyu">
 <meta property="og:type" content="website">
 <meta property="og:title" content="news">
 <meta property="og:url" content="https://kiyu.untamable.work/en/news/index.html">
-<meta property="og:site_name" content="Kiyu">
-<meta property="og:description" content="created by Kiyu Nishida">
-<meta property="og:locale" content="ja">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="news">
-<meta name="twitter:description" content="created by Kiyu Nishida">
+<meta property="og:site_name" content="Kiyu website">
+<meta property="og:description" content="created by Kiyu">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:image" content="https://kiyu.untamable.work/en/news/top.jpg">
+<meta property="article:author" content="Kiyu Nishida">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://kiyu.untamable.work/en/news/top.jpg">
 <meta name="twitter:creator" content="@kyu_yukirinrin">
   
   
   
-    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   
   <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP&display=swap" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/slider-pro/1.5.0/css/slider-pro.min.css" rel="stylesheet">
+  <link rel="alternate" href="/atom.xml" title="Kiyu" type="application/atom+xml">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slider-pro/1.5.0/js/jquery.sliderPro.min.js"></script>
   <script src="https://kit.fontawesome.com/52728bdb71.js"></script>
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/humberger.css">
-  <script src="/js/main.js"></script>
-</head>
-</html>
-  <body>
-    
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<link rel="stylesheet" href="/css/humberger.css">
+
+  
+<script src="/js/main.js"></script>
+
+
+<meta name="generator" content="Hexo 5.3.0"></head>
+
+<body>
+  
 <header>
-  <h3><a href="/en/work/">Kiyu Nishida</a></h3>
-  <div class="language_choice"><a id="lang_ja" href="/ja/news/index.html">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/en/news/index.html">en.</a></div>
+  <h3><a href="/">Kiyu Nishida</a></h3>
+  <div class="language_choice"><a id="lang_ja" href="/news/">ja.</a>&nbsp;&nbsp;&nbsp;<a id="lang_en" href="/en/news/">en.</a></div>
   <label id="nav-open" for="nav-input"><span></span></label>
   <label class="nav-unshown" id="nav-close" for="nav-input"></label>
 </header>
 
-    <div class="contents">
-      
-<div class="sidebar">
+  <div class="contents">
+    
+<div class="sidebar left_column">
   <nav>
     <div id="nav-drawer">
       <input id="nav-input" type="checkbox" class="nav-unshown">
 
       <div id="nav-content">
         <ul>
-        <li><a href="/en/about/">about</a></li>
-        <!-- <li><a href="/en/news/">news</a></li> -->
-        <li><a href="/en/link/">link</a></li>
-        <li><a href="/en/contact/">contact</a></li>
-        <li><a href="/en/work/">work</a></li>
+        <li><a href="/about/">about</a></li>
+        <!-- <li><a href="/news/">news</a></li> -->
+        <li><a href="/link/">link</a></li>
+        <li><a href="/contact/">contact</a></li>
+        <li onmouseover="category_select(this, 'unhover_all')"><a href="/">work</a></li>
         <ul>
-          <li><a href="/en/work/video/">video</a></li>
-          <li><a href="/en/work/performance/">performance</a></li>
-          <li><a href="/en/work/installation/">installation</a></li>
-          <li><a href="/en/work/direction/">direction</a></li>
-          <li><a href="/en/work/other/">other</a></li>
+          
+          <li>
+            <label id="installation_label" class="sub_category" for="installation" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">installation</a></label>
+            <input name="sub_category" type="radio" id="installation">
+          </li>
+          
+          <li>
+            <label id="performance_label" class="sub_category" for="performance" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">performance</a></label>
+            <input name="sub_category" type="radio" id="performance">
+          </li>
+          
+          <li>
+            <label id="video_label" class="sub_category" for="video" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">video</a></label>
+            <input name="sub_category" type="radio" id="video">
+          </li>
+          
+          <li>
+            <label id="net-art_label" class="sub_category" for="net-art" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">net-art</a></label>
+            <input name="sub_category" type="radio" id="net-art">
+          </li>
+          
+          <li>
+            <label id="sculpture_label" class="sub_category" for="sculpture" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">sculpture</a></label>
+            <input name="sub_category" type="radio" id="sculpture">
+          </li>
+          
+          <li>
+            <label id="direction_label" class="sub_category" for="direction" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">direction</a></label>
+            <input name="sub_category" type="radio" id="direction">
+          </li>
+          
+          <li>
+            <label id="3D-Audio_label" class="sub_category" for="3D-Audio" onmouseover="category_select(this, 'hover')" onmouseout="category_select(this, 'unhover')"><a href="/#">3D-Audio</a></label>
+            <input name="sub_category" type="radio" id="3D-Audio">
+          </li>
+          
         </ul>
       </ul>
     </div>
@@ -71,84 +111,95 @@
   </nav>
 </div>
 
-      <div class="main">
-        <!-- <h1>This is category.ejs</h1> -->
+    <div class="main"><!-- <h1>This is category.ejs</h1> -->
 
 <div class="news">
   
-          <li>2020-02-17:&nbsp;&nbsp;&nbsp;<a href="/en/Communication-plus/">Communication+</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Aloe-vera-Synthesizer/">アロエベラシンセサイザー</a></li>
       
-          <li>2019-11-27:&nbsp;&nbsp;&nbsp;<a href="/en/The-story-on-a-paper/">The story on a paper</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Watcher/">Watcher</a></li>
       
-          <li>2019-10-31:&nbsp;&nbsp;&nbsp;<a href="/en/Breath-of-Silence/">Breath of Silence</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/social-selection/">Social Selection</a></li>
       
-          <li>2019-10-15:&nbsp;&nbsp;&nbsp;<a href="/en/Gear-Piano/">Gear Piano</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Display-Stand/">展示台</a></li>
       
-          <li>2019-09-20:&nbsp;&nbsp;&nbsp;<a href="/en/border/">border</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Latest-Romances/">Latest Romances</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/Sparkle/">Sparkle</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Silences/">Silences</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/Silences/">Silences</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/IanniX-Max-MSP/">IanniX + Max/MSP 20mシャトルラン</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/Lost-Connection/">Lost Connection</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Warmth/">あたたかみ</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/SPATIAL-STUDY-BETWEEN-SOUNDS-VOICE/">SPATIAL STUDY BETWEEN SOUNDS & VOICE</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/voice/">voice</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/twitter-visualization/">overview</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/twitter-visualization/">俯瞰</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/Warmth/">Warmth</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Trial-No-3/">Trial No.3</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/This-is-move/">This is move.</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Touch/">手にとる</a></li>
       
-          <li>2019-09-06:&nbsp;&nbsp;&nbsp;<a href="/en/The-train-going-in-waterside/">The train going in a waterside</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/This-is-move/">This is move.</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/voice/">voice</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/The-train-going-in-waterside/">水辺をゆく列車</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Trial-No-3/">Trial No.3</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/The-story-on-a-paper/">ある紙の上の物語</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Touch/">Touch</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/The-City/">The City</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/CBA-project-2017-freshman-welcome-show-CM/">CBA project 2017 freshman welcome show CM</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Spiral/">Spiral</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/The-City/">The City</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/SPATIAL-STUDY-BETWEEN-SOUNDS-VOICE/">SPATIAL STUDY BETWEEN SOUNDS & VOICE</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Spiral/">Spiral</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Sparkle/">輝き</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Rubens-tube/">Rubens' tube</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Rubens-tube/">ルーベンスチューブ</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Notation-for-a-watch/">Notation for a watch</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Notation-for-a-watch/">時計のための図形楽譜</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/My-various-aspects/">My various aspects</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Nature/">ネイチャー</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Nature/">Nature</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/My-various-aspects/">私の多面性</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/IanniX-Max-MSP/">IanniX + Max/MSP</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Lost-Connection/">Lost Connection</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Coexistence-and-Harmony/">Coexistence and Harmony</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Lemon-Light/">レモンライト</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Lemon-Light/">Lemon Light</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Gear-Piano/">歯車ピアノ</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/ForestLight/">Light Forest</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/ForestLight/">光の森</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/encore/">encore</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/encore/">encore</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Communication/">Communication</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Communication-plus/">Communication+</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Adventure-of-Mr-Spring-1/">Adventure of Mr.Spring #1</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Coexistence-and-Harmony/">共生と調和</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/antenna/">Fractal antenna as a sculpture</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/CBA-project-2017-freshman-welcome-show-CM/">CBA project 2017 新入生歓迎公演 CM</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Adventure-of-Mr-Spring-Garally/">Adventure of Mr.Spring Garally</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Breath-of-Silence/">Breath of Silence</a></li>
       
-          <li>2019-09-05:&nbsp;&nbsp;&nbsp;<a href="/en/Adventure-of-Mr-Spring-2/">Adventure of Mr.Spring #2</a></li>
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/border/">border</a></li>
+      
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/antenna/">彫刻としてのフラクタルアンテナ</a></li>
+      
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Adventure-of-Mr-Spring-Garally/">ミスタースプリングの冒険 ギャラリー</a></li>
+      
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Adventure-of-Mr-Spring-2/">ミスタースプリングの冒険 第二話</a></li>
+      
+          <li>2021-02-08:&nbsp;&nbsp;&nbsp;<a href="/Adventure-of-Mr-Spring-1/">ミスタースプリングの冒険 第一話</a></li>
       
 </div>
-
-      </div>
-    </div>
-    <!-- <footer>
-      <p>Copyright 2019</p>
-      <h2>Kiyu</h2>
-    </footer> -->
-  </body>
+</div>
+    <div class="right_column"></div>
+  </div>
+  <footer>
+    <!-- <p>Copyright 2019</p>
+    <h2>Kiyu</h2>-->
+  </footer> 
+  <script>
+    // make meta og image
+    $('meta[name="twitter:image"]')[0].content = $('img').map(function(i){return this.src})[0]
+  </script>
+</body>
 </html>
