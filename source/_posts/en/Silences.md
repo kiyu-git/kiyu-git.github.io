@@ -24,6 +24,11 @@ The theme of this work is what is the "silence." In the work, the silence and no
 When the sound is suddenly stopped or produced, we can notice the sound existing there. For example, when an air conditioner is stopped, we can notice the sound of the air conditioner and there is/was the sound. Many people would have this kind of perception of a sound.
 This work reminds us to think about the meaning that there is a sound or not to represent that kind of perception of a sound that exists/ existed there and the screens which correspond to the sounds.
 
+### Exhitbision
+This work was recreated and exhibited at “A.G.E. Exhibition” at Gallery Enlace, Fukuoka, Japan as “Silences Fixed.”
+ 
+"Silences Fixed", A.G.E. Exhibition, Fukuoka Japan, 2019/10
+
 ### Format
 This work was created as a net art that runs on a web browser, so everybody can watch it everywhere by clicking the URL with one's device.
 The work presented one's device influences the sound scenery there and affect observers.

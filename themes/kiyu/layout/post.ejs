@@ -56,11 +56,11 @@
           }
         }) %>
         <li><%= __('post.format') %>: <%- format %></li>
-        <% if(page.medium){%><li><%= __('post.media') %>: <%- page.medium %></li><% }%>
+        <% if(page.medium){%><li><%= __('post.media') %>: <%- page.medium.map(item => " "+item) %></li><% }%>
         <% if(page.duration){%><li><%= __('post.duration') %>: <%- moment(page.duration, "hh:mm:ss").format("mm:ss") %></li><% }%>
         <% if(page.date){%><li><%= __('post.when') %>: <%- page.date.format("YYYY-MM") %></li><% }%>
         <% if(page.where){%><li><%= __('post.where') %>: <%- page.where %></li><% }%>
-        <% if(page.other){%><p class="other"><%- page.other %></p><% }%>
+        <% if(page.other){%><p class="other"><p><%- page.other %></p></p><% }%>
       </div>
     </div>
   </div>

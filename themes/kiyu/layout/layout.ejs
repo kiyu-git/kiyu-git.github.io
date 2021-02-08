@@ -8,9 +8,13 @@
     <div class="main"><%- body %></div>
     <div class="right_column"></div>
   </div>
-  <!-- <footer>
-    <p>Copyright 2019</p>
-    <h2>Kiyu</h2>
-  </footer> -->
+  <footer>
+    <!-- <p>Copyright 2019</p>
+    <h2>Kiyu</h2>-->
+  </footer> 
+  <script>
+    // make meta og image
+    $('meta[name="twitter:image"]')[0].content = $('img').map(function(i){return this.src})[0]
+  </script>
 </body>
 </html>

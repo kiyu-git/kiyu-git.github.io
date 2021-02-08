@@ -7,16 +7,59 @@ lang: en
 ## Kiyu Nishida
 ### Bio.
 Born in Tokyo, 1996.
-From 2015, he studies the "sound" from various points of view such as physic, psychology, physiology, cultural history, arts and so on at the department of acoustic design, school of design in Kyushu University, Japan.
-He creates many video works using 3DCG and also produces theatrical arts whose theme is "freedom from suppression."
+From 2015, he studies the “sound” from various points of view such as physic, psychology, physiology, cultural history, arts and so on at the department of acoustic design, school of design in Kyushu University, Japan.
+He creates many video works using 3DCG and also produces theatrical arts whose theme is “freedom from suppression.”
 
 From 2018, he mainly studies 3D audio and net art for one year as an international student at Karlsruhe University of Arts and Design in Germany.
-He focuses on the relationship between a performer and audiences in a concert situation and the possibility of expanding a concert and creates interactive works that use 3D audio provided by speaker dome and audiences' smartphone in a concert.
+He focuses on the relationship between a performer and audiences in a concert situation and the possibility of expanding a concert and creates interactive works that use 3D audio provided by speaker dome and audiences’ smartphone in a concert.
 Also, he creates works as a net art that influences on a public space whose concept can not be achieved by a conventional museum art form.
 
-After returning to Japan, he realizes the importance of a community that secures the environment to create artworks, so he founds two student communities. One is "mute" whose concept is to create artworks that have minimal and analog aesthetics. The other is "jack" which creates artworks for a public space.
-He is mainly active in those two communities now.
+After returning to Japan, he realizes the importance of a community that secures the environment to create artworks, so he founds two student communities. One is “mute” whose concept is to create artworks that have minimal and analog aesthetics. The other is “jack” which creates artworks for a public space.
+From 2020, he studies at Institute of Advanced Media Arts and Sciences(IAMAS).
 <br><br>
 
 ### Main programming skill
-Max/MSP Jitter, JavaScript (Node.js), HTML, CSS
+Max/MSP Jitter, JavaScript (Node.js), HTML, CSS, Processing
+
+### Awards
+
+Kiyu Nishida, "Communication+", ADAA2018 (Asia Digital Art Award) FUKUOKA Student Category / interactive art department, 2018/11.
+Kiyu Nishida, "Communication+", ISCA2019 (International Student Creative Award) Digital Contents Department, 2019/12．
+Kiyu Nishida, "Breath of Silence", KDCC2020 (Kitakyushu Digital Creator Contest), 2020/3
+
+### Papers
+
+#### Peer-reviewed
+
+K. Nishida, A. Yuguchi, kazuhiro jo, P. Modler, and M. Noisternig. Bor-der: A live performance based on web ar and a gesture-controlled virtual instrument. In M. Queiroz and A. X. Sed ́o, editors,Proceedings of the Inter-national Conference on New Interfaces for Musical Expression, pages 43–46,Porto Alegre, Brazil, June 2019. UFRGS.
+
+K. Nishida and k. jo. Modules for analog synthesizers using aloe verabiomemristor. In R. Michon and F. Schroeder, editors,Proceedings of theInternational Conference on New Interfaces for Musical Expression, pages93–96, Birmingham, UK, July 2020. Birmingham City University.
+
+#### Non peer-reviewed
+
+西田騎夕, 城一裕, "Border: webARとジェスチャー制御による仮想楽器を用いたライブパフォーマンス", 情報処理学会 第123回音楽情報科学・第127回音声言語情報処理合同研究発表会, 京都, 2019/6.
+西田騎夕, 城一裕, "バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ", 第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28, 2019/12.
+
+### Presentations
+
+Kiyu Nishida and Anina Land,  ["SPATIAL STUDY BETWEEN SOUNDS & VOICE"](../en/SPATIAL-STUDY-BETWEEN-SOUNDS-VOICE), Rundgang 2018, Karlsruhe Germany, 2018/7
+Kiyu Nishida, ["Communication"](../en/Communication),  Rundgang 2018,  Karlsruhe Germany, 2018/8
+Kiyu Nishida, ["Communication+"](../en/Communication-plus), KAMUNA Karlsuruhe Museum Night 2018,  Karlsruhe Germany, 2018/8
+Kiyu Nishida, ["Border"](../en/Border), Beyond Festival 2018,  Karlsruhe Germany, 2018/10
+Kiyu Nishida, ["Silences"](../en/Silences),  Karlsruhe Germany, 2018/12
+Kiyu Nishida, ["Lost Connection"](../en/Lost-Connection),  Karlsruhe Germany, 2018/12
+Kiyu Nishida, "Latest Romances",  DADADATA, Karlsruhe Germany, 2019/02
+Kiyu Nishida, ["Sparkle"](../en/Sparkle), mute the first exhinition "Luminescence", Fukuoka Japan, 2019/07
+Kiyu Nishida, ["Gear Piano"](../en/Gear-Piano), TMF Tokyo Maker Fair 2019, Tokyo Japan, 2019/08
+Kiyu Nishida, "Breath of Silence", mute the second exhibition "Silence", Fukuoka Japan, 2019/09
+Kiyu Nishida, ["Silences Fixed"](../en/Silences), A.G.E. Exhibition, Fukuoka Japan, 2019/10
+Kiyu Nishida, ["Social Selection"](../en/Social-Selection), Daigeikouten 2019, Kobe Japan, 2019/11
+Kiyu Nishida, ["Social Selection"](../en/Social-Selection), mute the third exhibition, Ohashi Campus Kushu University, 2019/11
+Kiyu Nishida, ["Communication+"](../en/Communication-plus), ISCA2019, Osaka Japan, 2019/11
+Kiyu Nishida, "Untitled", ICSAF 2019 (Intercollegiate Sonic Arts Festival), Saitama Japan, 2019/12
+Kiyu Nishida, Nxpc. Live vol.38 KID×IAMAS, Fukuoka Japan, 2019/12
+jack fountain, ["Watcher"](../en/Watcher), Fukuoka Japan, 2020/3
+kiyu & nagai, Nxpc. Lab vol.44 INFECTION, Gifu Japan, 2020/7
+kiyu & LUDO Takebe, Nxpc. Lab vol.46 X 1/2, Gifu Japan, 2020/10
+Kiyu Nishida, Open Studio "Media Creation Foundation 5%4", Gifu Japan, 2020/10
+IAMAS Acoustic Media Creation Lab, "Aloe vera Synthesizer", Ogaki Mini Maker Faire 2020, Gifu Japan, 2020/12
