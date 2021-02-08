@@ -5,7 +5,7 @@
       // 言語がpageとpostで一致
       if(post.categories.some(category => category.name === 'work')){
         // カテゴリーがwork
-        const categories = post.categories.map(category => category.slug).filter(item => item.includes("work/")).filter(item => !item.includes("other")).map(item => item.replace("work/", ""))
+        const categories = post.categories.map(category => category.slug).filter(item => item.includes("work/") && !item.includes("other")).map(item => item.replace("work/", ""))
   %>
     <div class="index-work work_category <%- categories %>">
       <a href="<%-  url_for(post.path) %>">

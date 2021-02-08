@@ -63,6 +63,8 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
+## custom
+sub_category_min_length: 1 # show on side bar
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
