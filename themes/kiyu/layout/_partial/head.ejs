@@ -18,13 +18,21 @@
     title = __('tag') + ': ' + page.tag;
   }
 
+  let cover_image_path;
+  if(page.cover_image){
+    cover_image_path = url_for( page.path.replace("en/", "") + "/" + page.cover_image)
+  }else{
+    // 最新のwork
+    cover_image_path = site.posts.sort("-date").filter(post => post.categories.some(category => category.name === "work")).map(post => post.path)[0].replace("en", "") + "top.jpg"
+  }
+
   %>
   <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="alternate" hreflang="ja" href="<%-url_for('/')%>">
   <link rel="alternate" hreflang="en" href="<%-url_for('en/')%>">
-  <%- open_graph({twitter_id: "kyu_yukirinrin", twitter_card: "summary_large_image", image:"top.jpg", title: title, description: "created by Kiyu"}) %>
+  <%- open_graph({twitter_id: "kyu_yukirinrin", twitter_card: "summary_large_image", image:cover_image_path, title: title, description: "created by Kiyu"}) %>
   <% if (theme.rss){ %>
   <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
   <% } %>

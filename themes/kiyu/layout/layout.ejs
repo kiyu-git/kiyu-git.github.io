@@ -8,13 +8,17 @@
     <div class="main"><%- body %></div>
     <div class="right_column"></div>
   </div>
-  <footer>
-    <!-- <p>Copyright 2019</p>
+   <footer>
+    <!--<p>Copyright 2019</p>
     <h2>Kiyu</h2>-->
   </footer> 
   <script>
     // make meta og image
-    $('meta[name="twitter:image"]')[0].content = $('img').map(function(i){return this.src})[0]
+    if($('meta[name="twitter:image"]')[0].content.includes("NULL")){
+      let img_path = $('img').filter(function(i){return this.src.includes("top.jpg")}).map(function(i){return this.src})[0]
+      $('meta[name="twitter:image"]')[0].content = img_path;
+      $('meta[property="og:image"]')[0].content = img_path;
+    }
   </script>
 </body>
 </html>
