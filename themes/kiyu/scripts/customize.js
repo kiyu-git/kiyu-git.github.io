@@ -1,10 +1,11 @@
-hexo.extend.filter.register('before_post_render', function(data){
-    const { config } = this;
-    if(data.lang == config.language_default){
-        data.lang = ""
-    }
-    return data
-  });
+// hexo.extend.filter.register('before_post_render', function(data){
+//     const { config } = this;
+//     if(data.lang == config.language_default){
+//         data.lang = "" // en/ja/になる？？
+//     }
+//     console.log(data.lang, data.path, data.permalink, data.full_source)    
+//     return data
+//   });
 // hexo.extend.filter.register('before_generate', function(data){
 //     const { config } = this;
 //     if(data.lang == config.language_default){
