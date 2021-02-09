@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiyu.untamable.work/"/>
-  <updated>2021-02-08T13:07:01.192Z</updated>
+  <updated>2021-02-09T04:29:51.178Z</updated>
   <id>https://kiyu.untamable.work/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>404</title>
+    <link href="https://kiyu.untamable.work/404.html"/>
+    <id>https://kiyu.untamable.work/404.html</id>
+    <published>2021-02-09T04:26:19.651Z</published>
+    <updated>2021-02-09T04:29:51.178Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;ページが見つかりませんでした。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Aloe_vera_Synthesizer</title>
@@ -605,44 +629,6 @@
     
       &lt;p&gt;work in progress.&lt;/p&gt;
 &lt;p&gt;This musical instrument produces sound when teeth of a gear touch a vibrating plate. It can make like a concatenation of pulse sound which is not easy to produce in digital. A musical scale is represented by fitting a duty of musical interval to a duty of the number of teeth. All gears work mesh each other, so you can change the pitch of a sound by changing the fundamental number of revolution.  &lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
-    
-      <category term="other" scheme="https://kiyu.untamable.work//work/other/"/>
-    
-      <category term="musical instrument" scheme="https://kiyu.untamable.work//work/musical-instrument/"/>
-    
-    
-      <category term="Gear Piano" scheme="https://kiyu.untamable.work/tags/Gear-Piano/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gear Piano</title>
-    <link href="https://kiyu.untamable.work/Gear-Piano/"/>
-    <id>https://kiyu.untamable.work/Gear-Piano/</id>
-    <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2021-02-08T17:37:26.147Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;現在進行中のプロジェクト&lt;br&gt;&lt;a href=&quot;https://note.mu/thinking_kiyu/n/n7847a293b2ed&quot;&gt;歯車ピアノ　制作中&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;⻭車の⻭と振動部が直接接触することによりアコースティックに音を発生する楽器.デジタル楽器では表現しにくいパルスの連続するような音を出すことができる.音程間の周波数比を⻭車の⻭数の比と対応させることにより音階を作っている.全ての⻭車が一体となって噛み合って動いているため，基本とな る回転数を変化させることにより，音階を保ったままキーを変化させることができる.&lt;/p&gt;
 &lt;!--
 # Tag Plugins
 ## Image
