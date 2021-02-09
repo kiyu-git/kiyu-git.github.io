@@ -189,13 +189,5 @@
     <!--<p>Copyright 2019</p>
     <h2>Kiyu</h2>-->
   </footer> 
-  <script>
-    // make meta og image
-    if($('meta[name="twitter:image"]')[0].content.includes("NULL")){
-      let img_path = $('img').filter(function(i){return this.src.includes("top.jpg")}).map(function(i){return this.src})[0]
-      $('meta[name="twitter:image"]')[0].content = img_path;
-      $('meta[property="og:image"]')[0].content = img_path;
-    }
-  </script>
 </body>
 </html>
