@@ -27,12 +27,16 @@ Max/MSP Jitter, JavaScript (Node.js), HTML, CSS, Processing
 
 ### 論文
 #### 査読あり
-K. Nishida, A. Yuguchi, kazuhiro jo, P. Modler, and M. Noisternig. Bor-der: A live performance based on web ar and a gesture-controlled virtual instrument. In M. Queiroz and A. X. Sed ́o, editors,Proceedings of the Inter-national Conference on New Interfaces for Musical Expression, pages 43–46,Porto Alegre, Brazil, June 2019. UFRGS.
-K. Nishida and k. jo. Modules for analog synthesizers using aloe verabiomemristor. In R. Michon and F. Schroeder, editors,Proceedings of theInternational Conference on New Interfaces for Musical Expression, pages93–96, Birmingham, UK, July 2020. Birmingham City University.
+K. Nishida, A. Yuguchi, kazuhiro jo, P. Modler, and M. Noisternig. Bor-der: A live performance based on web ar and a gesture-controlled virtual instrument. In M. Queiroz and A. X. Sed ́o, editors,Proceedings of the Inter-national Conference on New Interfaces for Musical Expression, pages 43–46,Porto Alegre, Brazil, June 2019. UFRGS. [pdf](https://www.nime.org/proceedings/2019/nime2019_paper009.pdf)
+
+K. Nishida and k. jo. Modules for analog synthesizers using aloe verabiomemristor. In R. Michon and F. Schroeder, editors,Proceedings of theInternational Conference on New Interfaces for Musical Expression, pages93–96, Birmingham, UK, July 2020. Birmingham City University.[pdf](https://www.nime.org/proceedings/2020/nime2020_paper18.pdf)
 
 #### 査読なし
-西田騎夕,城一裕,"Border: webARとジェスチャー制御による仮想楽器を用いたライブパフォーマンス",情報処理学会 第123回音楽情報科学・第127回音声言語情報処理合同研究発表会,京都,2019/6.
-西田騎夕,城一裕,"バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ",第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28,2019/12.
+西田騎夕, 城一裕, "Border: webARとジェスチャー制御による仮想楽器を用いたライブパフォーマンス", 情報処理学会 第123回音楽情報科学・第127回音声言語情報処理合同研究発表会,京都, 2019/6. [pdf](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=197831&item_no=1)
+
+西田騎夕, 城一裕, "バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ", 第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28, 2019/12. [pdf](http://data.jssa.info/paper/2019v11n03/6.Nishida.pdf)
+
+西田騎夕, "アロエベラを素材とするバイオメモリスタを用いた アナログシンセサイザーモジュールの検討 ", 第44回JSSA先端芸術音楽創作学会 会報 Vol.13 No.1 pp.40–46, 2021/2. [pdf](http://data.jssa.info/paper/2021v13n01/7.Nishida.pdf)
 
 ### 作品発表
 Kiyu Nishida and Anina Land, ["SPATIAL STUDY BETWEEN SOUNDS & VOICE"](../SPATIAL-STUDY-BETWEEN-SOUNDS-VOICE), Rundgang 2018, ドイツ カールスルーエ, 2018/7
@@ -50,10 +54,13 @@ Kiyu Nishida, "Latest Romances", DADADATA, ドイツ カールスルーエ,2019/
 西田騎夕, ["Social Selection"](../Social-Selection), mute第三回展示会,大橋キャンパス,2019/11
 西田騎夕, ["Communication+"](../Communication-plus), ISCA2019,大阪,2019/11
 西田騎夕, "Untitled", ICSAF 2019インターカレッジ・ソニックアーツ・フェスティバル, 埼玉, 2019/12
-西田騎夕, Nxpc. Live vol.38 KID×IAMAS, 福岡, 2019/12
+kiyu × 絢瀬和, NxPC. Live vol.38 KID×IAMAS, 福岡, 2019/12 [アーカイブ](https://youtu.be/1cJufA7e2Fg?t=21)
 jack噴水, ["Watcher"](../Watcher), 福岡, 2020/3
-kiyu & nagai, Nxpc. Lab vol.44 INFECTION, 岐阜, 2020/7
-kiyu & LUDO Takebe, Nxpc. Lab vol.46 X 1/2, 岐阜, 2020/10
+kiyu & nagai, NxPC. Lab vol.44 INFECTION, 岐阜, 2020/7 [アーカイブ](https://youtu.be/02UimldBTug?t=3384)
+kiyu & LUDO Takebe, NxPC. Lab vol.46 X 1/2, 岐阜, 2020/10 [アーカイブ](https://youtu.be/K1mf-Nx5LL8?t=1127)
 西田騎夕,オープンスタジオ 『メディア表現基礎5%4』, 岐阜, 2020/10
-情報科学芸術大学院大学 音響表現研究室, "Aloe vera Synthesizer", Ogaki Mini Maker Faire 2020, 岐阜, 2020/12
+情報科学芸術大学院大学 音響表現研究室, "Aloe vera Synthesizer", Ogaki Mini Maker Faire 2020, 岐阜, 2020/12 [アーカイブ](https://youtu.be/V_oX2PDdcG0?t=1888)
 西田騎夕, "歩行練習", [Archival Archetyping Exhibition 2020](https://archival-archetyping.github.io/exhibition-2020/), 2020/12
+もっとsexy n hotになりたい, NxPC. Lab vol.47 Graduation Exhibition, 岐阜, 2021/2 [アーカイブ](https://youtu.be/7LAeQY35Wa4?t=518)
+西田騎夕, "[生の音色](https://www.iamas.ac.jp/exhibit21/project/life-ethnography/timbre-of-life/)", IAMAS 2021, 2021/2
+西田騎夕, "歩行練習", [Archival Archetyping Exhibition in IAMAS 2021](https://archival-archetyping.github.io/iamas-2021/), 2021/2

@@ -29,11 +29,14 @@ kiyu & LUDO Takebe, Nxpc. Lab vol.46 X 1/2，岐阜，2020/10
 情報科学芸術大学院大学 音響表現研究室, “Aloe vera Synthesizer”, Ogaki Mini Maker Faire 2020，岐阜，2020/12
 
 #### 論文
-西田騎夕，城一裕，“バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ”，第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28，2019/12.
+西田騎夕, 城一裕, "バイオメモリスタを用いたモジュラーシンセの開発とそれによる音楽表現の拡張の検討 ", 第40回JSSA先端芸術音楽創作学会 会報 Vol.11 No.3 pp.22–28, 2019/12. [pdf](http://data.jssa.info/paper/2019v11n03/6.Nishida.pdf)
 
 西田騎夕, “アロエベラを素材とするバイオメモリスタを用いたモジュラーシンセの検討”, 九州大学 芸術工学部 音響設計学科 2019年度後期 卒業論文, 2020/1
 
 K. Nishida and k. jo. Modules for analog synthesizers using aloe verabiomemristor. In R. Michon and F. Schroeder, editors,Proceedings of theInternational Conference on New Interfaces for Musical Expression, pages93–96, Birmingham, UK, July 2020. Birmingham City University. [pdf](https://www.nime.org/proceedings/2020/nime2020_paper18.pdf)
+
+西田騎夕, "アロエベラを素材とするバイオメモリスタを用いた アナログシンセサイザーモジュールの検討 ", 第44回JSSA先端芸術音楽創作学会 会報 Vol.13 No.1 pp.40–46, 2021/2. [pdf](http://data.jssa.info/paper/2021v13n01/7.Nishida.pdf)
+
 <!--
 # Tag Plugins
 ## Image
