@@ -64,3 +64,4 @@ kiyu & LUDO Takebe, NxPC. Lab vol.46 X 1/2, 岐阜, 2020/10 [アーカイブ](ht
 もっとsexy n hotになりたい, NxPC. Lab vol.47 Graduation Exhibition, 岐阜, 2021/2 [アーカイブ](https://youtu.be/7LAeQY35Wa4?t=518)
 西田騎夕, "[生の音色](https://www.iamas.ac.jp/exhibit21/project/life-ethnography/timbre-of-life/)", IAMAS 2021, 2021/2
 西田騎夕, "歩行練習", [Archival Archetyping Exhibition in IAMAS 2021](https://archival-archetyping.github.io/iamas-2021/), 2021/2
+西田騎夕, "歩行練習", [メタ・モ（ニュ）メント2021](https://archival-archetyping.github.io/meta-mo-nu-ment-2021/), 2021/3

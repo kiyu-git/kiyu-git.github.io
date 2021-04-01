@@ -68,3 +68,4 @@ Kiyu Nishida, "Gait Training", [Archival Archetyping Exhibition 2020](https://ar
 もっとsexy n hotになりたい, NxPC. Lab vol.47 Graduation Exhibition, Gifu Japan, 2021/2 [Archive](https://youtu.be/7LAeQY35Wa4?t=518)
 Kiyu Nishida, "[Timbre of Life](https://www.iamas.ac.jp/exhibit21/project/life-ethnography/timbre-of-life/)", IAMAS 2021, 2021/2
 Kiyu Nishida, "Gait Training", [Archival Archetyping Exhibition in IAMAS 2021](https://archival-archetyping.github.io/iamas-2021/), 2021/2
+Kiyu Nishida, "Gait Training", [メタ・モ（ニュ）メント2021](https://archival-archetyping.github.io/meta-mo-nu-ment-2021/), 2021/3
