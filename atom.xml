@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kiyu.untamable.work/"/>
-  <updated>2021-02-09T04:56:47.863Z</updated>
+  <updated>2021-04-01T08:21:18.342Z</updated>
   <id>https://kiyu.untamable.work/</id>
   
   <author>
@@ -15,6 +15,80 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>歩行練習</title>
+    <link href="https://kiyu.untamable.work/Gait-Training/"/>
+    <id>https://kiyu.untamable.work/Gait-Training/</id>
+    <published>2021-03-31T01:47:47.000Z</published>
+    <updated>2021-04-01T08:21:18.342Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;歩行練習&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;新しい土地に置かれても僕たちはすぐに慣れていく。引っ越してきた当初は発見の多かった生活も半年以上が経つと日常となる。僕たちは無意識のうちにこの土地に慣らされているのだ。それでも季節がもたらすゆらぎや移動による変化の中で僕たちはこの土地を思い返し、慣れてきたことに気づく。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;《歩行練習》はTwitterへの毎日の投稿をプリントアウトしてもらうことで、手紙を届けるプロジェクトである。すべての投稿を以下のリンクから辿り、手紙をプリントアウトして欲しい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Gait_Training&quot;&gt;https://twitter.com/Gait_Training&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;展示&quot;&gt;&lt;a href=&quot;#展示&quot; class=&quot;headerlink&quot; title=&quot;展示&quot;&gt;&lt;/a&gt;展示&lt;/h3&gt;&lt;p&gt;本作品は2020年12月から継続的に行われているプロジェクトであり、展示会ごとに形態を変化させながら現在まで続けられている。&lt;br&gt;西田騎夕, “歩行練習”, &lt;a href=&quot;https://archival-archetyping.github.io/exhibition-2020/&quot;&gt;Archival Archetyping Exhibition 2020&lt;/a&gt;, 2020/12&lt;br&gt;西田騎夕, “歩行練習”, &lt;a href=&quot;https://archival-archetyping.github.io/iamas-2021/&quot;&gt;Archival Archetyping Exhibition in IAMAS 2021&lt;/a&gt;, 2021/2&lt;br&gt;西田騎夕, “歩行練習”, &lt;a href=&quot;https://archival-archetyping.github.io/meta-mo-nu-ment-2021/&quot;&gt;メタ・モ（ニュ）メント2021&lt;/a&gt;, 2021/3&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="net art" scheme="https://kiyu.untamable.work//work/net-art/"/>
+    
+    
+      <category term="Gait Training" scheme="https://kiyu.untamable.work/tags/Gait-Training/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gait Training</title>
+    <link href="https://kiyu.untamable.work/en/Gait-Training/"/>
+    <id>https://kiyu.untamable.work/en/Gait-Training/</id>
+    <published>2021-03-31T01:47:46.000Z</published>
+    <updated>2021-04-01T08:19:26.093Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Gait Training&lt;/p&gt;
+&lt;!--
+# Tag Plugins
+## Image
+&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
+
+&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
+
+&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
+    
+      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
+    
+      <category term="net art" scheme="https://kiyu.untamable.work//work/net-art/"/>
+    
+    
+      <category term="Gait Training" scheme="https://kiyu.untamable.work/tags/Gait-Training/"/>
+    
+  </entry>
   
   <entry>
     <title>404</title>
@@ -585,7 +659,7 @@
     <link href="https://kiyu.untamable.work/en/about/"/>
     <id>https://kiyu.untamable.work/en/about/</id>
     <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2021-02-25T04:58:21.653Z</updated>
+    <updated>2021-04-01T01:46:08.132Z</updated>
     
     <summary type="html">
     
@@ -600,67 +674,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>about</title>
-    <link href="https://kiyu.untamable.work/about/"/>
-    <id>https://kiyu.untamable.work/about/</id>
-    <published>2019-08-30T04:18:15.000Z</published>
-    <updated>2021-02-25T04:58:18.469Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;西田騎夕&quot;&gt;&lt;a href=&quot;#西田騎夕&quot; class=&quot;headerlink&quot; title=&quot;西田騎夕&quot;&gt;&lt;/a&gt;西田騎夕&lt;/h2&gt;&lt;h3 id=&quot;略歴&quot;&gt;&lt;a href=&quot;#略歴&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Gear Piano</title>
-    <link href="https://kiyu.untamable.work/en/Gear-Piano/"/>
-    <id>https://kiyu.untamable.work/en/Gear-Piano/</id>
-    <published>2019-08-04T00:59:14.000Z</published>
-    <updated>2021-02-08T17:38:25.152Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;work in progress.&lt;/p&gt;
-&lt;p&gt;This musical instrument produces sound when teeth of a gear touch a vibrating plate. It can make like a concatenation of pulse sound which is not easy to produce in digital. A musical scale is represented by fitting a duty of musical interval to a duty of the number of teeth. All gears work mesh each other, so you can change the pitch of a sound by changing the fundamental number of revolution.  &lt;/p&gt;
-&lt;!--
-# Tag Plugins
-## Image
-&lt;img src=&quot;/path/to/image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] title text &quot; alt=&quot;alt text&quot;&gt;
-
-&lt;h2 id=&quot;Link&quot;&gt;&lt;a href=&quot;#Link&quot; class=&quot;headerlink&quot; title=&quot;Link&quot;&gt;&lt;/a&gt;Link&lt;/h2&gt;&lt;a href=&quot;&quot; title=&quot;&quot; target=&quot;&quot;&gt;text url [external] [title]&lt;/a&gt;
-
-&lt;h2 id=&quot;YouTube&quot;&gt;&lt;a href=&quot;#YouTube&quot; class=&quot;headerlink&quot; title=&quot;YouTube&quot;&gt;&lt;/a&gt;YouTube&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/video_id&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Vimeo&quot;&gt;&lt;a href=&quot;#Vimeo&quot; class=&quot;headerlink&quot; title=&quot;Vimeo&quot;&gt;&lt;/a&gt;Vimeo&lt;/h2&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/video_id,[width],[height]&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
-    
-    
-      <category term="news" scheme="https://kiyu.untamable.work//news/"/>
-    
-      <category term="work" scheme="https://kiyu.untamable.work//work/"/>
-    
-      <category term="other" scheme="https://kiyu.untamable.work//work/other/"/>
-    
-      <category term="musical instrument" scheme="https://kiyu.untamable.work//work/musical-instrument/"/>
-    
-    
-      <category term="Gear Piano" scheme="https://kiyu.untamable.work/tags/Gear-Piano/"/>
     
   </entry>
   
